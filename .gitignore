@@ -27,6 +27,9 @@ frontend/haf-sync/last-sync-report.json
 # 旧仓库备份（2026-10-05 并入前的 HAF-agent git 历史，仅本机留存）
 archive/HAF-agent-git-backup/
 
+# 年度创新论文草稿（2026-10-05 起草，按用户要求不随代码仓库归档）
+docs/paper/
+
 # 临时/系统
 *.tmp
 Thumbs.db
