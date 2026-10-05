@@ -1,0 +1,33 @@
+# 虚拟环境
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PDF 附件缓存（体积大，可重新下载）
+data/pdf/
+
+# 密钥与本地配置（勿入库；模板见 config.example.json）
+config.local.json
+*api*.txt
+
+# LLM 结果缓存（可重生成，避免仓库膨胀）
+data/llm_cache/
+
+# L3 中间产物（约 10MB，可由 L3 一键重生成）
+data/parsed_records.json
+
+# 前端 L5：云同步密钥与依赖（haf-sync 目录内另有独立 .gitignore，此处兜底）
+frontend/haf-sync/config.json
+frontend/haf-sync/node_modules/
+frontend/haf-sync/last-sync-report.json
+
+# 旧仓库备份（2026-10-05 并入前的 HAF-agent git 历史，仅本机留存）
+archive/HAF-agent-git-backup/
+
+# 临时/系统
+*.tmp
+Thumbs.db
+.DS_Store

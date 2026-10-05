@@ -1,0 +1,889 @@
+﻿registry_scope_id,version_id,license_id,单位名称,单位所在国,活动类别,设备类别,设备品种,核安全级别,备注,源页码
+RL29d6392c4bV01-S001,L29d6392c4bV01,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,设计,阀门,安全阀（弹簧式）,1、2、3级,主要分包项目：抗震试验、流量排量试验。,12
+RL29d6392c4bV01-S002,L29d6392c4bV01,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,设计,阀门,安全阀（弹簧式）,2、3级,主要分包项目：抗震试验、流量排量试验。,12
+RL29d6392c4bV01-S003,L29d6392c4bV01,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,设计,阀门,其他类型核安全级阀,2、3级,主要分包项目：抗震试验、流量排量试验。,12
+RL29d6392c4bV01-S004,L29d6392c4bV01,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,制造,阀门,安全阀（弹簧式）,1、2、3级,主要分包项目：理化检验、射线检验和超声检验。,12
+RL29d6392c4bV01-S005,L29d6392c4bV01,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,制造,阀门,安全阀（弹簧式）,2、3级,主要分包项目：理化检验、射线检验和超声检验。,12
+RL29d6392c4bV01-S006,L29d6392c4bV01,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,制造,阀门,其他类型核安全级阀,2、3级,主要分包项目：理化检验、射线检验和超声检验。,12
+RL29d6392c4bV02-S001,L29d6392c4bV02,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,设计,阀门,安全阀（弹簧式）,1级,"1.设计活动场所：55 Cabo t Boulevard Mansfield, MA 02048； 2.分包项目：抗震试验和 流量、排量试验。",1
+RL29d6392c4bV02-S002,L29d6392c4bV02,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,设计,阀门,安全阀（弹簧式）,2级,"1.设计活动场所：55 Cabo t Boulevard Mansfield, MA 02048； 2.分包项目：抗震试验和 流量、排量试验。",1
+RL29d6392c4bV02-S003,L29d6392c4bV02,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,设计,阀门,安全阀（弹簧式）,2、3级,"1.设计活动场所：55 Cabo t Boulevard Mansfield, MA 02048； 2.分包项目：抗震试验和 流量、排量试验。",1
+RL29d6392c4bV02-S004,L29d6392c4bV02,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,制造,阀门,安全阀（弹簧式）,1级,"1.制造活动场所：55 Cabo t Boulevard Mansfield, MA 02048； 2.分包项目：理化检验、 射线检验、泄漏检验和超 声检验。",1
+RL29d6392c4bV02-S005,L29d6392c4bV02,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,制造,阀门,安全阀（弹簧式）,2级,"1.制造活动场所：55 Cabo t Boulevard Mansfield, MA 02048； 2.分包项目：理化检验、 射线检验、泄漏检验和超 声检验。",1
+RL29d6392c4bV02-S006,L29d6392c4bV02,L29d6392c4b,Emerson Automation Solutions Final Control US LP,美国,制造,阀门,安全阀（弹簧式）,2、3级,"1.制造活动场所：55 Cabo t Boulevard Mansfield, MA 02048； 2.分包项目：理化检验、 射线检验、泄漏检验和超 声检验。",1
+RL8b86f54171V01-S001,L8b86f54171V01,L8b86f54171,"Mirion Technologies(Conax Nuclear),Inc.",美国,设计,电气贯穿件,电气贯穿件,1E级,无,8
+RL8b86f54171V01-S002,L8b86f54171V01,L8b86f54171,"Mirion Technologies(Conax Nuclear),Inc.",美国,制造,电气贯穿件,电气贯穿件,1E级,无,8
+RL8b86f54171V02-S001,L8b86f54171V02,L8b86f54171,"Mirion Technologies(Conax Nuclear),Inc.",美国,设计,电气贯穿件,电气贯穿件,1E级,"设计活动场所： 402 Sonwil Drive Cheektowaga, NY 14225。",1
+RL8b86f54171V02-S002,L8b86f54171V02,L8b86f54171,"Mirion Technologies(Conax Nuclear),Inc.",美国,制造,电气贯穿件,电气贯穿件,1E级,"制造活动场所： 402 Sonwil Drive Cheektowaga, NY 14225。",1
+RLd2cbf6ec6dV01-S001,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,仪控系统机柜,中子仪表系统机柜（NIS）,1E级(安全壳外),"设计活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S002,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,仪控系统机柜,反应堆保护系统机柜 （RPS）,1E级(安全壳外),"设计活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S003,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,传感器,中子探测器（源量程、中间量程、功率量程）,1E级(安全壳内),"设计活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S004,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,传感器,压力/差压变送器,1E级(安全壳内),"设计活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S005,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,仪控系统机柜,中子仪表系统机柜（NIS）,1E级(安全壳外),"制造活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S006,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,仪控系统机柜,反应堆保护系统机柜 （RPS）,1E级(安全壳外),"制造活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S007,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,传感器,中子探测器（源量程、中间量程、功率量程）,1E级(安全壳内),"制造活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S008,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,传感器,压力/差压变送器,1E级(安全壳内),"制造活动场所：23 Chemin du Vieux Chêne 38240 Meylan,France。",9
+RLd2cbf6ec6dV01-S009,Ld2cbf6ec6dV01,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,管道和管配件,热交换器传热管,1、2、3级,制造活动场所： 5 Avenue du Maréchal Leclerc21500 Mon tbard。,10
+RLd2cbf6ec6dV02-S001,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,压力容器,反应堆压力容器，稳压器,1级,1.设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie和2 Rue Alphonse Poitevin 71380 Saint-Marcel； 2.主要分包项目：抗震试验。,1
+RLd2cbf6ec6dV02-S002,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,热交换器,蒸汽发生器等,1级,1.设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie和2 Rue Alphonse Poitevin 71380 Saint-Marcel； 2.主要分包项目：抗震试验。,1
+RLd2cbf6ec6dV02-S003,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,阀门,安全阀,2级,1.设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie； 2.主要分包项目：抗震试验。,1
+RLd2cbf6ec6dV02-S004,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,泵,离心泵,1级,"1.设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie和27 Rue de l'lndustrie,59460 Jeumont； 2.主要分包项目：抗震试验。",1
+RLd2cbf6ec6dV02-S005,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,控制棒驱动机构,耐压壳,1级,"1.设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie和27 Rue de l'lndustrie,59460 Jeumont； 2.主要分包项目：抗震试验。",1
+RLd2cbf6ec6dV02-S006,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计,控制棒驱动机构,驱动机构,3级,"1.设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie和27 Rue de l'lndustrie,59460 Jeumont； 2.主要分包项目：抗震试验。",1
+RLd2cbf6ec6dV02-S007,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,压力容器,反应堆压力容器，稳压器,1级,1.制造活动场所：2 Rue Alphonse Poitevin 71380 Saint-Marcel； 2.主要分包项目：化学分析。,2
+RLd2cbf6ec6dV02-S008,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,热交换器,蒸汽发生器等,1级,1.制造活动场所：2 Rue Alphonse Poitevin 71380 Saint-Marcel； 2.主要分包项目：化学分析。,2
+RLd2cbf6ec6dV02-S009,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,泵,离心泵,1级,"1.制造活动场所：27 Rue de l'lndustrie,59460 Jeumont； 2.主要分包项目：化学分析。",2
+RLd2cbf6ec6dV02-S010,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,铸锻件,蒸汽发生器锻件,1级,1.制造活动场所：6 Allée Jean Perrin 71200 Le Creusot； 2.主要分包项目：化学分析。,2
+RLd2cbf6ec6dV02-S011,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,制造,管道和管配件,热交换器传热管,1、2、3级,制造活动场所: 5 Avenue du Mar é chal Leclerc 21500 Montbard。,2
+RLd2cbf6ec6dV02-S012,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie。,2
+RLd2cbf6ec6dV02-S013,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,仪控系统机柜,仪控盘、台、屏、箱,1E级（安全壳外）,设计活动场所：Tour Areva 1 place Jean Millier 92400 Courbevoie。,2
+RLd2cbf6ec6dV02-S014,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,仪控系统机柜,中子仪表系统机柜 (NIS),1E级（安全壳外）,"设计活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV02-S015,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,仪控系统机柜,反应堆保护系统机柜 (RPS),1E级（安全壳外）,"设计活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV02-S016,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,传感器,中子探测器(源量程、中间量程、功率量程),1E级（安全壳内）,"设计活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV02-S017,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,传感器,压力/差压变送器,1E级（安全壳内）,"设计活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV02-S018,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,仪控系统机柜,中子仪表系统机柜 (NIS),1E级（安全壳外）,"制造活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV02-S019,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,仪控系统机柜,反应堆保护系统机柜 (RPS),1E级（安全壳外）,"制造活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV02-S020,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,传感器,中子探测器(源量程、中间量程、功率量程),1E级（安全壳内）,"制造活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV02-S021,Ld2cbf6ec6dV02,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,传感器,压力/差压变送器,1E级（安全壳内）,"制造活动场所:23 Chemin du Vieux Chêne 38240 Meylan,France。",2
+RLd2cbf6ec6dV03-S001,Ld2cbf6ec6dV03,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,控制棒驱动机构,控制棒驱动机构,1级,"1.制造活动场所：27 Rue de l'lndustrie,59460 Jeumont, France； 2.分包项目：化学分析。",3
+RLd2cbf6ec6dV03-S002,Ld2cbf6ec6dV03,Ld2cbf6ec6d,FRAMATOME SAS,法国,设计、制造,控制棒驱动机构,控制棒驱动机构,3级,"1.制造活动场所：27 Rue de l'lndustrie,59460 Jeumont, France； 2.分包项目：化学分析。",3
+RLd225534d42V01-S001,Ld225534d42V01,Ld225534d42,Centronic Limited,英国,设计,传感器,核测仪表,1E级（安全壳内）,无,9
+RLd225534d42V01-S002,Ld225534d42V01,Ld225534d42,Centronic Limited,英国,制造,传感器,核测仪表,1E级（安全壳内）,无,9
+RLd225534d42V02-S001,Ld225534d42V02,Ld225534d42,Centronic Limited,英国,设计,传感器,核测仪表,1E级（安全壳内）,"设计活动场所： 267 King Henrys Drive, Croydon,CR9 0BG。",1
+RLd225534d42V02-S002,Ld225534d42V02,Ld225534d42,Centronic Limited,英国,制造,传感器,核测仪表,1E级（安全壳内）,"制造活动场所： 267 King Henrys Drive, Croydon,CR9 0BG。",1
+RLd16307a66fV01-S001,Ld16307a66fV01,Ld16307a66f,Hoppecke Batterien GmbH & Co.KG,德国,设计,电源设备,蓄电池(组),1E级（安全壳外）,容量范围:75Ah～4140Ah。,7
+RLd16307a66fV01-S002,Ld16307a66fV01,Ld16307a66f,Hoppecke Batterien GmbH & Co.KG,德国,制造,电源设备,蓄电池(组),1E级（安全壳外）,容量范围:75Ah～4140Ah。,7
+RLd16307a66fV02-S001,Ld16307a66fV02,Ld16307a66f,Hoppecke Batterien GmbH & Co.KG,德国,设计,电源设备,蓄电池（组）,1E级（安全壳外）,1.设计活动场所： Bontkirchner Str.1 D-59929 Brilon； 2.容量范围：75Ah～ 4140Ah。,3
+RLd16307a66fV02-S002,Ld16307a66fV02,Ld16307a66f,Hoppecke Batterien GmbH & Co.KG,德国,制造,电源设备,蓄电池（组）,1E级（安全壳外）,1.制造活动场所： Bontkirchner Str.1 D-59929 Brilon； 2.容量范围：75Ah～ 4140Ah。,3
+RL59831d5235V01-S001,L59831d5235V01,L59831d5235,日本制铁株式会社,日本,设计、制造,管道和管配件,热交换器传热管,1级,"1.主要分包项目：钢坯加 工（镗孔）； 2.活动场所：1Nishino-cho, Higashi-mukojima Amagasaki, 660-0856。",5
+RL59831d5235V02-S001,L59831d5235V02,L59831d5235,日本制铁株式会社,日本,设计、制造,管道和管配件,热交换器传热管,1级,"1.主要分包项目：钢坯加工 （镗孔）; 2.制造活动场所：1，Nishi no-cho Higashi-Mukojima, Amagasaki,Hyogo 660-085 6,Japan。",4
+RL15006b8203V01-S001,L15006b8203V01,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,铸锻件,容器类锻件,1级,"1.制造活动场所：22, Doosan volvo-ro, Seongsan-gu, Chang-won-si, Gyeongsangnam-do, 51711, Republic of Korea； 2.堆内构件主要分包项目：筒体卷制； 堆芯围筒的C型板、W型板的折弯；IGA IITA弯管；堆芯围筒的最终机加工； 导管的最终机加工； 3.管道和管配件、法兰仅限CANDU堆 型。",5
+RL15006b8203V01-S002,L15006b8203V01,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,堆内构件,堆内构件,核安全级,"1.制造活动场所：22, Doosan volvo-ro, Seongsan-gu, Chang-won-si, Gyeongsangnam-do, 51711, Republic of Korea； 2.堆内构件主要分包项目：筒体卷制； 堆芯围筒的C型板、W型板的折弯；IGA IITA弯管；堆芯围筒的最终机加工； 导管的最终机加工； 3.管道和管配件、法兰仅限CANDU堆 型。",5
+RL15006b8203V01-S003,L15006b8203V01,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,管道和管配件,管道预制,1级,"1.制造活动场所：22, Doosan volvo-ro, Seongsan-gu, Chang-won-si, Gyeongsangnam-do, 51711, Republic of Korea； 2.堆内构件主要分包项目：筒体卷制； 堆芯围筒的C型板、W型板的折弯；IGA IITA弯管；堆芯围筒的最终机加工； 导管的最终机加工； 3.管道和管配件、法兰仅限CANDU堆 型。",5
+RL15006b8203V01-S004,L15006b8203V01,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,管道和管配件,异径管,1级,"1.制造活动场所：22, Doosan volvo-ro, Seongsan-gu, Chang-won-si, Gyeongsangnam-do, 51711, Republic of Korea； 2.堆内构件主要分包项目：筒体卷制； 堆芯围筒的C型板、W型板的折弯；IGA IITA弯管；堆芯围筒的最终机加工； 导管的最终机加工； 3.管道和管配件、法兰仅限CANDU堆 型。",5
+RL15006b8203V01-S005,L15006b8203V01,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,法兰,法兰,1级,"1.制造活动场所：22, Doosan volvo-ro, Seongsan-gu, Chang-won-si, Gyeongsangnam-do, 51711, Republic of Korea； 2.堆内构件主要分包项目：筒体卷制； 堆芯围筒的C型板、W型板的折弯；IGA IITA弯管；堆芯围筒的最终机加工； 导管的最终机加工； 3.管道和管配件、法兰仅限CANDU堆 型。",5
+RL15006b8203V02-S001,L15006b8203V02,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,铸锻件,容器类锻件,1级,"1.制造活动场所： 22，Doosan volvo-ro,Seongs an-gu,Chang-won-si,Gyeongs angnam-do,51711,Republic of Korea； 2.管道和管配件、法兰仅限 CANDU堆型。",1
+RL15006b8203V02-S002,L15006b8203V02,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,管道和管配件,管道预制,1级,"1.制造活动场所： 22，Doosan volvo-ro,Seongs an-gu,Chang-won-si,Gyeongs angnam-do,51711,Republic of Korea； 2.管道和管配件、法兰仅限 CANDU堆型。",1
+RL15006b8203V02-S003,L15006b8203V02,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,管道和管配件,异径管,1级,"1.制造活动场所： 22，Doosan volvo-ro,Seongs an-gu,Chang-won-si,Gyeongs angnam-do,51711,Republic of Korea； 2.管道和管配件、法兰仅限 CANDU堆型。",1
+RL15006b8203V02-S004,L15006b8203V02,L15006b8203,"Doosan Enerbility Co., Ltd.",韩国,设计、制造,法兰,法兰,1级,"1.制造活动场所： 22，Doosan volvo-ro,Seongs an-gu,Chang-won-si,Gyeongs angnam-do,51711,Republic of Korea； 2.管道和管配件、法兰仅限 CANDU堆型。",1
+RL3e22d97d65V01-S001,L3e22d97d65V01,L3e22d97d65,"ZPA Pecky,a.s.",捷克,设计,阀门驱动装置,开关型阀门电动装置,1E级（安全壳内、外）,无,1
+RL3e22d97d65V01-S002,L3e22d97d65V01,L3e22d97d65,"ZPA Pecky,a.s.",捷克,设计,阀门驱动装置,调节型阀门电动装置,1E级（安全壳内、外）,无,1
+RL3e22d97d65V01-S003,L3e22d97d65V01,L3e22d97d65,"ZPA Pecky,a.s.",捷克,制造,阀门驱动装置,开关型阀门电动装置,1E级（安全壳内、外）,无,1
+RL3e22d97d65V01-S004,L3e22d97d65V01,L3e22d97d65,"ZPA Pecky,a.s.",捷克,制造,阀门驱动装置,调节型阀门电动装置,1E级（安全壳内、外）,无,1
+RL3e22d97d65V02-S001,L3e22d97d65V02,L3e22d97d65,"ZPA Pecky,a.s.",捷克,设计,阀门驱动装置,阀门电动装置,1E级（安全壳内、外）,"设计活动场所： Tr.5.kvetna 166, 289 11 Pecky。",3
+RL3e22d97d65V02-S002,L3e22d97d65V02,L3e22d97d65,"ZPA Pecky,a.s.",捷克,制造,阀门驱动装置,阀门电动装置,1E级（安全壳内、外）,"1.制造活动场所： Tr.5.kvetna 166, 289 11 Pecky； 2.主要分包项目：电镀 加工和热处理。",3
+RLe1bea315d9V01-S001,Le1bea315d9V01,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,设计,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,无,5
+RLe1bea315d9V01-S002,Le1bea315d9V01,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,无,5
+RLe1bea315d9V02-S001,Le1bea315d9V02,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,设计,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"1.设计活动场所： Moscow， 107078,Khoromny tupik,4/1; 2.仅限VVER堆型。",4
+RLe1bea315d9V02-S002,Le1bea315d9V02,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,设计,成套开关设备和控制设备,交流低压开关柜（停堆断路器柜）,1E级（安全壳外）,"1.设计活动场所： Moscow， 107078,Khoromny tupik,4/1; 2.仅限VVER堆型。",4
+RLe1bea315d9V02-S003,Le1bea315d9V02,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,设计,成套开关设备和控制设备,直流开关柜（停堆断路器柜）,1E级（安全壳外）,"1.设计活动场所： Moscow， 107078,Khoromny tupik,4/1; 2.仅限VVER堆型。",4
+RLe1bea315d9V02-S004,Le1bea315d9V02,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"1.制造活动场所： Moscow， 105318,Izmaylovskoye shosse,40; 2.仅限VVER堆型。",4
+RLe1bea315d9V02-S005,Le1bea315d9V02,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,制造,成套开关设备和控制设备,交流低压开关柜（停堆断路器柜）,1E级（安全壳外）,"1.制造活动场所： Moscow， 105318,Izmaylovskoye shosse,40; 2.仅限VVER堆型。",4
+RLe1bea315d9V02-S006,Le1bea315d9V02,Le1bea315d9,"JSC“Research and Production Corporation“Space Monitoring Systems,Information & Control and Electromechanical Complexes”named after A.G.Iosifian”",俄罗斯,制造,成套开关设备和控制设备,直流开关柜（停堆断路器柜）,1E级（安全壳外）,"1.制造活动场所： Moscow， 105318,Izmaylovskoye shosse,40; 2.仅限VVER堆型。",4
+RLda9892996eV01-S001,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,中压电力贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",4
+RLda9892996eV01-S002,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,低压电力贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",4
+RLda9892996eV01-S003,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,控制贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",4
+RLda9892996eV01-S004,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,仪表贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",4
+RLda9892996eV01-S005,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,同轴贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",4
+RLda9892996eV01-S006,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,中压电力贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工艺 仅限玻璃金属密封。",4
+RLda9892996eV01-S007,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,低压电力贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工艺 仅限玻璃金属密封。",4
+RLda9892996eV01-S008,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,控制贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工艺 仅限玻璃金属密封。",4
+RLda9892996eV01-S009,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,仪表贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工艺 仅限玻璃金属密封。",4
+RLda9892996eV01-S010,Lda9892996eV01,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,同轴贯穿件,1E级,"1.活动场所: Christoph-Dorner-Strasse, 29, Landshut, 84028； 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工艺 仅限玻璃金属密封。",4
+RLda9892996eV02-S001,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,中压电力贯穿件,1E级,"1.设计活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S002,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,低压电力贯穿件,1E级,"1.设计活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S003,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,控制贯穿件,1E级,"1.设计活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S004,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,仪表贯穿件,1E级,"1.设计活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S005,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,设计,电气贯穿件,同轴贯穿件,1E级,"1.设计活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S006,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,中压电力贯穿件,1E级,"1.制造活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S007,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,低压电力贯穿件,1E级,"1.制造活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S008,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,控制贯穿件,1E级,"1.制造活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S009,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,仪表贯穿件,1E级,"1.制造活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RLda9892996eV02-S010,Lda9892996eV02,Lda9892996e,SCHOTT AG,德国,制造,电气贯穿件,同轴贯穿件,1E级,"1.制造活动场所： Christoph-Dorner-Strasse,29， Landshut，84028; 2.主要分包项目：焊接活动； 3.电气贯穿件密封材料及工 艺仅限玻璃金属密封。",6
+RL1b447f515cV01-S001,L1b447f515cV01,L1b447f515c,Japan Steel Works M&E，Inc.,日本,设计、制造,铸锻件,容器类铸锻件,1级,无,1
+RL1b447f515cV02-S001,L1b447f515cV02,L1b447f515c,Japan Steel Works M&E，Inc.,日本,设计、制造,铸锻件,容器类铸锻件,1级,制造活动场所：北海道室兰市茶津町4番地。,8
+RLd720ffecf3V01-S001,Ld720ffecf3V01,Ld720ffecf3,LLC POZIT,俄罗斯,设计、制造,传感器,核测仪表,1E级（安全壳内）,"制造活动场所： 8，Fabrichnaya Street,Pravdinsky workersʼ settlement,Pushkino city,Moscow region,141260。",1
+RL27c257ddacV01-S001,L27c257ddacV01,L27c257ddac,WIKA Alexander Wiegand SE & Co.KG,德国,设计,传感器,温度计,1E级（安全壳内）,无,5
+RL27c257ddacV01-S002,L27c257ddacV01,L27c257ddac,WIKA Alexander Wiegand SE & Co.KG,德国,制造,传感器,温度计,1E级（安全壳内）,无,5
+RL27c257ddacV02-S001,L27c257ddacV02,L27c257ddac,WIKA Alexander Wiegand SE & Co.KG,德国,设计,传感器,温度计,1E级（安全壳内）,设计活动场所： Philipp-Kachel-Straße 9 Klingenberg，Main 63911 Germany。,2
+RL27c257ddacV02-S002,L27c257ddacV02,L27c257ddac,WIKA Alexander Wiegand SE & Co.KG,德国,制造,传感器,温度计,1E级（安全壳内）,制造活动场所： Philipp-Kachel-Straße 9 Klingenberg，Main 63911 Germany。,2
+RL80e94aae11V01-S001,L80e94aae11V01,L80e94aae11,FEAT GROUP S.P.A.,意大利,设计、制造,铸锻件,泵阀类铸锻件,1级,无,6
+RL80e94aae11V02-S001,L80e94aae11V02,L80e94aae11,FEAT GROUP S.P.A.,意大利,设计、制造,铸锻件,阀类锻件,1级,"制造活动场所： Via Ariosto,1/3/5/7-23861 Cesana Brianza(LC)Italy。",3
+RLd687c4f704V01-S001,Ld687c4f704V01,Ld687c4f704,NWI Precision Tube ULC,加拿大,设计、制造,管道和管配件,重水堆端部组件,1级,"1.仅限CANDU堆型； 2.制造活动场所：9&11 Fenmar Drive TORONTO,Ontario,Canada M9L 1L5。",1
+RL8bc395fb25V01-S001,L8bc395fb25V01,L8bc395fb25,JSC“Pervouralsk Pipe Plant”,俄罗斯,设计、制造,管道和管配件,直管（无缝）,2、3级,"1.仅限VVER堆型； 2.制造活动场所：Sverdlovsk reg,Pervouralsk Torgovaya Str.1,623100,Russia。",1
+RLed3d5b617bV01-S001,Led3d5b617bV01,Led3d5b617b,Joint Stock Company“Chelyabinsk Pipe Plant”,俄罗斯,设计、制造,管道和管配件,直管（无缝）,2、3级,"1.仅限VVER堆型； 2.制造活动场所：21， Mashinostroiteley street,Chelyabinsk,Chelyabinsk Region,454129,Russia。",2
+RL01b46f3b45V01-S001,L01b46f3b45V01,L01b46f3b45,Manoir France SAS,法国,设计、制造,铸锻件,阀类铸件,1级,制造活动场所： 12 Rue des Ardennes 27590 PITRES。,1
+RL27a40c78bdV01-S001,L27a40c78bdV01,L27a40c78bd,Patriot Forge Co.,加拿大,设计、制造,铸锻件,容器类锻件,1级,"1.仅限CANDU堆型； 2.制造活动场所：（1）280 Henry St.Brantford ON N3T 7R5； （2）100 Consolidated Dr.,Paris ON N3L 3T6; 3.主要分包项目：理化检验。",2
+RLc86e39a9f9V01-S001,Lc86e39a9f9V01,Lc86e39a9f9,BENTELER Steel/Tube GmbH & Co.KG,德国,设计、制造,管道和管配件,直管,1级,"1.仅限CANDU堆型； 2.制造活动场所： （1）Residenzstraße 1，33104 Paderborn,Germany; （2）NiederdarmerStraße 5,49811 Lingen,Germany; （3）Luisenstraße 117,46537 Dinslaken,Germany。",3
+RLd0c8539a10V01-S001,Ld0c8539a10V01,Ld0c8539a10,Cameco Fuel Manufacturing,加拿大,设计、制造,管道和管配件,直管,1级,"1.仅限CANDU堆型； 2.制造活动场所：Building #2,Northam Industrial Park, Cobourg,ON,Canada K9A 4R5; 3.主要分包项目：排管带材 压制成形（不含焊接）。",4
+RL85340f6ef2V01-S001,L85340f6ef2V01,L85340f6ef2,BWXT Precision Manufacturing Inc.,加拿大,设计、制造,管道和管配件,重水堆端部组件,1级,"1.仅限CANDU堆型； 2.制造活动场所：835 Fourth Line,Oakville,ON L6L 5B8,Canada； 3.主要分包项目：理化检验。",5
+RL85340f6ef2V01-S002,L85340f6ef2V01,L85340f6ef2,BWXT Precision Manufacturing Inc.,加拿大,设计、制造,管道和管配件,异径管,1级,"1.仅限CANDU堆型； 2.制造活动场所：835 Fourth Line,Oakville,ON L6L 5B8,Canada； 3.主要分包项目：理化检验。",5
+RL85340f6ef2V01-S003,L85340f6ef2V01,L85340f6ef2,BWXT Precision Manufacturing Inc.,加拿大,设计、制造,法兰,法兰,1级,"1.仅限CANDU堆型； 2.制造活动场所：835 Fourth Line,Oakville,ON L6L 5B8,Canada； 3.主要分包项目：理化检验。",5
+RL10ca120bdfV01-S001,L10ca120bdfV01,L10ca120bdf,B.C.INSTRUMENTS,加拿大,设计、制造,管道和管配件,异径管,1级,"1.仅限CANDU堆型； 2.主要分包项目：管道支承件弯 制； 3.制造活动场所：（1）41 Proctor Road,Schomberg,Ontario L0G 1T0； （2）71 Proctor Road ， Schomberg,ON，L0G 1T0； （3）201 Elm Street E,Durham,ON,N0G 1R0; （4）32 Nixon Road,Caledon,ON,L7E 1W2。",6
+RL10ca120bdfV01-S002,L10ca120bdfV01,L10ca120bdf,B.C.INSTRUMENTS,加拿大,设计、制造,支承件,管道支承件,1级,"1.仅限CANDU堆型； 2.主要分包项目：管道支承件弯 制； 3.制造活动场所：（1）41 Proctor Road,Schomberg,Ontario L0G 1T0； （2）71 Proctor Road ， Schomberg,ON，L0G 1T0； （3）201 Elm Street E,Durham,ON,N0G 1R0; （4）32 Nixon Road,Caledon,ON,L7E 1W2。",6
+RL10ca120bdfV01-S003,L10ca120bdfV01,L10ca120bdf,B.C.INSTRUMENTS,加拿大,设计、制造,法兰,法兰,1级,"1.仅限CANDU堆型； 2.主要分包项目：管道支承件弯 制； 3.制造活动场所：（1）41 Proctor Road,Schomberg,Ontario L0G 1T0； （2）71 Proctor Road ， Schomberg,ON，L0G 1T0； （3）201 Elm Street E,Durham,ON,N0G 1R0; （4）32 Nixon Road,Caledon,ON,L7E 1W2。",6
+RL07b99120e1V01-S001,L07b99120e1V01,L07b99120e1,Aruna Alloy Steels Pvt Ltd.,印度,设计、制造,铸锻件,阀类铸件,1级,"制造活动场所： （1）Super B3&B6 Industrial Estate,K.Pudur,Madurai-625007； （2）No.1 Melur Road,Narasingampatti,Madurai Tamil Nadu 625122。",7
+RL3fa8e08922V01-S001,L3fa8e08922V01,L3fa8e08922,Flowserve Corporation,美国,设计,阀门,隔离阀,1、2、3级,"1.主蒸汽隔离阀和主给水隔离阀仅 限于楔式双闸板闸阀； 2.主要分包项目：鉴定试验； 3.设计活动场所：1900 South Saunders Street, Raleigh,North Carolina, 27603 USA。",6
+RL3fa8e08922V01-S002,L3fa8e08922V01,L3fa8e08922,Flowserve Corporation,美国,设计,阀门,单向阀,2、3级,"1.主蒸汽隔离阀和主给水隔离阀仅 限于楔式双闸板闸阀； 2.主要分包项目：鉴定试验； 3.设计活动场所：1900 South Saunders Street, Raleigh,North Carolina, 27603 USA。",6
+RL3fa8e08922V01-S003,L3fa8e08922V01,L3fa8e08922,Flowserve Corporation,美国,制造,阀门,隔离阀,1、2、3级,"1.主蒸汽隔离阀和主给水隔离阀仅 限于楔式双闸板闸阀。 2.制造活动场所：1900 South Saunders Street, Raleigh,North Carolina, 27603 USA。",6
+RL3fa8e08922V01-S004,L3fa8e08922V01,L3fa8e08922,Flowserve Corporation,美国,制造,阀门,单向阀,2、3级,"1.主蒸汽隔离阀和主给水隔离阀仅 限于楔式双闸板闸阀。 2.制造活动场所：1900 South Saunders Street, Raleigh,North Carolina, 27603 USA。",6
+RL3fa8e08922V02-S001,L3fa8e08922V02,L3fa8e08922,Flowserve Corporation,美国,设计,阀门驱动装置,多回转阀门电动装置,1E级（安全壳内、外）,"1.设计活动场所：5114 Woodall Road,Lynchburg,VA 24502； 2.主要分包项目：鉴定试验。",8
+RL3fa8e08922V02-S002,L3fa8e08922V02,L3fa8e08922,Flowserve Corporation,美国,设计,阀门驱动装置,角行程阀门电动装置,1E级（安全壳内、外）,"1.设计活动场所：5114 Woodall Road,Lynchburg,VA 24502； 2.主要分包项目：鉴定试验。",8
+RL3fa8e08922V02-S003,L3fa8e08922V02,L3fa8e08922,Flowserve Corporation,美国,设计,阀门驱动装置,直行程阀门电动装置,1E级（安全壳内、外）,"1.设计活动场所：5114 Woodall Road,Lynchburg,VA 24502； 2.主要分包项目：鉴定试验。",8
+RL3fa8e08922V02-S004,L3fa8e08922V02,L3fa8e08922,Flowserve Corporation,美国,制造,阀门驱动装置,多回转阀门电动装置,1E级（安全壳内、外）,"制造活动场所：5114 Woodall Road,Lynchburg,VA 24502。",8
+RL3fa8e08922V02-S005,L3fa8e08922V02,L3fa8e08922,Flowserve Corporation,美国,制造,阀门驱动装置,角行程阀门电动装置,1E级（安全壳内、外）,"制造活动场所：5114 Woodall Road,Lynchburg,VA 24502。",8
+RL3fa8e08922V02-S006,L3fa8e08922V02,L3fa8e08922,Flowserve Corporation,美国,制造,阀门驱动装置,直行程阀门电动装置,1E级（安全壳内、外）,"制造活动场所：5114 Woodall Road,Lynchburg,VA 24502。",8
+RLb6ec82ae5eV01-S001,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,设计,阀门,隔离阀,1、2、3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：抗震试验； 4.设计活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RLb6ec82ae5eV01-S002,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,设计,阀门,单向阀,2、3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：抗震试验； 4.设计活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RLb6ec82ae5eV01-S003,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,设计,阀门,调节阀,3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：抗震试验； 4.设计活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RLb6ec82ae5eV01-S004,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,设计,阀门,其他类型核安全级阀,1、2、3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：抗震试验； 4.设计活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RLb6ec82ae5eV01-S005,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,制造,阀门,隔离阀,1、2、3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：理化检验； 4.制造活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RLb6ec82ae5eV01-S006,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,制造,阀门,单向阀,2、3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：理化检验； 4.制造活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RLb6ec82ae5eV01-S007,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,制造,阀门,调节阀,3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：理化检验； 4.制造活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RLb6ec82ae5eV01-S008,Lb6ec82ae5eV01,Lb6ec82ae5e,Thompson Valves Ltd,英国,制造,阀门,其他类型核安全级阀,1、2、3级,"1.核1级仪表阀仅限CANDU堆型； 2.仅限于公称通径小于DN50的阀门； 3.主要分包项目：理化检验； 4.制造活动场所：17 Balena Close,Creekmoor,Poole,Dorset,BH17 7EF.England。",9
+RL321a42789aV01-S001,L321a42789aV01,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,调节阀,1、2、3级,1.设计活动场所：Rue Paul Baudry-68700 Cernay； 2.主要分包项目：抗震试验、 辐照老化试验。,10
+RL321a42789aV01-S002,L321a42789aV01,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,调节阀,1、2、3级,1.设计活动场所：Rue Paul Baudry-68700 Cernay； 2.主要分包项目：抗震试验、 辐照老化试验。,10
+RL321a42789aV01-S003,L321a42789aV01,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,调节阀,2、3级,1.设计活动场所：Rue Paul Baudry-68700 Cernay； 2.主要分包项目：抗震试验、 辐照老化试验。,10
+RL321a42789aV01-S004,L321a42789aV01,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,调节阀,1、2、3级,1.制造活动场所：Rue Paul Baudry-68700 Cernay； 2.主要分包项目：理化检验、 射线检验。,10
+RL321a42789aV01-S005,L321a42789aV01,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,调节阀,1、2、3级,1.制造活动场所：Rue Paul Baudry-68700 Cernay； 2.主要分包项目：理化检验、 射线检验。,10
+RL321a42789aV01-S006,L321a42789aV01,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,调节阀,2、3级,1.制造活动场所：Rue Paul Baudry-68700 Cernay； 2.主要分包项目：理化检验、 射线检验。,10
+RL321a42789aV02-S001,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,调节阀,1、2、3级,1.设计活动场所：Rue Paul Baudry-68700 Cernay; 2.主要分包项目：抗震试验、 辐照老化试验。,10
+RL321a42789aV02-S002,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,调节阀,1、2、3级,1.设计活动场所：Rue Paul Baudry-68700 Cernay; 2.主要分包项目：抗震试验、 辐照老化试验。,10
+RL321a42789aV02-S003,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,调节阀,2、3级,1.设计活动场所：Rue Paul Baudry-68700 Cernay; 2.主要分包项目：抗震试验、 辐照老化试验。,10
+RL321a42789aV02-S004,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,安全阀,2、3级,"1.不包括主蒸汽隔离阀； 2.设计活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：鉴定试验。",10
+RL321a42789aV02-S005,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,隔离阀,2、3级,"1.不包括主蒸汽隔离阀； 2.设计活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：鉴定试验。",10
+RL321a42789aV02-S006,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,隔离阀,3级,"1.不包括主蒸汽隔离阀； 2.设计活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：鉴定试验。",10
+RL321a42789aV02-S007,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,设计,阀门,单向阀,2、3级,"1.不包括主蒸汽隔离阀； 2.设计活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：鉴定试验。",10
+RL321a42789aV02-S008,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,调节阀,1、2、3级,1.制造活动场所：Rue Paul Baudry-68700 Cernay; 2.主要分包项目：理化检验。,10
+RL321a42789aV02-S009,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,调节阀,1、2、3级,1.制造活动场所：Rue Paul Baudry-68700 Cernay; 2.主要分包项目：理化检验。,10
+RL321a42789aV02-S010,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,调节阀,2、3级,1.制造活动场所：Rue Paul Baudry-68700 Cernay; 2.主要分包项目：理化检验。,10
+RL321a42789aV02-S011,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,安全阀,2、3级,"1.不包括主蒸汽隔离阀； 2.制造活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：理化检验。",10
+RL321a42789aV02-S012,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,隔离阀,2、3级,"1.不包括主蒸汽隔离阀； 2.制造活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：理化检验。",10
+RL321a42789aV02-S013,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,隔离阀,3级,"1.不包括主蒸汽隔离阀； 2.制造活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：理化检验。",10
+RL321a42789aV02-S014,L321a42789aV02,L321a42789a,Emerson Process Management S.A.S.,法国,制造,阀门,单向阀,2、3级,"1.不包括主蒸汽隔离阀； 2.制造活动场所：Avenue Pierre Brossolette,Zone Industrielle 59280 Armentières； 3.主要分包项目：理化检验。",10
+RL039a43bd72V01-S001,L039a43bd72V01,L039a43bd72,Curtiss-Wright Electro-Mechanical Corporation,美国,设计,泵,离心泵,1级,"1.仅限于AP1000和CAP1000 堆型； 2.设计活动场所：1000 Wright Way, Cheswick, Pennsylvania 15024-1300。",1
+RL039a43bd72V01-S002,L039a43bd72V01,L039a43bd72,Curtiss-Wright Electro-Mechanical Corporation,美国,制造,泵,离心泵,1级,"1.仅限于AP1000和CAP1000 堆型； 2.制造活动场所：1000 Wright Way, Cheswick, Pennsylvania 15024-1300； 3.主要分包项目：理化检验。",1
+RL9d34c6c4f0V01-S001,L9d34c6c4f0V01,L9d34c6c4f0,CLEXTRAL S.A.S,法国,设计,泵,往复泵,3级,1.设计活动场所：1 rue du Colonel Riez 42700 Firminy； 2.主要分包项目：抗震分析、抗震 试验。,3
+RL9d34c6c4f0V01-S002,L9d34c6c4f0V01,L9d34c6c4f0,CLEXTRAL S.A.S,法国,制造,泵,往复泵,3级,1.制造活动场所：1 rue du Colonel Riez 42700 Firminy； 2.主要分包项目：理化检验、焊接。,3
+RL2c41a2e52cV01-S001,L2c41a2e52cV01,L2c41a2e52c,Nu-Tech Precision Metals Inc.,加拿大,设计、制造,管道和管配件,直管（无缝）,1级,"1.仅限CANDU堆型； 2.制造活动场所：460 McCartney St, Arnprior, ON K7S 0B6、480 McCartney Street, Arnprior, ON, K7S 0B6。",1
+RLd29a43e0c8V01-S001,Ld29a43e0c8V01,Ld29a43e0c8,BWXT Canada Ltd.,加拿大,设计、制造,管道和管配件,管道预制,1级,"1.仅限CANDU堆型； 2.制造活动场所：581 Coronation Blvd. Cambridge, ON, N1R 3E9, Canada。",2
+RLbfe4ebde71V01-S001,Lbfe4ebde71V01,Lbfe4ebde71,JSC“Energomash(Chekhov)-CHZEM”,俄罗斯,设计,阀门,单向阀,2、3级,"1.设计活动场所：1 Gagarina, Chekhov, Moscow region, 142300； 2.主要分包项目：抗震试验。",3
+RLbfe4ebde71V01-S002,Lbfe4ebde71V01,Lbfe4ebde71,JSC“Energomash(Chekhov)-CHZEM”,俄罗斯,设计,阀门,调节阀,2、3级,"1.设计活动场所：1 Gagarina, Chekhov, Moscow region, 142300； 2.主要分包项目：抗震试验。",3
+RLbfe4ebde71V01-S003,Lbfe4ebde71V01,Lbfe4ebde71,JSC“Energomash(Chekhov)-CHZEM”,俄罗斯,设计,阀门,隔离阀,2、3级,"1.设计活动场所：1 Gagarina, Chekhov, Moscow region, 142300； 2.主要分包项目：抗震试验。",3
+RLbfe4ebde71V01-S004,Lbfe4ebde71V01,Lbfe4ebde71,JSC“Energomash(Chekhov)-CHZEM”,俄罗斯,制造,阀门,单向阀,2、3级,"制造活动场所：1 Gagarina, Chekhov, Moscow region, 142300。",3
+RLbfe4ebde71V01-S005,Lbfe4ebde71V01,Lbfe4ebde71,JSC“Energomash(Chekhov)-CHZEM”,俄罗斯,制造,阀门,调节阀,2、3级,"制造活动场所：1 Gagarina, Chekhov, Moscow region, 142300。",3
+RLbfe4ebde71V01-S006,Lbfe4ebde71V01,Lbfe4ebde71,JSC“Energomash(Chekhov)-CHZEM”,俄罗斯,制造,阀门,隔离阀,2、3级,"制造活动场所：1 Gagarina, Chekhov, Moscow region, 142300。",3
+RL019b0ebaacV01-S001,L019b0ebaacV01,L019b0ebaac,JSC Armalit,俄罗斯,设计,阀门,隔离阀,2、3级,"1.设计活动场所：198097， St.Petersburg, st.Trefoleva,2； 2.主要分包项目：鉴定试验。",4
+RL019b0ebaacV01-S002,L019b0ebaacV01,L019b0ebaac,JSC Armalit,俄罗斯,制造,阀门,隔离阀,2、3级,"制造活动场所：198097， St.Petersburg, st.Trefoleva,2。",4
+RL0e3d6a5180V01-S001,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,设计,阀门,隔离阀,1、2、3级,1.设计活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：部分鉴定试 验（抗震试验、流体阻断试验、 端部加载试验等）； 3.碟式调节阀公称通径≤ DN100。,1
+RL0e3d6a5180V01-S002,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,设计,阀门,单向阀,2、3级,1.设计活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：部分鉴定试 验（抗震试验、流体阻断试验、 端部加载试验等）； 3.碟式调节阀公称通径≤ DN100。,1
+RL0e3d6a5180V01-S003,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,设计,阀门,其他类型核安全级阀,2、3级,1.设计活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：部分鉴定试 验（抗震试验、流体阻断试验、 端部加载试验等）； 3.碟式调节阀公称通径≤ DN100。,1
+RL0e3d6a5180V01-S004,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,设计,阀门,安全阀,3级,1.设计活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：部分鉴定试 验（抗震试验、流体阻断试验、 端部加载试验等）； 3.碟式调节阀公称通径≤ DN100。,1
+RL0e3d6a5180V01-S005,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,设计,阀门,调节阀,3级,1.设计活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：部分鉴定试 验（抗震试验、流体阻断试验、 端部加载试验等）； 3.碟式调节阀公称通径≤ DN100。,1
+RL0e3d6a5180V01-S006,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,制造,阀门,隔离阀,1、2、3级,1.制造活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：热处理、理 化检验； 3.碟式调节阀公称通径≤ DN100。,2
+RL0e3d6a5180V01-S007,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,制造,阀门,单向阀,2、3级,1.制造活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：热处理、理 化检验； 3.碟式调节阀公称通径≤ DN100。,2
+RL0e3d6a5180V01-S008,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,制造,阀门,其他类型核安全级阀,2、3级,1.制造活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：热处理、理 化检验； 3.碟式调节阀公称通径≤ DN100。,2
+RL0e3d6a5180V01-S009,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,制造,阀门,安全阀,3级,1.制造活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：热处理、理 化检验； 3.碟式调节阀公称通径≤ DN100。,2
+RL0e3d6a5180V01-S010,L0e3d6a5180V01,L0e3d6a5180,Vanatome,法国,制造,阀门,调节阀,3级,1.制造活动场所：Chemin de la Buissonnée 26240 Saint-Vallier； 2.主要分包项目：热处理、理 化检验； 3.碟式调节阀公称通径≤ DN100。,2
+RL5ac778b428V01-S001,L5ac778b428V01,L5ac778b428,MAN Energy Solutions France SAS,法国,设计,电源设备,应急柴油发电机组,1E级,1.设计活动场所：8 Avenue Antoine Bourdelle 44600 Saint-Nazaire Cedex France； 2.主要分包项目：发电机、控制和 保护系统； 3.柴油机型号仅限PA6BN 系列、 PC2-5N 系列、PC2-6BN 系列。,3
+RL5ac778b428V01-S002,L5ac778b428V01,L5ac778b428,MAN Energy Solutions France SAS,法国,制造,电源设备,应急柴油发电机组,1E级,1.制造活动场所：8 Avenue Antoine Bourdelle 44600 Saint-Nazaire Cedex France； 2.主要分包项目：发电机、控制和 保护系统、辅助控制系统（除速度 控制系统外）； 3.柴油机型号仅限PA6BN 系列、 PC2-5N 系列、PC2-6BN 系列。,3
+RL36192efa34V01-S001,L36192efa34V01,L36192efa34,Armaturenfabrik Franz Schneider GmbH + Co.KG,德国,设计,阀门,其他类型核安全级阀（仪表阀）,2、3级,"1.设计活动场所： Bahnhofplatz 12.D-74226, Nordheim,Germany； 2.主要分包项目：抗震分析。",1
+RL36192efa34V01-S002,L36192efa34V01,L36192efa34,Armaturenfabrik Franz Schneider GmbH + Co.KG,德国,制造,阀门,其他类型核安全级阀（仪表阀）,2、3级,"制造活动场所： Bahnhofplatz 12.D-74226, Nordheim,Germany。",1
+RL46bd255e6bV01-S001,L46bd255e6bV01,L46bd255e6b,APLICACIONES MECANICAS VALVULAS INDUSTRIALES SA,西班牙,设计、制造,阀门,隔离阀,3级,"1.制造活动场所：Poligono Industrial de Villalonquejar, C/El Escudo s/n 09001 BURGOS； 2.主要分包项目：理化检验。",3
+RLbce24d2aafV01-S001,Lbce24d2aafV01,Lbce24d2aaf,Forge Fedriga S.R.L.,意大利,设计、制造,铸锻件,泵阀类锻件,1级,"制造活动场所： CIVIDATE CAMUNO (BS) VIA DELL’ARTIGIANATO, 13 CAP 25040。",4
+RLdad37f381dV01-S001,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,泵,离心泵,1级,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S002,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,隔离阀,2、3级,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S003,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,单向阀,2、3级,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S004,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,安全阀,2、3级,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S005,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,调节阀,2、3级,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S006,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,支承件,设备支承件,1级,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S007,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,传感器,核测仪表,1E级（安全壳内）,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S008,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,传感器,流量计,1E级（安全壳内、外）,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S009,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,传感器,压力变送器,1E级（安全壳内、外）,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S010,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,传感器,液位计,1E级（安全壳内、外）,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S011,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,传感器,温度计,1E级（安全壳内、外）,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S012,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,仪控系统机柜,仪控盘、台、箱,1E级（安全壳内、外）,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV01-S013,Ldad37f381dV01,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,基于民用核设施系统设计需求，完成设备选型，编制设备技术规格书。,9
+RLdad37f381dV02-S001,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,热交换器,蒸汽发生器,1级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S002,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,压力容器,反应堆压力容器、稳压器,1级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S003,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,泵,离心泵,1级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S004,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,管道和管配件,直管,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S005,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,管道和管配件,弯头,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S006,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,管道和管配件,三通,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S007,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,管道和管配件,异径管,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S008,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,管道和管配件,主管道,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S009,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,堆内构件,堆内构件,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S010,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,控制棒驱动机构,控制棒驱动机构,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S011,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,支承件,阻尼器,2级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S012,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,支承件,管道支承件,2、3级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S013,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,支承件,设备支承件,1、2、3级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S014,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,储罐,储罐,2、3级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S015,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,隔离阀,2、3级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S016,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,单向阀,2、3级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S017,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,安全阀,2、3级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S018,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,设计,阀门,调节阀,2、3级,"1.设计活动仅适用于VVER 堆型； 2.设计活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region； 3.泵、阀的设计活动根据民 用核设施系统设计的需要， 完成设备选型，编制设备技 术规格书； 4.热交换器的设计含传热管 设计； 5.主要分包项目：阻尼器的 鉴定试验。",5
+RLdad37f381dV02-S019,Ldad37f381dV02,Ldad37f381d,OKB Gidropress JSC,俄罗斯,制造,控制棒驱动机构,控制棒驱动机构,2级,"1.制造活动仅适用于VVER 堆型； 2.制造活动场所：21, Ordzhonikidze st., 142103, Podolsk, Moscow Region。",6
+RL12629a7543V01-S001,L12629a7543V01,L12629a7543,Bopp & Reuther Valves GmbH,德国,设计,阀门,安全阀,1、2、3级,1.设计活动场所： Carl-Reuther-Str.1 68305 Mannheim； 2.主要分包项目：计算流体力学 (CFD)模拟、鉴定试验； 3.先导式稳压器安全阀仅限VVER 堆型； 4.弹簧式稳压器安全阀仅限 CANDU堆型。,7
+RL12629a7543V01-S002,L12629a7543V01,L12629a7543,Bopp & Reuther Valves GmbH,德国,设计,阀门,单向阀,3级,1.设计活动场所： Carl-Reuther-Str.1 68305 Mannheim； 2.主要分包项目：计算流体力学 (CFD)模拟、鉴定试验； 3.先导式稳压器安全阀仅限VVER 堆型； 4.弹簧式稳压器安全阀仅限 CANDU堆型。,7
+RL12629a7543V01-S003,L12629a7543V01,L12629a7543,Bopp & Reuther Valves GmbH,德国,设计,阀门,隔离阀,2、3级,1.设计活动场所： Carl-Reuther-Str.1 68305 Mannheim； 2.主要分包项目：计算流体力学 (CFD)模拟、鉴定试验； 3.先导式稳压器安全阀仅限VVER 堆型； 4.弹簧式稳压器安全阀仅限 CANDU堆型。,7
+RL12629a7543V01-S004,L12629a7543V01,L12629a7543,Bopp & Reuther Valves GmbH,德国,制造,阀门,安全阀,1、2、3级,1.制造活动场所： Carl-Reuther-Str.1 68305 Mannheim； 2.主要分包项目：理化检验、表 面处理(如淬火、渗氮、镀铬等)； 3.先导式稳压器安全阀仅限VVER 堆型； 4.弹簧式稳压器安全阀仅限 CANDU堆型。,7
+RL12629a7543V01-S005,L12629a7543V01,L12629a7543,Bopp & Reuther Valves GmbH,德国,制造,阀门,单向阀,3级,1.制造活动场所： Carl-Reuther-Str.1 68305 Mannheim； 2.主要分包项目：理化检验、表 面处理(如淬火、渗氮、镀铬等)； 3.先导式稳压器安全阀仅限VVER 堆型； 4.弹簧式稳压器安全阀仅限 CANDU堆型。,7
+RL12629a7543V01-S006,L12629a7543V01,L12629a7543,Bopp & Reuther Valves GmbH,德国,制造,阀门,隔离阀,2、3级,1.制造活动场所： Carl-Reuther-Str.1 68305 Mannheim； 2.主要分包项目：理化检验、表 面处理(如淬火、渗氮、镀铬等)； 3.先导式稳压器安全阀仅限VVER 堆型； 4.弹簧式稳压器安全阀仅限 CANDU堆型。,7
+RL40bc4245f2V01-S001,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,设计,阀门,隔离阀,2、3级,"1. 设 计 活动 场 所 ： Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg； 2.主要分包项目：抗震 试验。",1
+RL40bc4245f2V01-S002,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,设计,阀门,单向阀,2、3级,"1. 设 计 活动 场 所 ： Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg； 2.主要分包项目：抗震 试验。",1
+RL40bc4245f2V01-S003,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,设计,阀门,安全阀、释放阀,2、3级,"1. 设 计 活动 场 所 ： Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg； 2.主要分包项目：抗震 试验。",1
+RL40bc4245f2V01-S004,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,设计,阀门,调节阀,3级,"1. 设 计 活动 场 所 ： Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg； 2.主要分包项目：抗震 试验。",1
+RL40bc4245f2V01-S005,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,制造,阀门,隔离阀,2、3级,"制造活动场所：Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg。",2
+RL40bc4245f2V01-S006,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,制造,阀门,单向阀,2、3级,"制造活动场所：Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg。",2
+RL40bc4245f2V01-S007,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,制造,阀门,安全阀、释放阀,2、3级,"制造活动场所：Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg。",2
+RL40bc4245f2V01-S008,L40bc4245f2V01,L40bc4245f2,JSC “Zavod “Znamya truda”,俄罗斯,制造,阀门,调节阀,3级,"制造活动场所：Sedova Street,11Yu,Office 2-N,Room 223,192019， St.Petersburg。",2
+RL3a1224995dV01-S001,L3a1224995dV01,L3a1224995d,KSB S.A.S.,法国,设计,阀门,隔离阀,2、3级,1.设计活动场所：ZA Remora Voie Romaine 33173 Gradignan-FRANCE； 2.主要分包项目：鉴定试验。,1
+RL3a1224995dV01-S002,L3a1224995dV01,L3a1224995d,KSB S.A.S.,法国,设计,阀门,单向阀,3级,1.设计活动场所：ZA Remora Voie Romaine 33173 Gradignan-FRANCE； 2.主要分包项目：鉴定试验。,1
+RL3a1224995dV01-S003,L3a1224995dV01,L3a1224995d,KSB S.A.S.,法国,制造,阀门,隔离阀,2、3级,1.制造活动场所：ZI de Gagnaire-Fonseche 24490 La Roche-Chalais -FRANCE； 2.主要分包项目：理化检验； 3.阀门规格：DN32～DN1200。,1
+RL3a1224995dV01-S004,L3a1224995dV01,L3a1224995d,KSB S.A.S.,法国,制造,阀门,单向阀,3级,1.制造活动场所：ZI de Gagnaire-Fonseche 24490 La Roche-Chalais -FRANCE； 2.主要分包项目：理化检验； 3.阀门规格：DN32～DN1200。,1
+RLe1ed0795bcV01-S001,Le1ed0795bcV01,Le1ed0795bc,HY-LOK Corporation,韩国,设计,管道和管配件,弯头、三通、异径管,2、3级,"设计活动场所：97, Noksansandan 27-ro, Gangseo-gu, Busan, Korea。",3
+RLe1ed0795bcV01-S002,Le1ed0795bcV01,Le1ed0795bc,HY-LOK Corporation,韩国,制造,管道和管配件,弯头、三通、异径管,2、3级,"1.制造活动场所： 97, Noksansandan 27-ro, Gangseo-gu, Busan, Korea； 2.主要分包项：无损检验、部分化 学成份分析、卡环表面渗氮。",3
+RL91042a86dcV01-S001,L91042a86dcV01,L91042a86dc,Clyde Union Limited,英国,设计,泵,离心泵（单级、多级，立式、卧式）,2、3级,"1.设计活动场所： 149 Newlands Road,Glasgow, G44 4EX, UK； 2.主要分包项目：抗 震试验。",4
+RL91042a86dcV01-S002,L91042a86dcV01,L91042a86dc,Clyde Union Limited,英国,制造,泵,离心泵（单级、多级，立式、卧式）,2、3级,"1.制造活动场所： 149 Newlands Road,Glasgow, G44 4EX, UK； 2.主要分包项目： 理化检验。",4
+RL46823f12c9V01-S001,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,设计,阀门,安全阀,1、2、3级,"1.设计活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀； 3.主要分包项目：抗震试验。",5
+RL46823f12c9V01-S002,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,设计,阀门,单向阀,1、2、3级,"1.设计活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀； 3.主要分包项目：抗震试验。",5
+RL46823f12c9V01-S003,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,设计,阀门,隔离阀,1、2、3级,"1.设计活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀； 3.主要分包项目：抗震试验。",5
+RL46823f12c9V01-S004,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,设计,阀门,隔离阀,2、3级,"1.设计活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀； 3.主要分包项目：抗震试验。",5
+RL46823f12c9V01-S005,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,设计,阀门,调节阀,2、3级,"1.设计活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀； 3.主要分包项目：抗震试验。",5
+RL46823f12c9V01-S006,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,制造,阀门,安全阀,1、2、3级,"1.制造活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀。",5
+RL46823f12c9V01-S007,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,制造,阀门,单向阀,1、2、3级,"1.制造活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀。",5
+RL46823f12c9V01-S008,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,制造,阀门,隔离阀,1、2、3级,"1.制造活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀。",5
+RL46823f12c9V01-S009,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,制造,阀门,隔离阀,2、3级,"1.制造活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀。",5
+RL46823f12c9V01-S010,L46823f12c9V01,L46823f12c9,Sempell GmbH,德国,制造,阀门,调节阀,2、3级,"1.制造活动场所： Werner-von-Siemens-Straß e, 41352 Korschenbroich； 2.主蒸汽安全阀限先导式安全 阀。",5
+RL2b60cf5054V01-S001,L2b60cf5054V01,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,设计、制造,管道和管配件,直管（有缝）,2、3级,"1.活动场所： Prospect B. Khmelnitskogo, 111, Belgorod, 308002, Russia； 2.仅适用于VVER堆型。",13
+RL2b60cf5054V02-S001,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,设计,法兰,法兰,2、3级,"设计活动场所：Volchanskaya street, 165, Belgorod, 308006, Russia。",7
+RL2b60cf5054V02-S002,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,设计,波纹管、膨胀节,金属波纹管,2、3级,"设计活动场所：Prospect B. Khmelnitskogo, 111, Belgorod, 308000, Russia。",7
+RL2b60cf5054V02-S003,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,设计,波纹管、膨胀节,金属波纹膨胀节,2、3级,"设计活动场所：Prospect B. Khmelnitskogo, 111, Belgorod, 308000, Russia。",7
+RL2b60cf5054V02-S004,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,设计,波纹管、膨胀节,特种型式金属膨胀节,2、3级,"设计活动场所：Prospect B. Khmelnitskogo, 111, Belgorod, 308000, Russia。",7
+RL2b60cf5054V02-S005,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,管道和管配件,直管（有缝、无缝）,2、3级,"1.制造活动场所：Volchanskaya street, 165,Belgorod, 308006, Russia和Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia； 2.有缝直管仅适用于VVER机组； 3.管道支承件不含可变弹簧支吊 架和恒力弹簧支吊架。",7
+RL2b60cf5054V02-S006,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,管道和管配件,管道预制,2、3级,"1.制造活动场所：Volchanskaya street, 165,Belgorod, 308006, Russia和Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia； 2.有缝直管仅适用于VVER机组； 3.管道支承件不含可变弹簧支吊 架和恒力弹簧支吊架。",7
+RL2b60cf5054V02-S007,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,管道和管配件,弯头,2、3级,"1.制造活动场所：Volchanskaya street, 165,Belgorod, 308006, Russia和Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia； 2.有缝直管仅适用于VVER机组； 3.管道支承件不含可变弹簧支吊 架和恒力弹簧支吊架。",7
+RL2b60cf5054V02-S008,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,管道和管配件,三通,2、3级,"1.制造活动场所：Volchanskaya street, 165,Belgorod, 308006, Russia和Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia； 2.有缝直管仅适用于VVER机组； 3.管道支承件不含可变弹簧支吊 架和恒力弹簧支吊架。",7
+RL2b60cf5054V02-S009,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,管道和管配件,异径管,2、3级,"1.制造活动场所：Volchanskaya street, 165,Belgorod, 308006, Russia和Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia； 2.有缝直管仅适用于VVER机组； 3.管道支承件不含可变弹簧支吊 架和恒力弹簧支吊架。",7
+RL2b60cf5054V02-S010,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,支承件,管道支承件,2、3级,"1.制造活动场所：Volchanskaya street, 165,Belgorod, 308006, Russia和Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia； 2.有缝直管仅适用于VVER机组； 3.管道支承件不含可变弹簧支吊 架和恒力弹簧支吊架。",7
+RL2b60cf5054V02-S011,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,法兰,法兰,2、3级,"1.制造活动场所：Volchanskaya street, 165,Belgorod, 308006, Russia和Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia； 2.有缝直管仅适用于VVER机组； 3.管道支承件不含可变弹簧支吊 架和恒力弹簧支吊架。",7
+RL2b60cf5054V02-S012,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,波纹管、膨胀节,金属波纹管,2、3级,"制造活动场所:Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia。",7
+RL2b60cf5054V02-S013,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,波纹管、膨胀节,金属波纹膨胀节,2、3级,"制造活动场所:Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia。",7
+RL2b60cf5054V02-S014,L2b60cf5054V02,L2b60cf5054,LLC “Belenergomash-BZEM”,俄罗斯,制造,波纹管、膨胀节,特种型式金属膨胀节,2、3级,"制造活动场所:Prospect B. Khmelnitskogo,111, Belgorod, 308000, Russia。",7
+RL0a371e6fb1V01-S001,L0a371e6fb1V01,L0a371e6fb1,IMI Critical Engineering LLC,美国,设计,阀门,调节阀,2、3级,"1、设计活动场所：22591 Avenida Empresa,Rancho Santa Margarita,CA 92688,USA； 2、主要分包项目：鉴定试验。",9
+RL0a371e6fb1V01-S002,L0a371e6fb1V01,L0a371e6fb1,IMI Critical Engineering LLC,美国,制造,阀门,调节阀,2、3级,"1、制造活动场所：22591 Avenida Empresa, Rancho Santa Margarita, CA 92688,USA； 2、主要分包项目：理化检验、镀铬。",9
+RL4942c0cf7fV01-S001,L4942c0cf7fV01,L4942c0cf7f,美国RSCC Wire & Cable LLC,美国,设计,电缆,低压电力电缆,1E级（安全壳内、外）,"1.设计活动场所：20 Bradley Park Rd., East Grandy, Connecticut； 2.限AP1000/CAP1000项目； 3.含卤线缆的使用必须满足相关法 规和标准要求，经详细分析论证报 国家核安全局批准后方可使用。",10
+RL4942c0cf7fV01-S002,L4942c0cf7fV01,L4942c0cf7f,美国RSCC Wire & Cable LLC,美国,设计,电缆,控制电缆,1E级（安全壳内、外）,"1.设计活动场所：20 Bradley Park Rd., East Grandy, Connecticut； 2.限AP1000/CAP1000项目； 3.含卤线缆的使用必须满足相关法 规和标准要求，经详细分析论证报 国家核安全局批准后方可使用。",10
+RL4942c0cf7fV01-S003,L4942c0cf7fV01,L4942c0cf7f,美国RSCC Wire & Cable LLC,美国,设计,电缆,仪表电缆,1E级（安全壳内、外）,"1.设计活动场所：20 Bradley Park Rd., East Grandy, Connecticut； 2.限AP1000/CAP1000项目； 3.含卤线缆的使用必须满足相关法 规和标准要求，经详细分析论证报 国家核安全局批准后方可使用。",10
+RL4942c0cf7fV01-S004,L4942c0cf7fV01,L4942c0cf7f,美国RSCC Wire & Cable LLC,美国,制造,电缆,低压电力电缆,1E级（安全壳内、外）,"1.制造活动场所：20 Bradley Park Rd., East Grandy, Connecticut； 2.限AP1000/CAP1000项目； 3.含卤线缆的使用必须满足相关法 规和标准要求，经详细分析论证报 国家核安全局批准后方可使用。",10
+RL4942c0cf7fV01-S005,L4942c0cf7fV01,L4942c0cf7f,美国RSCC Wire & Cable LLC,美国,制造,电缆,控制电缆,1E级（安全壳内、外）,"1.制造活动场所：20 Bradley Park Rd., East Grandy, Connecticut； 2.限AP1000/CAP1000项目； 3.含卤线缆的使用必须满足相关法 规和标准要求，经详细分析论证报 国家核安全局批准后方可使用。",10
+RL4942c0cf7fV01-S006,L4942c0cf7fV01,L4942c0cf7f,美国RSCC Wire & Cable LLC,美国,制造,电缆,仪表电缆,1E级（安全壳内、外）,"1.制造活动场所：20 Bradley Park Rd., East Grandy, Connecticut； 2.限AP1000/CAP1000项目； 3.含卤线缆的使用必须满足相关法 规和标准要求，经详细分析论证报 国家核安全局批准后方可使用。",10
+RL57a5ceadc1V01-S001,L57a5ceadc1V01,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,设计,阀门,其他类型核安全阀门,2、3级,主要分包项目：鉴定试验,3
+RL57a5ceadc1V01-S002,L57a5ceadc1V01,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,制造,阀门,其他类型核安全阀门,2、3级,无,3
+RL57a5ceadc1V02-S001,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,设计,阀门,隔离阀,2、3级,"设计活动场所： Ukraine, 03113, city Kyiv, Hrushetska str., 9。",11
+RL57a5ceadc1V02-S002,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,设计,阀门,安全阀,2、3级,"设计活动场所： Ukraine, 03113, city Kyiv, Hrushetska str., 9。",11
+RL57a5ceadc1V02-S003,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,设计,阀门,调节阀,2、3级,"设计活动场所： Ukraine, 03113, city Kyiv, Hrushetska str., 9。",11
+RL57a5ceadc1V02-S004,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,设计,阀门,其他类型核安全级阀,2、3级,"1.设计活动场所： Ukraine, 03113, city Kyiv, Hrushetska str., 9； 2.主要分包项目：鉴定试验。",11
+RL57a5ceadc1V02-S005,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,制造,阀门,隔离阀,2、3级,"1.制造活动场所：Ukraine, 03113, city Kyiv, Hrushetska str., 9； 2.主要分包项目：射线检验。",11
+RL57a5ceadc1V02-S006,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,制造,阀门,安全阀,2、3级,"1.制造活动场所：Ukraine, 03113, city Kyiv, Hrushetska str., 9； 2.主要分包项目：射线检验。",11
+RL57a5ceadc1V02-S007,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,制造,阀门,调节阀,2、3级,"1.制造活动场所：Ukraine, 03113, city Kyiv, Hrushetska str., 9； 2.主要分包项目：射线检验。",11
+RL57a5ceadc1V02-S008,L57a5ceadc1V02,L57a5ceadc1,PJSC“Kyiv Central Design Bureau of Valves”,乌克兰,制造,阀门,其他类型核安全级阀,2、3级,"制 造 活 动 场 所 ： Ukraine, 03113, cityKyiv, Hrushetska str., 9。",11
+RLd952f2ba0aV01-S001,Ld952f2ba0aV01,Ld952f2ba0a,Clyde Union Pumps SAS,法国,设计,泵,离心泵（单级、多级，立式、卧式）,2、3级,设计活动场所：39 Avenue du Pont de Tasset ZAE de Meythet 74000 Annecy。,1
+RLd952f2ba0aV01-S002,Ld952f2ba0aV01,Ld952f2ba0a,Clyde Union Pumps SAS,法国,制造,泵,离心泵（单级、多级，立式、卧式）,2、3级,1.制造活动场所：39 Avenue du Pont de Tasset ZAE de Meythet 74000 Annecy； 2.分包项目：理化检验。,1
+RLa7142b9335V01-S001,La7142b9335V01,La7142b9335,Alleima Tube AB,瑞典,设计、制造,管道和管配件,热交换器传热管,1、2、3级,制造活动场所：811 81 Sandviken Sweden。,3
+RLe01e9fdb24V01-S001,Le01e9fdb24V01,Le01e9fdb24,LLC “Atomspetsservice”,俄罗斯,设计,储罐,,2、3级,"1.仅用于VVER项目； 2.热交换器注册登记范围含热 交换器传热管； 3.设计活动场所：347360, Russia,Rostov Region, urban district city of Volgodonsk, Volgodonsk, st. 8th Zavodskaya, 23。",4
+RLe01e9fdb24V01-S002,Le01e9fdb24V01,Le01e9fdb24,LLC “Atomspetsservice”,俄罗斯,设计,热交换器,管壳式热交换器,3级,"1.仅用于VVER项目； 2.热交换器注册登记范围含热 交换器传热管； 3.设计活动场所：347360, Russia,Rostov Region, urban district city of Volgodonsk, Volgodonsk, st. 8th Zavodskaya, 23。",4
+RLe01e9fdb24V01-S003,Le01e9fdb24V01,Le01e9fdb24,LLC “Atomspetsservice”,俄罗斯,制造,储罐,,2、3级,"1.仅用于VVER项目； 2.热交换器注册登记范围含热 交换器传热管； 3.制造活动场所：347360, Russia,Rostov Region, urban district city of Volgodonsk, Volgodonsk, st. 8th Zavodskaya, 9 and 23； 4.主要分包项目：理化检验、磁 粉检验以及尺寸大于800× 1600×800mm设备的热处理。",4
+RLe01e9fdb24V01-S004,Le01e9fdb24V01,Le01e9fdb24,LLC “Atomspetsservice”,俄罗斯,制造,热交换器,管壳式热交换器,3级,"1.仅用于VVER项目； 2.热交换器注册登记范围含热 交换器传热管； 3.制造活动场所：347360, Russia,Rostov Region, urban district city of Volgodonsk, Volgodonsk, st. 8th Zavodskaya, 9 and 23； 4.主要分包项目：理化检验、磁 粉检验以及尺寸大于800× 1600×800mm设备的热处理。",4
+RLdedc9d6e27V01-S001,Ldedc9d6e27V01,Ldedc9d6e27,JSC “SNIIP-SYSTEMATOM”,俄罗斯,设计,传感器,核测仪表,1E级（安全壳内）,"设计活动场所： 123060, Raspletina.5, building 10, Moscow, Russia。",6
+RLdedc9d6e27V01-S002,Ldedc9d6e27V01,Ldedc9d6e27,JSC “SNIIP-SYSTEMATOM”,俄罗斯,设计,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"设计活动场所： 123060, Raspletina.5, building 10, Moscow, Russia。",6
+RLdedc9d6e27V01-S003,Ldedc9d6e27V01,Ldedc9d6e27,JSC “SNIIP-SYSTEMATOM”,俄罗斯,制造,传感器,核测仪表,1E级（安全壳内）,"制造活动场所： 123060, Raspletina.5, building 10, Moscow, Russia。",6
+RLdedc9d6e27V01-S004,Ldedc9d6e27V01,Ldedc9d6e27,JSC “SNIIP-SYSTEMATOM”,俄罗斯,制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"制造活动场所： 123060, Raspletina.5, building 10, Moscow, Russia。",6
+RL421370a242V01-S001,L421370a242V01,L421370a242,Limited Liability Company “Polesye”,俄罗斯,设计,储罐,/,2、3级,"1.仅用于VVER项目； 2.设计活动场所：16/1, Stepnaya str., Volgodonsk, Rostov region, Russia 347360。",4
+RL421370a242V01-S002,L421370a242V01,L421370a242,Limited Liability Company “Polesye”,俄罗斯,设计,机械贯穿件,/,2、3级,"1.仅用于VVER项目； 2.设计活动场所：16/1, Stepnaya str., Volgodonsk, Rostov region, Russia 347360。",4
+RL421370a242V01-S003,L421370a242V01,L421370a242,Limited Liability Company “Polesye”,俄罗斯,设计,热交换器,壳管式热交换器（含传热管）,3级,"1.仅用于VVER项目； 2.设计活动场所：16/1, Stepnaya str., Volgodonsk, Rostov region, Russia 347360。",4
+RL421370a242V01-S004,L421370a242V01,L421370a242,Limited Liability Company “Polesye”,俄罗斯,制造,储罐,/,2、3级,"1.仅用于VVER项目； 2.制造活动场所：16/1, Stepnaya str., Volgodonsk, Rostov region, Russia 347360。",4
+RL421370a242V01-S005,L421370a242V01,L421370a242,Limited Liability Company “Polesye”,俄罗斯,制造,机械贯穿件,/,2、3级,"1.仅用于VVER项目； 2.制造活动场所：16/1, Stepnaya str., Volgodonsk, Rostov region, Russia 347360。",4
+RL421370a242V01-S006,L421370a242V01,L421370a242,Limited Liability Company “Polesye”,俄罗斯,制造,热交换器,壳管式热交换器（含传热管）,3级,"1.仅用于VVER项目； 2.制造活动场所：16/1, Stepnaya str., Volgodonsk, Rostov region, Russia 347360。",4
+RL79963b6d63V01-S001,L79963b6d63V01,L79963b6d63,RINGMILL S.p.A,意大利,制造,铸锻件,阀类锻件,1级,活动场所：Dubino (SO) Via Valeriana 103 CAP23015。,5
+RL370aa8f79cV01-S001,L370aa8f79cV01,L370aa8f79c,Photonis France S.A.S.,法国,设计,传感器,核测仪表,1E级 （安全壳内，K2类）,1.设计活动场所：Avenue Roger Roncier 19100 Brive； 2.裂变室中子探测器组件 型号仅限CFUL08。,1
+RL370aa8f79cV01-S002,L370aa8f79cV01,L370aa8f79c,Photonis France S.A.S.,法国,设计,传感器,核测仪表,1E级（安全壳内）,1.设计活动场所：Avenue Roger Roncier 19100 Brive； 2.裂变室中子探测器组件 型号仅限CFUL08。,1
+RL370aa8f79cV01-S003,L370aa8f79cV01,L370aa8f79c,Photonis France S.A.S.,法国,制造,传感器,核测仪表,1E级 （安全壳内，K2类）,1.制造活动场所：Avenue Roger Roncier 19100 Brive； 2.裂变室中子探测器组件 型号仅限CFUL08； 3.分包项目：1E级电缆。,1
+RL370aa8f79cV01-S004,L370aa8f79cV01,L370aa8f79c,Photonis France S.A.S.,法国,制造,传感器,核测仪表,1E级（安全壳内）,1.制造活动场所：Avenue Roger Roncier 19100 Brive； 2.裂变室中子探测器组件 型号仅限CFUL08； 3.分包项目：1E级电缆。,1
+RLb5e73931c0V01-S001,Lb5e73931c0V01,Lb5e73931c0,ANDRITZ AG,奥地利,设计,泵,离心泵,1级,"1.设计活动场所：Stattegger Strasse 18,8045 Graz； 2.主要分包项目：全流量试验。",3
+RLb5e73931c0V01-S002,Lb5e73931c0V01,Lb5e73931c0,ANDRITZ AG,奥地利,设计,热交换器,管壳式热交换器,1级,"1.设计活动场所：Stattegger Strasse 18,8045 Graz； 2.主要分包项目：全流量试验。",3
+RLb5e73931c0V01-S003,Lb5e73931c0V01,Lb5e73931c0,ANDRITZ AG,奥地利,制造,泵,离心泵,1级,"1.制造活动场所：Stattegger Strasse 18,8045 Graz； 2.主要分包项目：高温拉伸。",3
+RLb5e73931c0V01-S004,Lb5e73931c0V01,Lb5e73931c0,ANDRITZ AG,奥地利,制造,热交换器,管壳式热交换器,1级,"1.制造活动场所：Stattegger Strasse 18,8045 Graz； 2.主要分包项目：高温拉伸。",3
+RL81edd7f34dV01-S001,L81edd7f34dV01,L81edd7f34d,Schroeder Valves GmbH &Co.KG,德国,设计,阀门,其他类型核安全级阀,2、3级,1.设计活动场所： Archimedesstrasse 3.51647 Gummersbach； 2.主要分包项目：抗震分 析。,4
+RL81edd7f34dV01-S002,L81edd7f34dV01,L81edd7f34d,Schroeder Valves GmbH &Co.KG,德国,制造,阀门,其他类型核安全级阀,2、3级,1.制造活动场所： Archimedesstrasse 3.51647 Gummersbach； 2.主要分包项目：理化检 验、热处理。,4
+RLcb29b2e85bV01-S001,Lcb29b2e85bV01,Lcb29b2e85b,Trillium Flow Technologies France SAS,法国,设计,阀门,安全阀、释放阀,1、2、3级,"1.先导式安全阀及大气释放阀设 计活动场所：106, Boulevard Paul Raphel 13730 Saint Victoret； 2.弹簧式安全阀设计活动场所： Rue Jean-Baptiste Grison-Z.I. du Bois Rigault 62880 Vendin-le-Vieil； 3.主要分包项目：除机械老化试 验、蒸汽流量试验和环境温度试验 之外的其他鉴定试验，抗震分析。",5
+RLcb29b2e85bV01-S002,Lcb29b2e85bV01,Lcb29b2e85b,Trillium Flow Technologies France SAS,法国,设计,阀门,安全阀、释放阀,2、3级,"1.先导式安全阀及大气释放阀设 计活动场所：106, Boulevard Paul Raphel 13730 Saint Victoret； 2.弹簧式安全阀设计活动场所： Rue Jean-Baptiste Grison-Z.I. du Bois Rigault 62880 Vendin-le-Vieil； 3.主要分包项目：除机械老化试 验、蒸汽流量试验和环境温度试验 之外的其他鉴定试验，抗震分析。",5
+RLcb29b2e85bV01-S003,Lcb29b2e85bV01,Lcb29b2e85b,Trillium Flow Technologies France SAS,法国,制造,阀门,安全阀、释放阀,1、2、3级,"1.先导式安全阀及大气释放阀制 造活动场所：106, Boulevard Paul Raphel 13730 Saint Victoret； Rue Jean-Baptiste Grison-Z.I. du Bois Rigault 62880 Vendin-le-Vieil（机加工）； 2.弹簧式安全阀制造活动场所： Rue Jean-Baptiste Grison-Z.I. du Bois Rigault 62880 Vendin-le-Vieil； 3.主要分包项目：理化检验。",5
+RLcb29b2e85bV01-S004,Lcb29b2e85bV01,Lcb29b2e85b,Trillium Flow Technologies France SAS,法国,制造,阀门,安全阀、释放阀,2、3级,"1.先导式安全阀及大气释放阀制 造活动场所：106, Boulevard Paul Raphel 13730 Saint Victoret； Rue Jean-Baptiste Grison-Z.I. du Bois Rigault 62880 Vendin-le-Vieil（机加工）； 2.弹簧式安全阀制造活动场所： Rue Jean-Baptiste Grison-Z.I. du Bois Rigault 62880 Vendin-le-Vieil； 3.主要分包项目：理化检验。",5
+RL1c376f17feV01-S001,L1c376f17feV01,L1c376f17fe,Forge Monchieri S.p.A,意大利,设计、制造,铸锻件,容器类锻件,1级,"1.制造活动场所：Via Industriale 3 25040 Cividate Camuno (BS); Via Quattro Piccoli Martiri, 2 25040 Cividate Camuno (BS);Via Dell’ Artigianato, 1-5 25040 Cividate Camuno (BS);Via Degli Emigranti, 5 25040 Cividate Camuno (BS)； 2.容器类锻件不包括反应堆压力容 器和蒸汽发生器的筒体、封头和管 板锻件； 3.分包项目：机加工。",7
+RL1c376f17feV01-S002,L1c376f17feV01,L1c376f17fe,Forge Monchieri S.p.A,意大利,设计、制造,铸锻件,泵类锻件,1级,"1.制造活动场所：Via Industriale 3 25040 Cividate Camuno (BS); Via Quattro Piccoli Martiri, 2 25040 Cividate Camuno (BS);Via Dell’ Artigianato, 1-5 25040 Cividate Camuno (BS);Via Degli Emigranti, 5 25040 Cividate Camuno (BS)； 2.容器类锻件不包括反应堆压力容 器和蒸汽发生器的筒体、封头和管 板锻件； 3.分包项目：机加工。",7
+RL1c376f17feV01-S003,L1c376f17feV01,L1c376f17fe,Forge Monchieri S.p.A,意大利,设计、制造,铸锻件,支承类锻件,1级,"1.制造活动场所：Via Industriale 3 25040 Cividate Camuno (BS); Via Quattro Piccoli Martiri, 2 25040 Cividate Camuno (BS);Via Dell’ Artigianato, 1-5 25040 Cividate Camuno (BS);Via Degli Emigranti, 5 25040 Cividate Camuno (BS)； 2.容器类锻件不包括反应堆压力容 器和蒸汽发生器的筒体、封头和管 板锻件； 3.分包项目：机加工。",7
+RL19eb24f9c1V01-S001,L19eb24f9c1V01,L19eb24f9c1,Wartsila France S.A.S.,法国,设计、制造,电源设备,应急柴油发电机组,1E级,1.制造活动场所：La Combe BP113 F-17700 Surgeres； 2.仅限UD45系列柴油机维修活 动。,1
+RL7a3705f0faV01-S001,L7a3705f0faV01,L7a3705f0fa,Mirion Technologies（IST）Corporation,美国,设计,传感器,核测仪表,1E级（安全壳内）,设计活动场所：315 Daniel Zenker Drive，300 IST Center，Horseheads，NY 14845。,2
+RL7a3705f0faV01-S002,L7a3705f0faV01,L7a3705f0fa,Mirion Technologies（IST）Corporation,美国,制造,传感器,核测仪表,1E级（安全壳内）,1.制造活动场所：315 Daniel Zenker Drive，300 IST Center，Horseheads，NY 14845； 2.主要分包项目：Quadax电 缆。,2
+RLe9a1845623V01-S001,Le9a1845623V01,Le9a1845623,Mirion Technologies(IST Canada)ULC,加拿大,设计,传感器,核测仪表,1E级（安全壳内）,"设计活动场所：465 Dobbie Drive, Cambridge, Ontario N1T 1T1, Canada。",3
+RLe9a1845623V01-S002,Le9a1845623V01,Le9a1845623,Mirion Technologies(IST Canada)ULC,加拿大,制造,传感器,核测仪表,1E级（安全壳内）,"制造活动场所：465 Dobbie Drive, Cambridge, Ontario N1T 1T1, Canada。",3
+RLefbe165ab6V01-S001,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,设计,传感器,核测仪表,1E级（安全壳内）,"设计活动场所： Landsberger Str. 328a, 80687 München。",4
+RLefbe165ab6V01-S002,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,设计,传感器,辐射监测探测器,1E级（安全壳内）,"设计活动场所： Landsberger Str. 328a, 80687 München。",4
+RLefbe165ab6V01-S003,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,设计,传感器,辐射监测探测器,1E级（安全壳外）,"设计活动场所： Landsberger Str. 328a, 80687 München。",4
+RLefbe165ab6V01-S004,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,设计,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"设计活动场所： Landsberger Str. 328a, 80687 München。",4
+RLefbe165ab6V01-S005,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,制造,传感器,核测仪表,1E级（安全壳内）,"1.制造活动场所： Landsberger Str. 328a, 80687 München； 2.主要分包项目：机柜柜 体、支撑架加工。",4
+RLefbe165ab6V01-S006,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,制造,传感器,辐射监测探测器,1E级（安全壳内）,"1.制造活动场所： Landsberger Str. 328a, 80687 München； 2.主要分包项目：机柜柜 体、支撑架加工。",4
+RLefbe165ab6V01-S007,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,制造,传感器,辐射监测探测器,1E级（安全壳外）,"1.制造活动场所： Landsberger Str. 328a, 80687 München； 2.主要分包项目：机柜柜 体、支撑架加工。",4
+RLefbe165ab6V01-S008,Lefbe165ab6V01,Lefbe165ab6,Mirion Technologies (MGPI H&B) GmbH,德国,制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"1.制造活动场所： Landsberger Str. 328a, 80687 München； 2.主要分包项目：机柜柜 体、支撑架加工。",4
+RLc026f4d033V01-S001,Lc026f4d033V01,Lc026f4d033,日本齿轮工业株式会社,日本,设计,阀门驱动装置,多回转阀门电动装置,1E级（安全壳内、外）,"1.设计活动场所： 7,Kirihara-cho,Fujisawa-shi,Ka nagawa,ZIP252-0811； 2.仅限于LIMITORQUE SMB/SB-D型 号。",6
+RLc026f4d033V01-S002,Lc026f4d033V01,Lc026f4d033,日本齿轮工业株式会社,日本,设计,阀门驱动装置,部分回转阀门电动装置,1E级（安全壳内、外）,"1.设计活动场所： 7,Kirihara-cho,Fujisawa-shi,Ka nagawa,ZIP252-0811； 2.仅限于LIMITORQUE SMB/SB-D型 号。",6
+RLc026f4d033V01-S003,Lc026f4d033V01,Lc026f4d033,日本齿轮工业株式会社,日本,设计,阀门驱动装置,直行程阀门电动装置,1E级（安全壳内、外）,"1.设计活动场所： 7,Kirihara-cho,Fujisawa-shi,Ka nagawa,ZIP252-0811； 2.仅限于LIMITORQUE SMB/SB-D型 号。",6
+RLc026f4d033V01-S004,Lc026f4d033V01,Lc026f4d033,日本齿轮工业株式会社,日本,制造,阀门驱动装置,多回转阀门电动装置,1E级（安全壳内、外）,"1.制造活动场所： 7,Kirihara-cho,Fujisawa-shi,Ka nagawa,ZIP252-0811； 2.仅限于LIMITORQUE SMB/SB-D型 号。",6
+RLc026f4d033V01-S005,Lc026f4d033V01,Lc026f4d033,日本齿轮工业株式会社,日本,制造,阀门驱动装置,部分回转阀门电动装置,1E级（安全壳内、外）,"1.制造活动场所： 7,Kirihara-cho,Fujisawa-shi,Ka nagawa,ZIP252-0811； 2.仅限于LIMITORQUE SMB/SB-D型 号。",6
+RLc026f4d033V01-S006,Lc026f4d033V01,Lc026f4d033,日本齿轮工业株式会社,日本,制造,阀门驱动装置,直行程阀门电动装置,1E级（安全壳内、外）,"1.制造活动场所： 7,Kirihara-cho,Fujisawa-shi,Ka nagawa,ZIP252-0811； 2.仅限于LIMITORQUE SMB/SB-D型 号。",6
+RL019057e47fV01-S001,L019057e47fV01,L019057e47f,Samshin Limited,韩国,设计,阀门,隔离阀,1、2、3级,"1.不包括主蒸汽隔离阀； 2.设计活动场所： （1）1138-11, Seongjin-ro, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea； （2） 6, Bodeokwon-gil, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea。",7
+RL019057e47fV01-S002,L019057e47fV01,L019057e47f,Samshin Limited,韩国,设计,阀门,单向阀,1、2、3级,"1.不包括主蒸汽隔离阀； 2.设计活动场所： （1）1138-11, Seongjin-ro, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea； （2） 6, Bodeokwon-gil, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea。",7
+RL019057e47fV01-S003,L019057e47fV01,L019057e47f,Samshin Limited,韩国,制造,阀门,隔离阀,1、2、3级,"1.不包括主蒸汽隔离阀； 2.制造活动场所： （1）1138-11, Seongjin-ro, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea； （2） 6, Bodeokwon-gil, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea。",7
+RL019057e47fV01-S004,L019057e47fV01,L019057e47f,Samshin Limited,韩国,制造,阀门,单向阀,1、2、3级,"1.不包括主蒸汽隔离阀； 2.制造活动场所： （1）1138-11, Seongjin-ro, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea； （2） 6, Bodeokwon-gil, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea。",7
+RL019057e47fV01-S005,L019057e47fV01,L019057e47f,Samshin Limited,韩国,制造,铸锻件,阀类铸件,1级,"1.不包括主蒸汽隔离阀； 2.制造活动场所： （1）1138-11, Seongjin-ro, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea； （2） 6, Bodeokwon-gil, Ipjang-myeon, Seobuk-gu, Cheonan-si, Chungcheongnam-do 31061 Republic of Korea。",7
+RL853868fdfeV01-S001,L853868fdfeV01,L853868fdfe,KSR Kübler Niveau-Messtechnik GmbH,德国,设计,传感器,液位计,1E级（安全壳内、外）,"设计活动场所： Heinrich-Kuebler-Platz 1, 69439,Zwingenberg。",7
+RL853868fdfeV01-S002,L853868fdfeV01,L853868fdfe,KSR Kübler Niveau-Messtechnik GmbH,德国,制造,传感器,液位计,1E级（安全壳内、外）,"制造活动场所： Heinrich-Kuebler-Platz 1, 69439,Zwingenberg。",7
+RL853868fdfeV02-S001,L853868fdfeV02,L853868fdfe,KSR Kübler Niveau-Messtechnik GmbH,德国,设计,传感器,液位计,1E级（安全壳外）,"设计活动场所： Heinrich-Kuebler-Pla tz 1, 69439 , Zwingenberg。",9
+RL853868fdfeV02-S002,L853868fdfeV02,L853868fdfe,KSR Kübler Niveau-Messtechnik GmbH,德国,设计,传感器,液位计,1E级（安全壳内、外）,"设计活动场所： Heinrich-Kuebler-Pla tz 1, 69439 , Zwingenberg。",9
+RL853868fdfeV02-S003,L853868fdfeV02,L853868fdfe,KSR Kübler Niveau-Messtechnik GmbH,德国,制造,传感器,液位计,1E级（安全壳外）,"制造活动场所： Heinrich-Kuebler-Pla tz 1, 69439 , Zwingenberg。",9
+RL853868fdfeV02-S004,L853868fdfeV02,L853868fdfe,KSR Kübler Niveau-Messtechnik GmbH,德国,制造,传感器,液位计,1E级（安全壳内、外）,"制造活动场所： Heinrich-Kuebler-Pla tz 1, 69439 , Zwingenberg。",9
+RL7145fe4ac5V01-S001,L7145fe4ac5V01,L7145fe4ac5,REGULATEURS GEORGIN,法国,设计,传感器,压力变送器,1E级（安全壳外）,设计活动场所：14-16 rue Pierre Semard 92320 CHATILLON。,10
+RL7145fe4ac5V01-S002,L7145fe4ac5V01,L7145fe4ac5,REGULATEURS GEORGIN,法国,设计,传感器,温度计,1E级（安全壳外）,设计活动场所：14-16 rue Pierre Semard 92320 CHATILLON。,10
+RL7145fe4ac5V01-S003,L7145fe4ac5V01,L7145fe4ac5,REGULATEURS GEORGIN,法国,制造,传感器,压力变送器,1E级（安全壳外）,制造活动场所：14-16 rue Pierre Semard 92320 CHATILLON。,10
+RL7145fe4ac5V01-S004,L7145fe4ac5V01,L7145fe4ac5,REGULATEURS GEORGIN,法国,制造,传感器,温度计,1E级（安全壳外）,制造活动场所：14-16 rue Pierre Semard 92320 CHATILLON。,10
+RL27dfa3fbf9V01-S001,L27dfa3fbf9V01,L27dfa3fbf9,AUMA Riester GmbH & Co.KG,德国,设计,阀门驱动装置,阀门电动装置,1E级（安全壳内、外）,"设计活动场所： Aumastrasse 1, 79379 Müllheim, Germany。",1
+RL27dfa3fbf9V01-S002,L27dfa3fbf9V01,L27dfa3fbf9,AUMA Riester GmbH & Co.KG,德国,制造,阀门驱动装置,阀门电动装置,1E级（安全壳内、外）,"制造活动场所： Aumastrasse 1, 79379 Müllheim, Germany。",1
+RL809fc7d6f0V01-S001,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,铸锻件,容器类锻件,1级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S002,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,铸锻件,泵类锻件,1级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S003,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,铸锻件,支承类锻件,1级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S004,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,支承件,设备支承件,1、2、3级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S005,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,压力容器,反应堆压力容器,1级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S006,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,压力容器,稳压器,1级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S007,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,压力容器、储罐,压力容器、储罐,2、3级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S008,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,堆内构件,堆内构件,2级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S009,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,设计,管道和管配件,主管道预制,2级,"1.仅用于VVER项目； 2.主要分包项目：抗震分 析； 3.设计活动场所： （1）13 Finlyandskaya ul., litera BM, pom.469, Kolpino, Saint Petersburg, 196650, Russia； （2）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （3）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （4）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia。",3
+RL809fc7d6f0V01-S010,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,铸锻件,容器类锻件,1级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S011,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,铸锻件,泵类锻件,1级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S012,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,铸锻件,支承类锻件,1级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S013,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,支承件,设备支承件,1、2、3级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S014,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,压力容器,反应堆压力容器,1级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S015,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,压力容器,稳压器,1级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S016,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,压力容器、储罐,压力容器、储罐,2、3级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S017,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,堆内构件,堆内构件,2级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S018,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,管道和管配件,主管道预制,2级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S019,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,管道和管配件,热交换器传热管,2级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S020,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,热交换器,蒸汽发生器,1级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RL809fc7d6f0V01-S021,L809fc7d6f0V01,L809fc7d6f0,JSC “AEM-technologies”,俄罗斯,制造,闸门,设备闸门,2级,"1.仅用于VVER项目； 2.热交换器传热管的制造 仅限于直管的弯制、无损 检验和水压试验； 3.制造活动场所： （1）10 Zhukovskoye Shosse, Volgodonsk, Rostov region，347360, Russia； （2）65, Zaitsevа ul., Petrozavodsk, the Republic of Karelia， 185031, Russia； （3）55 Izhorsky Zavod, litera O, pom.33, Kolpino, Saint Petersburg, 196650, Russia； （4）39 Izhorsky Zavod, litera BU, pom. 126, Kolpino, Saint Petersburg, 196650, Russia。",4
+RLe8d7fcef8cV01-S001,Le8d7fcef8cV01,Le8d7fcef8c,Mirion Technologies (MGPI) SAS,法国,设计,传感器,辐射监测探测器,1E级（安全壳内、外）,"设计活动场所：Route d’Eyguières, FR-13113 Lamanon。",5
+RLe8d7fcef8cV01-S002,Le8d7fcef8cV01,Le8d7fcef8c,Mirion Technologies (MGPI) SAS,法国,设计,传感器,辐射监测探测器,1E级（安全壳外）,"设计活动场所：Route d’Eyguières, FR-13113 Lamanon。",5
+RLe8d7fcef8cV01-S003,Le8d7fcef8cV01,Le8d7fcef8c,Mirion Technologies (MGPI) SAS,法国,设计,仪控系统机柜,仪控盘、台、屏、箱,1E级（安全壳外）,"设计活动场所：Route d’Eyguières, FR-13113 Lamanon。",5
+RLe8d7fcef8cV01-S004,Le8d7fcef8cV01,Le8d7fcef8c,Mirion Technologies (MGPI) SAS,法国,制造,传感器,辐射监测探测器,1E级（安全壳内、外）,"制造活动场所：Route d’Eyguières, FR-13113 Lamanon。",5
+RLe8d7fcef8cV01-S005,Le8d7fcef8cV01,Le8d7fcef8c,Mirion Technologies (MGPI) SAS,法国,制造,传感器,辐射监测探测器,1E级（安全壳外）,"制造活动场所：Route d’Eyguières, FR-13113 Lamanon。",5
+RLe8d7fcef8cV01-S006,Le8d7fcef8cV01,Le8d7fcef8c,Mirion Technologies (MGPI) SAS,法国,制造,仪控系统机柜,仪控盘、台、屏、箱,1E级（安全壳外）,"制造活动场所：Route d’Eyguières, FR-13113 Lamanon。",5
+RL2f513d7b39V01-S001,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,设计,电缆,中压电力电缆,1E级（安全壳内、外）,设计活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S002,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,设计,电缆,低压电力电缆,1E级（安全壳内、外）,设计活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S003,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,设计,电缆,控制电缆,1E级（安全壳内、外）,设计活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S004,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,设计,电缆,仪表电缆,1E级（安全壳内、外）,设计活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S005,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,设计,电缆,同轴电缆,1E级（安全壳内、外）,设计活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S006,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,制造,电缆,中压电力电缆,1E级（安全壳内、外）,制造活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S007,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,制造,电缆,低压电力电缆,1E级（安全壳内、外）,制造活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S008,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,制造,电缆,控制电缆,1E级（安全壳内、外）,制造活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S009,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,制造,电缆,仪表电缆,1E级（安全壳内、外）,制造活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL2f513d7b39V01-S010,L2f513d7b39V01,L2f513d7b39,Prysmian Câbles et Systèmes France S.A.S.,法国,制造,电缆,同轴电缆,1E级（安全壳内、外）,制造活动场所：19 avenue de la paix Paron 89107 Sens Cedex。,7
+RL6d79752019V01-S001,L6d79752019V01,L6d79752019,PJSC《Contour》,俄罗斯,设计、制造,阀门,隔离阀,3级,"制造活动场所：Russia 173021,Velikiy Novgorod Nekhinskaya St.61。",8
+RL6d79752019V01-S002,L6d79752019V01,L6d79752019,PJSC《Contour》,俄罗斯,设计、制造,阀门,隔离阀,2、3级,"制造活动场所：Russia 173021,Velikiy Novgorod Nekhinskaya St.61。",8
+RL6d79752019V01-S003,L6d79752019V01,L6d79752019,PJSC《Contour》,俄罗斯,设计、制造,阀门,单向阀,2、3级,"制造活动场所：Russia 173021,Velikiy Novgorod Nekhinskaya St.61。",8
+RL6d79752019V01-S004,L6d79752019V01,L6d79752019,PJSC《Contour》,俄罗斯,设计、制造,阀门,调节阀,2、3级,"制造活动场所：Russia 173021,Velikiy Novgorod Nekhinskaya St.61。",8
+RLbc52cba7bdV01-S001,Lbc52cba7bdV01,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,管道,,1级,仅限燃料通道压力管,7
+RLbc52cba7bdV02-S001,Lbc52cba7bdV02,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,管道和管配件,直管（有缝、无缝）,1级,1.仅限坎杜堆型； 2.设计活动场所： 2251/2258 Speakman Drive Mississauga Ontario L5K 1B2 Canada； 3.试验验证场所： 2233 Speakman Drive Mississauga Ontario L5K 1B2 Canada。,1
+RLbc52cba7bdV02-S002,Lbc52cba7bdV02,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,管道和管配件,管道预制,1级,1.仅限坎杜堆型； 2.设计活动场所： 2251/2258 Speakman Drive Mississauga Ontario L5K 1B2 Canada； 3.试验验证场所： 2233 Speakman Drive Mississauga Ontario L5K 1B2 Canada。,1
+RLbc52cba7bdV02-S003,Lbc52cba7bdV02,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,管道和管配件,管配件（含仪表管配件）,1级,1.仅限坎杜堆型； 2.设计活动场所： 2251/2258 Speakman Drive Mississauga Ontario L5K 1B2 Canada； 3.试验验证场所： 2233 Speakman Drive Mississauga Ontario L5K 1B2 Canada。,1
+RLbc52cba7bdV02-S004,Lbc52cba7bdV02,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,管道和管配件,仪表管,1级,1.仅限坎杜堆型； 2.设计活动场所： 2251/2258 Speakman Drive Mississauga Ontario L5K 1B2 Canada； 3.试验验证场所： 2233 Speakman Drive Mississauga Ontario L5K 1B2 Canada。,1
+RLbc52cba7bdV02-S005,Lbc52cba7bdV02,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,支承件,管道支承件,1级,1.仅限坎杜堆型； 2.设计活动场所： 2251/2258 Speakman Drive Mississauga Ontario L5K 1B2 Canada； 3.试验验证场所： 2233 Speakman Drive Mississauga Ontario L5K 1B2 Canada。,1
+RLbc52cba7bdV02-S006,Lbc52cba7bdV02,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,法兰,法兰,1级,1.仅限坎杜堆型； 2.设计活动场所： 2251/2258 Speakman Drive Mississauga Ontario L5K 1B2 Canada； 3.试验验证场所： 2233 Speakman Drive Mississauga Ontario L5K 1B2 Canada。,1
+RLbc52cba7bdV02-S007,Lbc52cba7bdV02,Lbc52cba7bd,Candu Energy Inc.,加拿大,设计、制造,铸锻件,容器类锻件,1级,1.仅限坎杜堆型； 2.设计活动场所： 2251/2258 Speakman Drive Mississauga Ontario L5K 1B2 Canada； 3.试验验证场所： 2233 Speakman Drive Mississauga Ontario L5K 1B2 Canada。,1
+RL28c751c086V01-S001,L28c751c086V01,L28c751c086,Fuji Electric France SAS,法国,设计、制造,传感器,压力变送器,1E级（安全壳外）,无,4
+RL28c751c086V02-S001,L28c751c086V02,L28c751c086,Fuji Electric France SAS,法国,设计,传感器,压力变送器,1E级（安全壳外）,"设计活动场所：46, rue Georges Besse-Zone Industrielle du Brezet-63100 Clermont-Ferrand France。",3
+RL28c751c086V02-S002,L28c751c086V02,L28c751c086,Fuji Electric France SAS,法国,制造,传感器,压力变送器,1E级（安全壳外）,"制造活动场所：46, rue Georges Besse-Zone Industrielle du Brezet-63100 Clermont-Ferrand France。",3
+RL55f01a664dV01-S001,L55f01a664dV01,L55f01a664d,Alfa Laval Technologies AB,瑞典,设计,热交换器,板式热交换器,3级,1.设计活动场所： Rudeboksvagen 1. Box 74. SE - 22100 Lund； 2.VVER堆型为核2级。,4
+RL55f01a664dV01-S002,L55f01a664dV01,L55f01a664d,Alfa Laval Technologies AB,瑞典,制造,热交换器,板式热交换器,3级,1.制造活动场所： Rudeboksvagen 1. Box 74. SE - 22100 Lund； 2.主要分包项目：理化检验、 超声检验、射线检验； 3.VVER堆型为核2级。,4
+RL7b0a5f08c2V01-S001,L7b0a5f08c2V01,L7b0a5f08c2,Rolls-Royce Solutions GmbH,德国,设计,电源设备,应急柴油发电机组,1E级,1.型号限V956 系列； 2.设计活动场所：88045 Friedrichshafen 。,5
+RL7b0a5f08c2V01-S002,L7b0a5f08c2V01,L7b0a5f08c2,Rolls-Royce Solutions GmbH,德国,制造,电源设备,应急柴油发电机组,1E级,1.型号限 V956系列； 2.主要分包项目:公共底座、发 电机、润滑油/燃油箱、压力容 器、泵、阀门等； 3.制造活动场所：88045 Friedrichshafen 。,5
+RL4f7d2dec7bV01-S001,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,设计,电气贯穿件,中压动力贯穿件,1E级,1.设计活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S002,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,设计,电气贯穿件,低压动力贯穿件,1E级,1.设计活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S003,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,设计,电气贯穿件,控制贯穿件,1E级,1.设计活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S004,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,设计,电气贯穿件,仪表贯穿件,1E级,1.设计活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S005,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,设计,电气贯穿件,同轴贯穿件,1E级,1.设计活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S006,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,制造,电气贯穿件,中压动力贯穿件,1E级,1.制造活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线，矿物绝缘导 线由法国ESTERLINE-AUXIRTOL制 造； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S007,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,制造,电气贯穿件,低压动力贯穿件,1E级,1.制造活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线，矿物绝缘导 线由法国ESTERLINE-AUXIRTOL制 造； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S008,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,制造,电气贯穿件,控制贯穿件,1E级,1.制造活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线，矿物绝缘导 线由法国ESTERLINE-AUXIRTOL制 造； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S009,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,制造,电气贯穿件,仪表贯穿件,1E级,1.制造活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线，矿物绝缘导 线由法国ESTERLINE-AUXIRTOL制 造； 3.同轴贯穿件含三同轴。,6
+RL4f7d2dec7bV01-S010,L4f7d2dec7bV01,L4f7d2dec7b,Mirion Technologies（IST France）,法国,制造,电气贯穿件,同轴贯穿件,1E级,1.制造活动场所：21，rue Christophe Colomb-18110 Fussy； 2.仪表贯穿件含热电偶、矿物绝缘 导体馈通线及延长线，矿物绝缘导 线由法国ESTERLINE-AUXIRTOL制 造； 3.同轴贯穿件含三同轴。,6
+RL5a84061e63V01-S001,L5a84061e63V01,L5a84061e63,Fisher Controls International LLC,美国,设计,阀门,调节阀,1、2、3级,"1.设计活动场所：Marshalltown, Iowa, USA 50158-0190； 2.调节阀主要分包项目：抗震试 验，隔离阀主要分包项目：部分 鉴定试验（环境试验、寿命试验、 抗震试验）； 3.截止阀结构形式为套筒式。",8
+RL5a84061e63V01-S002,L5a84061e63V01,L5a84061e63,Fisher Controls International LLC,美国,设计,阀门,隔离阀,1、2、3级,"1.设计活动场所：Marshalltown, Iowa, USA 50158-0190； 2.调节阀主要分包项目：抗震试 验，隔离阀主要分包项目：部分 鉴定试验（环境试验、寿命试验、 抗震试验）； 3.截止阀结构形式为套筒式。",8
+RL5a84061e63V01-S003,L5a84061e63V01,L5a84061e63,Fisher Controls International LLC,美国,制造,阀门,调节阀,1、2、3级,"1.制造活动场所：Marshalltown, Iowa, USA 50158-0190 ； 2.主要分包项目：理化检验（硬度、 化学元素分析除外）； 3.截止阀结构形式为套筒式；",8
+RL5a84061e63V01-S004,L5a84061e63V01,L5a84061e63,Fisher Controls International LLC,美国,制造,阀门,隔离阀,1、2、3级,"1.制造活动场所：Marshalltown, Iowa, USA 50158-0190 ； 2.主要分包项目：理化检验（硬度、 化学元素分析除外）； 3.截止阀结构形式为套筒式；",8
+RLea7dbce64bV01-S001,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,设计,阀门,隔离阀,1、2、3级,1.设计活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.截止型调节阀可用于含固态杂 质的液态介质，工作温度≤300℃， 工作压力≤17.2MPa；蒸汽工况： 工作温度≤260℃，工作压力≤ 2.0 MPa； 3.主要分包项目：抗震试验、全 排量试验、辐照老化试验。,1
+RLea7dbce64bV01-S002,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,设计,阀门,单向阀,1、2、3级,1.设计活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.截止型调节阀可用于含固态杂 质的液态介质，工作温度≤300℃， 工作压力≤17.2MPa；蒸汽工况： 工作温度≤260℃，工作压力≤ 2.0 MPa； 3.主要分包项目：抗震试验、全 排量试验、辐照老化试验。,1
+RLea7dbce64bV01-S003,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,设计,阀门,安全阀,3级,1.设计活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.截止型调节阀可用于含固态杂 质的液态介质，工作温度≤300℃， 工作压力≤17.2MPa；蒸汽工况： 工作温度≤260℃，工作压力≤ 2.0 MPa； 3.主要分包项目：抗震试验、全 排量试验、辐照老化试验。,1
+RLea7dbce64bV01-S004,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,设计,阀门,调节阀,2、3级,1.设计活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.截止型调节阀可用于含固态杂 质的液态介质，工作温度≤300℃， 工作压力≤17.2MPa；蒸汽工况： 工作温度≤260℃，工作压力≤ 2.0 MPa； 3.主要分包项目：抗震试验、全 排量试验、辐照老化试验。,1
+RLea7dbce64bV01-S005,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,制造,阀门,隔离阀,1、2、3级,1.制造活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.不包括主蒸汽隔离阀； 3.主要分包项目：理化检验。,1
+RLea7dbce64bV01-S006,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,制造,阀门,单向阀,1、2、3级,1.制造活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.不包括主蒸汽隔离阀； 3.主要分包项目：理化检验。,1
+RLea7dbce64bV01-S007,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,制造,阀门,安全阀,3级,1.制造活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.不包括主蒸汽隔离阀； 3.主要分包项目：理化检验。,1
+RLea7dbce64bV01-S008,Lea7dbce64bV01,Lea7dbce64b,VELAN S.A.S.,法国,制造,阀门,调节阀,2、3级,1.制造活动场所：90 rue Challemel Lacour 69007 Lyon ； 2.不包括主蒸汽隔离阀； 3.主要分包项目：理化检验。,1
+RL7032782d67V01-S001,L7032782d67V01,L7032782d67,LISEGA SE,德国,制造,支承件,管道支承件,1、2、3级,"设计活动场所： Gerhard-Liese gang-Strasse 1, 27404 Zeven。",3
+RL7032782d67V01-S002,L7032782d67V01,L7032782d67,LISEGA SE,德国,制造,支承件,阻尼器,1、2、3级,"设计活动场所： Gerhard-Liese gang-Strasse 1, 27404 Zeven。",3
+RL7032782d67V01-S003,L7032782d67V01,L7032782d67,LISEGA SE,德国,设计,支承件,管道支承件,1、2、3级,"制造活动场所： Gerhard-Lieseg ang-Strasse 1, 27404 Zeven。",3
+RL7032782d67V01-S004,L7032782d67V01,L7032782d67,LISEGA SE,德国,设计,支承件,阻尼器,1、2、3级,"制造活动场所： Gerhard-Lieseg ang-Strasse 1, 27404 Zeven。",3
+RLf4be583913V01-S001,Lf4be583913V01,Lf4be583913,Joint stock Company TYAZHMASH,俄罗斯,设计、制造,支承件,设备支承件,1、2级,"制造活动场所：13 Hydroturbinnaya St., Syzran，Samara region 446010，Russia。",4
+RLf4be583913V01-S002,Lf4be583913V01,Lf4be583913,Joint stock Company TYAZHMASH,俄罗斯,设计、制造,支承件,阻尼器,2级,"制造活动场所：13 Hydroturbinnaya St., Syzran，Samara region 446010，Russia。",4
+RL41dda49dd1V01-S001,L41dda49dd1V01,L41dda49dd1,PKTI“Atomarmproekt”,俄罗斯,设计、制造,阀门,隔离阀,2、3级,"1.设计活动场所： Russia,173021, Velikiy Novgorod, Nekhinskaya 61.； 2.主要分包项目：鉴定试验（包 括抗震试验、流体阻力系数测 定试验）； 3.仅用于VVER机组。",5
+RL41dda49dd1V01-S002,L41dda49dd1V01,L41dda49dd1,PKTI“Atomarmproekt”,俄罗斯,设计、制造,阀门,单向阀,2、3级,"1.设计活动场所： Russia,173021, Velikiy Novgorod, Nekhinskaya 61.； 2.主要分包项目：鉴定试验（包 括抗震试验、流体阻力系数测 定试验）； 3.仅用于VVER机组。",5
+RL41dda49dd1V01-S003,L41dda49dd1V01,L41dda49dd1,PKTI“Atomarmproekt”,俄罗斯,设计、制造,阀门,调节阀,2、3级,"1.设计活动场所： Russia,173021, Velikiy Novgorod, Nekhinskaya 61.； 2.主要分包项目：鉴定试验（包 括抗震试验、流体阻力系数测 定试验）； 3.仅用于VVER机组。",5
+RLbfa3037112V01-S001,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,储罐,/,3级,仅用于VVER机组。,6
+RLbfa3037112V01-S002,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,热交换器,管壳式热交换器,3级,仅用于VVER机组。,6
+RLbfa3037112V01-S003,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,热交换器,热交换器传热管,3级,仅用于VVER机组。,6
+RLbfa3037112V01-S004,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,直管,2级、3级,仅用于VVER机组。,6
+RLbfa3037112V01-S005,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,管道预制,2级、3级,仅用于VVER机组。,6
+RLbfa3037112V01-S006,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,弯头,2级、3级,仅用于VVER机组。,6
+RLbfa3037112V01-S007,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,三通,2级、3级,仅用于VVER机组。,6
+RLbfa3037112V01-S008,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,异径管,2级、3级,仅用于VVER机组。,6
+RLbfa3037112V01-S009,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,支承件,管道支承件,2级、3级,仅用于VVER机组。,6
+RLbfa3037112V01-S010,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,储罐,/,3级,仅用于VVER机组。,7
+RLbfa3037112V01-S011,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,热交换器,管壳式热交换器,3级,仅用于VVER机组。,7
+RLbfa3037112V01-S012,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,热交换器,热交换器传热管,3级,仅用于VVER机组。,7
+RLbfa3037112V01-S013,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,直管,2级、3级,仅用于VVER机组。,7
+RLbfa3037112V01-S014,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,管道预制,2级、3级,仅用于VVER机组。,7
+RLbfa3037112V01-S015,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,弯头,2级、3级,仅用于VVER机组。,7
+RLbfa3037112V01-S016,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,三通,2级、3级,仅用于VVER机组。,7
+RLbfa3037112V01-S017,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,异径管,2级、3级,仅用于VVER机组。,7
+RLbfa3037112V01-S018,Lbfa3037112V01,Lbfa3037112,"ZIO-Podolsk Mechanical Engineering Plant, Joint-Stock Company",俄罗斯,设计、制造,支承件,管道支承件,2级、3级,仅用于VVER机组。,7
+RLb8a036e635V01-S001,Lb8a036e635V01,Lb8a036e635,Framatome GmbH,德国,设计、制造,阀门驱动装置,阀门电动装置,1E级（安全壳内、外）,无,8
+RLb8a036e635V02-S001,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,泵,离心泵,1、2、3级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S002,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,压缩机,往复式,2、3级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S003,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电缆,电力电缆,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S004,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电缆,控制电缆,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S005,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电缆,仪表电缆,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S006,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电缆,同轴电缆,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S007,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电缆,电缆附件,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S008,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电气贯穿件,/,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S009,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,仪控系统机柜,仪控机架、机柜,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S010,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,仪控系统机柜,仪控盘、台、屏、箱/后备盘、应急控制盘,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S011,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电源设备,应急柴油发电机组/发电机,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S012,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电源设备,蓄电池（组）,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S013,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,阀门驱动装置,阀门电动装置,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S014,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电动机,交流电动机,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S015,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计,电动机,直流电动机,1E级,设计活动场所：Paul Gossen Strasse 100 91052 Erlangen。,8
+RLb8a036e635V02-S016,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计、制造,阀门驱动装置,阀门电动装置,1E级（安全壳内、外）,制造活动场所：Paul Gossen Strasse 100 91052 Erlangen。,9
+RLb8a036e635V02-S017,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计、制造,仪控系统机柜,仪控机架、机柜,1E级,制造活动场所：Paul Gossen Strasse 100 91052 Erlangen。,9
+RLb8a036e635V02-S018,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计、制造,仪控系统机柜,仪控盘、台、屏、箱/后备盘、应急控制盘,1E级,制造活动场所：Paul Gossen Strasse 100 91052 Erlangen。,9
+RLb8a036e635V02-S019,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计、制造,传感器,核测仪表/中子通量探测器,1E级,制造活动场所： Seligenstaedter Strasse 100，DE 63791 Karlstein am Main Germany。,9
+RLb8a036e635V02-S020,Lb8a036e635V02,Lb8a036e635,Framatome GmbH,德国,设计、制造,传感器,液位计,1E级 （安全壳内 /E1B级）,"1.制造活动场所： Seligenstaedter Strasse 100, DE 63791 Karlstein am Main Germany； 2.限台山1、2号机 组。",9
+RL7b34a0429dV01-S001,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,钢制安全壳,/,2级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S002,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,压力容器,/,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S003,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,储罐,/,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S004,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,热交换器,管壳式热交换器,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S005,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,热交换器,板式热交换器,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S006,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,管道和管配件,直管,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S007,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,管道和管配件,管道预制,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S008,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,管道和管配件,弯头,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S009,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,管道和管配件,三通,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S010,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,管道和管配件,异径管,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S011,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,泵,离心泵,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S012,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,泵,往复泵,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S013,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,泵,屏蔽泵,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S014,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,泵,其他类型的核安全级泵,1、2、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S015,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,堆内构件,/,3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S016,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计,控制棒驱动机构,/,1、3级,"1. 设 计 活 动 场 所 ： 1000 Westinghouse Drive Cranberry Township, PA 16066； 2.对设计活动中的分包项目负 总责。",10
+RL7b34a0429dV01-S017,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,堆内构件,/,3级,"1.主要分包项目：理化 检验。 2.制造活动场所：178 Shattuck Way Newington, NH 0381, USA（纽因顿工厂）。",11
+RL7b34a0429dV01-S018,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,控制棒驱动机构,耐压壳体,1级,"1.主要分包项目：理化 检验。 2.制造活动场所：178 Shattuck Way Newington, NH 0381, USA（纽因顿工厂）。",11
+RL7b34a0429dV01-S019,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,控制棒驱动机构,驱动机构,3级,"1.主要分包项目：理化 检验。 2.制造活动场所：178 Shattuck Way Newington, NH 0381, USA（纽因顿工厂）。",11
+RL7b34a0429dV01-S020,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,保护及安全监控系统机柜,1E级,"设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066。",11
+RL7b34a0429dV01-S021,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,堆外核测仪表系统机柜,1E级,"设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066。",11
+RL7b34a0429dV01-S022,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,安全设备启动系统机柜,1E级,"设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066。",11
+RL7b34a0429dV01-S023,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,主控制室安全显示屏,1E级,"设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066。",11
+RL7b34a0429dV01-S024,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,安全相关控制面板和显示屏,1E级,"设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066。",11
+RL7b34a0429dV01-S025,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,传感器,压力/差压传感器,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S026,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,传感器,温度传感器（热电偶式、热电阻式）,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S027,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,传感器,中子通量探测器,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S028,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,电气贯穿件,电气贯穿件,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S029,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,电源设备,蓄电池（组）,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S030,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,阀门驱动装置,阀门电动装置,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S031,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,电缆,仪表电缆,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S032,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,电缆,同轴电缆,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S033,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,电缆,电缆附件,1E级,"1.设计活动场所：1000 Westinghouse Drive Cranberry Township, PA 16066； 2.根据营运单位给出的核 设施系统功能要求，确定 设备技术规格书，包括对 该设备的设计、制造、检 验和试验等的总体要求。 由分包商完成产品设计。",11
+RL7b34a0429dV01-S034,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,保护及安全监控系统机柜,1E级,"制造活动场所：5000 Ericsson Drive Warrendale, PA, 15086, USA（Cranberry工厂）。",12
+RL7b34a0429dV01-S035,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,堆外核测仪表系统机柜,1E级,"制造活动场所：5000 Ericsson Drive Warrendale, PA, 15086, USA（Cranberry工厂）。",12
+RL7b34a0429dV01-S036,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,安全设备启动系统机柜,1E级,"制造活动场所：5000 Ericsson Drive Warrendale, PA, 15086, USA（Cranberry工厂）。",12
+RL7b34a0429dV01-S037,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,主控制室安全显示屏,1E级,"制造活动场所：5000 Ericsson Drive Warrendale, PA, 15086, USA（Cranberry工厂）。",12
+RL7b34a0429dV01-S038,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,仪控系统机柜,安全相关控制面板和显示屏,1E级,"制造活动场所：5000 Ericsson Drive Warrendale, PA, 15086, USA（Cranberry工厂）。",12
+RL7b34a0429dV01-S039,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,成套开关设备和控制设备,交流中压开关柜（仅限反应堆冷却剂泵断路器柜）,1E级（安全壳外）,"1.制造活动场所：1000 Westinghouse Drive New Stanton,PA15672； 2.除主控室甩负荷控制 盘、熔丝盘外，其他设备 的部分制造活动分包给美 国Eaton Corporation完 成。",12
+RL7b34a0429dV01-S040,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,成套开关设备和控制设备,交流低压开关柜（仅限停堆断路器柜、交流配电盘）,1E级（安全壳外）,"1.制造活动场所：1000 Westinghouse Drive New Stanton,PA15672； 2.除主控室甩负荷控制 盘、熔丝盘外，其他设备 的部分制造活动分包给美 国Eaton Corporation完 成。",12
+RL7b34a0429dV01-S041,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,成套开关设备和控制设备,直流开关柜（含直流配电盘、带熔断器的转换开关箱、备用蓄电池端子箱、电动机控制中心）,1E级（安全壳外）,"1.制造活动场所：1000 Westinghouse Drive New Stanton,PA15672； 2.除主控室甩负荷控制 盘、熔丝盘外，其他设备 的部分制造活动分包给美 国Eaton Corporation完 成。",12
+RL7b34a0429dV01-S042,L7b34a0429dV01,L7b34a0429d,"Westinghouse Electric Company, LLC",美国,设计、制造,成套开关设备和控制设备,电气盘、台、屏、箱（仅限主控室甩负荷控制盘、熔丝盘）,1E级（安全壳外）,"1.制造活动场所：1000 Westinghouse Drive New Stanton,PA15672； 2.除主控室甩负荷控制 盘、熔丝盘外，其他设备 的部分制造活动分包给美 国Eaton Corporation完 成。",12
+RL097fea3c5eV01-S001,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,设计,阀门,隔离阀,1、2、3级,"1.设计活动场所：46 rue de la Fontaine 91540 MENNECY, France； 2.主要分包项目：抗震试验、流 量特性试验、环境试验、LOCA试 验、电磁阀电磁兼容性试验、高 能管道破裂试验、辐照老化试验。",1
+RL097fea3c5eV01-S002,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,设计,阀门,单向阀,2、3级,"1.设计活动场所：46 rue de la Fontaine 91540 MENNECY, France； 2.主要分包项目：抗震试验、流 量特性试验、环境试验、LOCA试 验、电磁阀电磁兼容性试验、高 能管道破裂试验、辐照老化试验。",1
+RL097fea3c5eV01-S003,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,设计,阀门,其他类型核安全级阀,2、3级,"1.设计活动场所：46 rue de la Fontaine 91540 MENNECY, France； 2.主要分包项目：抗震试验、流 量特性试验、环境试验、LOCA试 验、电磁阀电磁兼容性试验、高 能管道破裂试验、辐照老化试验。",1
+RL097fea3c5eV01-S004,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,设计,阀门,其他类型核安全级阀,2、3级,"1.设计活动场所：46 rue de la Fontaine 91540 MENNECY, France； 2.主要分包项目：抗震试验、流 量特性试验、环境试验、LOCA试 验、电磁阀电磁兼容性试验、高 能管道破裂试验、辐照老化试验。",1
+RL097fea3c5eV01-S005,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,制造,阀门,隔离阀,1、2、3级,"制造活动场所：46 rue de la Fontaine 91540 MENNECY, France。",1
+RL097fea3c5eV01-S006,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,制造,阀门,单向阀,2、3级,"制造活动场所：46 rue de la Fontaine 91540 MENNECY, France。",1
+RL097fea3c5eV01-S007,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,制造,阀门,其他类型核安全级阀,2、3级,"制造活动场所：46 rue de la Fontaine 91540 MENNECY, France。",1
+RL097fea3c5eV01-S008,L097fea3c5eV01,L097fea3c5e,SEGAULT S.A.S.,法国,制造,阀门,其他类型核安全级阀,2、3级,"制造活动场所：46 rue de la Fontaine 91540 MENNECY, France。",1
+RL5e0f06d7d5V01-S001,L5e0f06d7d5V01,L5e0f06d7d5,VILMAR S.A.,罗马尼亚,设计、制造,铸锻件,阀类锻件,1级,"制造活动场所：Ramnicu Valcea Municipality, Strada INDUSTRIILOR,nr.10, Valcea County。",3
+RL741a77b29fV01-S001,L741a77b29fV01,L741a77b29f,Delta Mobrey Ltd.,英国,设计,传感器,温度计,1E级（安全壳外）,"设计活动场所：Hudson House, Albany Park, CAMBERLEY, Surrey, England, GU16 7PL。",4
+RL741a77b29fV01-S002,L741a77b29fV01,L741a77b29f,Delta Mobrey Ltd.,英国,设计,传感器,压力变送器,1E级（安全壳外）,"设计活动场所：Hudson House, Albany Park, CAMBERLEY, Surrey, England, GU16 7PL。",4
+RL741a77b29fV01-S003,L741a77b29fV01,L741a77b29f,Delta Mobrey Ltd.,英国,制造,传感器,温度计,1E级（安全壳外）,"制造活动场所：Hudson House, Albany Park, CAMBERLEY, Surrey, England, GU16 7PL。",4
+RL741a77b29fV01-S004,L741a77b29fV01,L741a77b29f,Delta Mobrey Ltd.,英国,制造,传感器,压力变送器,1E级（安全壳外）,"制造活动场所：Hudson House, Albany Park, CAMBERLEY, Surrey, England, GU16 7PL。",4
+RLf9f27dd53bV01-S001,Lf9f27dd53bV01,Lf9f27dd53b,SOCIETE DES USINES QUIRI ET CIE,法国,设计,支承件,阻尼器,1、2、3级,1.设计活动场所：6 rue Denis Papin 67120 Duttlenheim， France； 2.主要分包项目：辐照试验、 振动试验、事故工况下的高温 试验等。,5
+RLf9f27dd53bV01-S002,Lf9f27dd53bV01,Lf9f27dd53b,SOCIETE DES USINES QUIRI ET CIE,法国,制造,支承件,阻尼器,1、2、3级,1.制造活动场所：6 rue Denis Papin 67120 Duttlenheim， France； 2.主要分包项目：无损检验、 理化检验等。,5
+RL6d4ce5167bV01-S001,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,设计,泵,离心泵,1级,"1.泵、热交换器设计 活动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 设计活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany； 2.泵、阀门主要分包 项目：抗震试验。",8
+RL6d4ce5167bV01-S002,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,设计,泵,离心泵,2、3级,"1.泵、热交换器设计 活动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 设计活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany； 2.泵、阀门主要分包 项目：抗震试验。",8
+RL6d4ce5167bV01-S003,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,设计,阀门,隔离阀,1、2、3级,"1.泵、热交换器设计 活动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 设计活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany； 2.泵、阀门主要分包 项目：抗震试验。",8
+RL6d4ce5167bV01-S004,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,设计,阀门,单向阀,1、2、3级,"1.泵、热交换器设计 活动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 设计活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany； 2.泵、阀门主要分包 项目：抗震试验。",8
+RL6d4ce5167bV01-S005,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,设计,热交换器,管壳式热交换器,1级,"1.泵、热交换器设计 活动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 设计活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany； 2.泵、阀门主要分包 项目：抗震试验。",8
+RL6d4ce5167bV01-S006,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,制造,泵,离心泵,1级,"泵、热交换器制造活 动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 制造活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany。",9
+RL6d4ce5167bV01-S007,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,制造,泵,离心泵,2、3级,"泵、热交换器制造活 动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 制造活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany。",9
+RL6d4ce5167bV01-S008,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,制造,阀门,隔离阀,1、2、3级,"泵、热交换器制造活 动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 制造活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany。",9
+RL6d4ce5167bV01-S009,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,制造,阀门,单向阀,1、2、3级,"泵、热交换器制造活 动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 制造活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany。",9
+RL6d4ce5167bV01-S010,L6d4ce5167bV01,L6d4ce5167b,KSB SE & Co. KGaA,德国,制造,热交换器,管壳式热交换器,1级,"泵、热交换器制造活 动场所： Johann-Klein Strasse 9, 67227 Frankenthal，阀门 制造活动场所： Bahnhofplatz 1, 91257 Pegnitz, Germany。",9
+RL410f0ff7d4V01-S001,L410f0ff7d4V01,L410f0ff7d4,Research Enterprise INKOR Limited,俄罗斯,设计、制造,传感器,核测仪表,1E级（安全壳内）,"设计活动场所： 129343, Moscow, intracity territory(intracit y municipality) Sviblovo of a city of Federal significance, proezd Nansena 1, floor 3, office 35。",11
+RL410f0ff7d4V01-S002,L410f0ff7d4V01,L410f0ff7d4,Research Enterprise INKOR Limited,俄罗斯,设计、制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"设计活动场所： 129343, Moscow, intracity territory(intracit y municipality) Sviblovo of a city of Federal significance, proezd Nansena 1, floor 3, office 35。",11
+RL6764401a44V01-S001,L6764401a44V01,L6764401a44,POZIT JSC,俄罗斯,设计、制造,传感器,核测仪表,1E级（安全壳内）,"制造活动场所：8, Fabrichnaya Street, Pravdinsky workers’ settlement, Pushkino city, Moscow region, 141260。",12
+RL216834a77dV01-S001,L216834a77dV01,L216834a77d,"Rosemount Nuclear Instruments,Inc.",美国,设计,传感器,压力变送器,1E级（安全壳内、外）,"设计活动场所：8200 Market Boulevard,Chanhassen, MN55317。",13
+RL216834a77dV01-S002,L216834a77dV01,L216834a77d,"Rosemount Nuclear Instruments,Inc.",美国,制造,传感器,压力变送器,1E级（安全壳内、外）,"制造活动场所：8200 Market Boulevard,Chanhassen, MN55317。",13
+RLb29d6a7a7fV01-S001,Lb29d6a7a7fV01,Lb29d6a7a7f,BERNARD CONTROLS S.A.,法国,设计,阀门驱动装置,多回转阀门电动装置,1E级（安全壳内、外）,"设计活动场所：4, rue d’ Arsonval CS 70091 95505 GONESSE Cedex。",14
+RLb29d6a7a7fV01-S002,Lb29d6a7a7fV01,Lb29d6a7a7f,BERNARD CONTROLS S.A.,法国,设计,阀门驱动装置,部分回转阀门电动装置,1E级（安全壳内、外）,"设计活动场所：4, rue d’ Arsonval CS 70091 95505 GONESSE Cedex。",14
+RLb29d6a7a7fV01-S003,Lb29d6a7a7fV01,Lb29d6a7a7f,BERNARD CONTROLS S.A.,法国,设计,阀门驱动装置,直行程阀门电动装置,1E级（安全壳内、外）,"设计活动场所：4, rue d’ Arsonval CS 70091 95505 GONESSE Cedex。",14
+RLb29d6a7a7fV01-S004,Lb29d6a7a7fV01,Lb29d6a7a7f,BERNARD CONTROLS S.A.,法国,制造,阀门驱动装置,多回转阀门电动装置,1E级（安全壳内、外）,"制造活动场所：4, rue d’ Arsonval BP 70091 95505 GONESSE Cedex。",14
+RLb29d6a7a7fV01-S005,Lb29d6a7a7fV01,Lb29d6a7a7f,BERNARD CONTROLS S.A.,法国,制造,阀门驱动装置,部分回转阀门电动装置,1E级（安全壳内、外）,"制造活动场所：4, rue d’ Arsonval BP 70091 95505 GONESSE Cedex。",14
+RLb29d6a7a7fV01-S006,Lb29d6a7a7fV01,Lb29d6a7a7f,BERNARD CONTROLS S.A.,法国,制造,阀门驱动装置,直行程阀门电动装置,1E级（安全壳内、外）,"制造活动场所：4, rue d’ Arsonval BP 70091 95505 GONESSE Cedex。",14
+RL0ed95959caV01-S001,L0ed95959caV01,L0ed95959ca,WEED Instrument Company Inc.,美国,设计,传感器,温度计,1E级（安全壳内、外）,"设计活动场所：707 Jeffrey Way,Round Rock,Texas 78680-0300。",1
+RL0ed95959caV01-S002,L0ed95959caV01,L0ed95959ca,WEED Instrument Company Inc.,美国,设计,传感器,压力变送器,1E级（安全壳内、外）,"设计活动场所：707 Jeffrey Way,Round Rock,Texas 78680-0300。",1
+RL0ed95959caV01-S003,L0ed95959caV01,L0ed95959ca,WEED Instrument Company Inc.,美国,制造,传感器,温度计,1E级（安全壳内、外）,"制造活动场所：707 Jeffrey Way,Round Rock,Texas 78680-0300。",1
+RL0ed95959caV01-S004,L0ed95959caV01,L0ed95959ca,WEED Instrument Company Inc.,美国,制造,传感器,压力变送器,1E级（安全壳内、外）,"制造活动场所：707 Jeffrey Way,Round Rock,Texas 78680-0300。",1
+RLd819c33d10V01-S001,Ld819c33d10V01,Ld819c33d10,"Joint Stock Company ""Experimental Factory for Scientific Engineeringof the Russian Academy of Sciences"" (JSC ""EZAN"")",俄罗斯,设计、制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"1.仅限田湾1、2号机组备 件； 2.制造活动场所：9, Prospekt Academika Semyonova, Chernogolovka,Urban District Chernogolovka, Moskovskaya oblast, 142432, Russian Federation。",3
+RL9e3a1d6f1dV01-S001,L9e3a1d6f1dV01,L9e3a1d6f1d,PYROCONTROLE,法国,设计,传感器,温度计,1E级（安全壳内、外）,设计活动场所：6 BIS Avenue Docteur Schweitzer 69330 Meyzieu。,4
+RL9e3a1d6f1dV01-S002,L9e3a1d6f1dV01,L9e3a1d6f1d,PYROCONTROLE,法国,制造,传感器,温度计,1E级（安全壳内、外）,制造活动场所：6 BIS Avenue Docteur Schweitzer 69330 Meyzieu。,4
+RLc7543d1d80V01-S001,Lc7543d1d80V01,Lc7543d1d80,KROHNE Messtechnik GmbH,德国,设计,传感器,液位计,1E级（安全壳内）,"设计活动场所： Ludwig-Krohne-Str.5,47058, Duisburg。",5
+RLc7543d1d80V01-S002,Lc7543d1d80V01,Lc7543d1d80,KROHNE Messtechnik GmbH,德国,制造,传感器,液位计,1E级（安全壳内）,"制造活动场所： Ludwig-Krohne-Str.5,47058, Duisburg。",5
+RL7b23b8fb90V01-S001,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,储罐,储罐,3级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S002,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,热交换器,管壳式热交换器,3级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S003,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,阀门,调节阀、单向阀,2、3级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S004,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,支承件,管道支承件,2、3级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S005,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,支承件,设备支承件,1、2级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S006,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,闸门,人员闸门、应急闸门,2级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S007,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,闸门,设备闸门,2级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S008,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,设计,机械贯穿件,机械贯穿件,2、3级,"1.管壳式热交换器包括热交换 器传热管的设计； 2.主要分包项目：阀门鉴定试 验； 3.设计活动场所：44, Karl Marx Street, Volgodonsk, Rostov region, 347387, Russian Federation。",6
+RL7b23b8fb90V01-S009,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,制造,储罐,储罐,3级,"1.管壳式热交换器包括热交换 器传热管的制造； 2.主要分包项目：理化检验， 筒体卷制； 3.制造活动场所： (1) 10，Industrialnaya street, Volgodonsk, Rostov region, 347386, Russian Federation (2) 296, 6th Zavodskaya street, 31, 6th Zavodskaya street, 31a 6th Zavodskaya street Volgodonsk, Rostov region, 347360, Russian",6
+RL7b23b8fb90V01-S010,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,制造,热交换器,管壳式热交换器,3级,"1.管壳式热交换器包括热交换 器传热管的制造； 2.主要分包项目：理化检验， 筒体卷制； 3.制造活动场所： (1) 10，Industrialnaya street, Volgodonsk, Rostov region, 347386, Russian Federation (2) 296, 6th Zavodskaya street, 31, 6th Zavodskaya street, 31a 6th Zavodskaya street Volgodonsk, Rostov region, 347360, Russian",6
+RL7b23b8fb90V01-S011,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,制造,阀门,调节阀、单向阀,2、3级,"1.管壳式热交换器包括热交换 器传热管的制造； 2.主要分包项目：理化检验， 筒体卷制； 3.制造活动场所： (1) 10，Industrialnaya street, Volgodonsk, Rostov region, 347386, Russian Federation (2) 296, 6th Zavodskaya street, 31, 6th Zavodskaya street, 31a 6th Zavodskaya street Volgodonsk, Rostov region, 347360, Russian",6
+RL7b23b8fb90V01-S012,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,制造,支承件,管道支承件,2、3级,"1.管壳式热交换器包括热交换 器传热管的制造； 2.主要分包项目：理化检验， 筒体卷制； 3.制造活动场所： (1) 10，Industrialnaya street, Volgodonsk, Rostov region, 347386, Russian Federation (2) 296, 6th Zavodskaya street, 31, 6th Zavodskaya street, 31a 6th Zavodskaya street Volgodonsk, Rostov region, 347360, Russian",6
+RL7b23b8fb90V01-S013,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,制造,闸门,人员闸门、应急闸门,2级,"1.管壳式热交换器包括热交换 器传热管的制造； 2.主要分包项目：理化检验， 筒体卷制； 3.制造活动场所： (1) 10，Industrialnaya street, Volgodonsk, Rostov region, 347386, Russian Federation (2) 296, 6th Zavodskaya street, 31, 6th Zavodskaya street, 31a 6th Zavodskaya street Volgodonsk, Rostov region, 347360, Russian",6
+RL7b23b8fb90V01-S014,L7b23b8fb90V01,L7b23b8fb90,Joint Stock Company “Atommashexport”,俄罗斯,制造,机械贯穿件,机械贯穿件,2、3级,"1.管壳式热交换器包括热交换 器传热管的制造； 2.主要分包项目：理化检验， 筒体卷制； 3.制造活动场所： (1) 10，Industrialnaya street, Volgodonsk, Rostov region, 347386, Russian Federation (2) 296, 6th Zavodskaya street, 31, 6th Zavodskaya street, 31a 6th Zavodskaya street Volgodonsk, Rostov region, 347360, Russian",6
+RLb28923b8f0V01-S001,Lb28923b8f0V01,Lb28923b8f0,ARCYS,法国,设计,传感器,液位计,1E级（安全壳内、外）,1.主要分包项目：抗震计算、 鉴定试验； 2.设计活动场所：14 Place Marcel Dassault – BP70048-31702 Blagnac Cedex。,8
+RLb28923b8f0V01-S002,Lb28923b8f0V01,Lb28923b8f0,ARCYS,法国,制造,传感器,液位计,1E级（安全壳内、外）,1.主要分包项目：机械部件制 造、焊接、电子插件制造； 2.制造活动活动场：14 Place Marcel Dassault –BP70048-31702 Blagnac Cedex。,8
+RL72838b429cV01-S001,L72838b429cV01,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,设计,泵,离心泵,1、2、3级,"1.设备支承件仅限主泵用 支承件； 2.热交换器仅限VVER堆型； 3.设计活动场所：138/1B naberezhnaya Obvodnogo kanala Saint-Petersburg, Russian Federation 190020。",10
+RL72838b429cV01-S002,L72838b429cV01,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,设计,支承件,设备支承件,3级,"1.设备支承件仅限主泵用 支承件； 2.热交换器仅限VVER堆型； 3.设计活动场所：138/1B naberezhnaya Obvodnogo kanala Saint-Petersburg, Russian Federation 190020。",10
+RL72838b429cV01-S003,L72838b429cV01,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,设计,热交换器,热交换器（含传热管）,3级,"1.设备支承件仅限主泵用 支承件； 2.热交换器仅限VVER堆型； 3.设计活动场所：138/1B naberezhnaya Obvodnogo kanala Saint-Petersburg, Russian Federation 190020。",10
+RL72838b429cV01-S004,L72838b429cV01,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,制造,泵,离心泵,1、2、3级,"1.设备支承件仅限主泵支 承件； 2.热交换器仅限VVER堆型； 3.制造活动场所：138/1B naberezhnaya Obvodnogo kanala Saint-Petersburg, Russian Federation 190020。",10
+RL72838b429cV01-S005,L72838b429cV01,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,制造,支承件,设备支承件,3级,"1.设备支承件仅限主泵支 承件； 2.热交换器仅限VVER堆型； 3.制造活动场所：138/1B naberezhnaya Obvodnogo kanala Saint-Petersburg, Russian Federation 190020。",10
+RL72838b429cV01-S006,L72838b429cV01,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,制造,热交换器,热交换器（含传热管）,3级,"1.设备支承件仅限主泵支 承件； 2.热交换器仅限VVER堆型； 3.制造活动场所：138/1B naberezhnaya Obvodnogo kanala Saint-Petersburg, Russian Federation 190020。",10
+RL72838b429cV02-S001,L72838b429cV02,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,设计,热交换器,管壳式热交换器,2级,"1.仅用于VVER项目； 2.管壳式热交换器包括热交换 器传热管的设计； 3.设计活动场所： 138/1B naberezhnaya Obvodnogo kanala Saint-Petersburg, 190020, Russia； 47/L Stachek ave., Saint-Petersburg, 198097； 7 Profsoyuznaya str., Sosnovy Bor, 188540。",9
+RL72838b429cV02-S002,L72838b429cV02,L72838b429c,Joint Stock Company “Central Design Bureau of Machine Building”,俄罗斯,制造,热交换器,管壳式热交换器,2级,"1.仅用于VVER项目； 2.管壳式热交换器包括热交换 器传热管的弯制； 3.制造活动场所： 47/L Stachek ave., Saint-Petersburg, 198097；7 Profsoyuznaya str., Sosnovy Bor, 188540。",9
+RLae649841b8V01-S001,Lae649841b8V01,Lae649841b8,SIDERFORGEROSSI GROUP S.p.A,意大利,设计、制造,铸锻件,阀类锻件,1级,"1.制造活动场所： BUSANO PLANTS： B1：via Rolando Perino, 37-10080. Busano Canavese (TO)； B2：via Stefano Bruda, 39-10080. Busano Canavese (TO)； ARSIERO AREA PLANTS： A1：via Cartiera di Mezzo, 38-36011 Arsiero (VI)； A2：via Cartiera di Mezzo, 24-36011 Arsiero (VI)； C1 ： via Mario Schiro, 2-36010 Cogollo del Cengio (VI)； V1：via della Tecnica, 26-36010 Velo d'Astico (VI)； V2：via dell'Artigianato, 18-36010 Velo d'Astico (VI)； V3：via dell'Industria, 32-36010 Velo d'Astico (VI)； V4：via della Tecnica, 34-36010 Velo d'Astico (VI)。 2.主要分包项目：理化检验、机加工。",1
+RL770059e588V01-S001,L770059e588V01,L770059e588,GASCARD MARTIN-PROST S.A.S,法国,设计、制造,铸锻件,阀类锻件,1级,"1.制造活动场所：1 Chemin de Vivet 52360 NEUILLY L’ EVEQUE, France ； 2.分包项目：理化检验。",3
+RL9f97f768a4V01-S001,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,设计,电缆,低压电力电缆,1E级（安全壳内）,"1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.设计活动场所：1785 Voyager Avenue, Simi Valley, CA 93063 。",1
+RL9f97f768a4V01-S002,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,设计,电缆,控制电缆,1E级（安全壳内）,"1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.设计活动场所：1785 Voyager Avenue, Simi Valley, CA 93063 。",1
+RL9f97f768a4V01-S003,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,设计,电缆,仪表电缆,1E级（安全壳内）,"1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.设计活动场所：1785 Voyager Avenue, Simi Valley, CA 93063 。",1
+RL9f97f768a4V01-S004,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,设计,电缆,同轴电缆,1E级（安全壳内）,"1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.设计活动场所：1785 Voyager Avenue, Simi Valley, CA 93063 。",1
+RL9f97f768a4V01-S005,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,设计,电缆,电缆附件,1E级（安全壳内）,"1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.设计活动场所：1785 Voyager Avenue, Simi Valley, CA 93063 。",1
+RL9f97f768a4V01-S006,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,制造,电缆,低压电力电缆,1E级（安全壳内）,1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.制造活动场所：1955 Surveyor Avenue ， Simi Valley，CA 93063。,1
+RL9f97f768a4V01-S007,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,制造,电缆,控制电缆,1E级（安全壳内）,1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.制造活动场所：1955 Surveyor Avenue ， Simi Valley，CA 93063。,1
+RL9f97f768a4V01-S008,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,制造,电缆,仪表电缆,1E级（安全壳内）,1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.制造活动场所：1955 Surveyor Avenue ， Simi Valley，CA 93063。,1
+RL9f97f768a4V01-S009,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,制造,电缆,同轴电缆,1E级（安全壳内）,1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.制造活动场所：1955 Surveyor Avenue ， Simi Valley，CA 93063。,1
+RL9f97f768a4V01-S010,L9f97f768a4V01,L9f97f768a4,Meggitt Safety Systems Inc.,美国,制造,电缆,电缆附件,1E级（安全壳内）,1.外护套材料为304L不锈 钢，绝缘材料为二氧化硅； 2.制造活动场所：1955 Surveyor Avenue ， Simi Valley，CA 93063。,1
+RL3c578dce6eV02-S001,L3c578dce6eV02,L3c578dce6e,中国核工业二三建设有限公司,,设计、制造,,,2、3级,,3
+RL3c578dce6eV02-S002,L3c578dce6eV02,L3c578dce6e,中国核工业二三建设有限公司,,设计、制造,,,2、3级,,3
+RL3c578dce6eV02-S003,L3c578dce6eV02,L3c578dce6e,中国核工业二三建设有限公司,,设计、制造,,,2、3级,,3
+RL2a975bef5dV01-S001,L2a975bef5dV01,L2a975bef5d,FORGITAL FMDL SAS,法国,设计、制造,铸锻件,阀门类锻件,1级,"制造活动场所：48,Boulevard d’Auvergne 42500 LE CHAMBON FEUGEROLLES。",1
+RL57a1256410V01-S001,L57a1256410V01,L57a1256410,Trubodetal JSC,俄罗斯,设计、制造,管道和管配件,弯头,2、3级,"1.公称通径仅限DN50-600； 2.材质仅限不锈钢和碳钢； 3.仅限无缝弯头； 4.制造活动场所：454904, Russia, Chelyabinsk, 23 Chelyabinskaya Street。",1
+RL57a1256410V02-S001,L57a1256410V02,L57a1256410,Trubodetal JSC,俄罗斯,设计、制造,管道和管配件,管道预制,2、3级,"制造活动场所：454904, Russia, Chelyabinsk, 23 Chelyabinskaya Street。",2
+RL57a1256410V02-S002,L57a1256410V02,L57a1256410,Trubodetal JSC,俄罗斯,设计、制造,管道和管配件,三通,2、3级,"制造活动场所：454904, Russia, Chelyabinsk, 23 Chelyabinskaya Street。",2
+RL57a1256410V02-S003,L57a1256410V02,L57a1256410,Trubodetal JSC,俄罗斯,设计、制造,管道和管配件,异径管,2、3级,"制造活动场所：454904, Russia, Chelyabinsk, 23 Chelyabinskaya Street。",2
+RLdef9a780cdV01-S001,Ldef9a780cdV01,Ldef9a780cd,Valcor Engineering Corporation,美国,设计,阀门,调节阀,3级,1.主要分包项目：辐照老化 试验、热老化试验、LOCA 试验、振动老化试验、抗震 试验； 2.设计活动场所：2 Lawrence Road Springfield，New Jersey 07801，USA。,1
+RLdef9a780cdV01-S002,Ldef9a780cdV01,Ldef9a780cd,Valcor Engineering Corporation,美国,设计,阀门,其他类型阀门,1、2、3级,1.主要分包项目：辐照老化 试验、热老化试验、LOCA 试验、振动老化试验、抗震 试验； 2.设计活动场所：2 Lawrence Road Springfield，New Jersey 07801，USA。,1
+RLdef9a780cdV01-S003,Ldef9a780cdV01,Ldef9a780cd,Valcor Engineering Corporation,美国,制造,阀门,调节阀,3级,制造活动场所：2 Lawrence Road Springfield，New Jersey 07801，USA,1
+RLdef9a780cdV01-S004,Ldef9a780cdV01,Ldef9a780cd,Valcor Engineering Corporation,美国,制造,阀门,其他类型阀门,1、2、3级,制造活动场所：2 Lawrence Road Springfield，New Jersey 07801，USA,1
+RLf14a95d548V01-S001,Lf14a95d548V01,Lf14a95d548,PRYSMIAN Kabel und Systeme GmbH,德国,设计,电缆,低压电力电缆,1E级（安全壳内、外）,"设计活动场所：Austraβe 99，D-96465 Neustadt bei Coburg, Germany",3
+RLf14a95d548V01-S002,Lf14a95d548V01,Lf14a95d548,PRYSMIAN Kabel und Systeme GmbH,德国,设计,电缆,控制电缆,1E级（安全壳内、外）,"设计活动场所：Austraβe 99，D-96465 Neustadt bei Coburg, Germany",3
+RLf14a95d548V01-S003,Lf14a95d548V01,Lf14a95d548,PRYSMIAN Kabel und Systeme GmbH,德国,设计,电缆,仪表电缆,1E级（安全壳内、外）,"设计活动场所：Austraβe 99，D-96465 Neustadt bei Coburg, Germany",3
+RLf14a95d548V01-S004,Lf14a95d548V01,Lf14a95d548,PRYSMIAN Kabel und Systeme GmbH,德国,制造,电缆,低压电力电缆,1E级（安全壳内、外）,"制造活动场所：Austraβe 99，D-96465 Neustadt bei Coburg, Germany",3
+RLf14a95d548V01-S005,Lf14a95d548V01,Lf14a95d548,PRYSMIAN Kabel und Systeme GmbH,德国,制造,电缆,控制电缆,1E级（安全壳内、外）,"制造活动场所：Austraβe 99，D-96465 Neustadt bei Coburg, Germany",3
+RLf14a95d548V01-S006,Lf14a95d548V01,Lf14a95d548,PRYSMIAN Kabel und Systeme GmbH,德国,制造,电缆,仪表电缆,1E级（安全壳内、外）,"制造活动场所：Austraβe 99，D-96465 Neustadt bei Coburg, Germany",3
+RL1981f611bfV01-S001,L1981f611bfV01,L1981f611bf,GERB Schwingungsisolierungen GmbH&Co.KG,德国,设计,支承件,阻尼器,2级,"1.分包项目：阻尼液辐照试验； 2.设计活动场所： Roedernallee 174-176, 13407 Berlin, Germany。",4
+RL1981f611bfV01-S002,L1981f611bfV01,L1981f611bf,GERB Schwingungsisolierungen GmbH&Co.KG,德国,制造,支承件,阻尼器,2级,"制造活动场所：Roedernallee 174-176, 13407 Berlin, Germany。",4
+RLcb75b246bbV01-S001,Lcb75b246bbV01,Lcb75b246bb,"National Research Centre ""KURCHATOV INSTITUTE""",俄罗斯,设计、制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"设计活动场所：1, Akademika Kurchatova Sq., Moscow, Russia, 123182",5
+RLcb75b246bbV01-S002,Lcb75b246bbV01,Lcb75b246bb,"National Research Centre ""KURCHATOV INSTITUTE""",俄罗斯,设计、制造,传感器,温度计,1E级（安全壳内）,"设计活动场所：1, Akademika Kurchatova Sq., Moscow, Russia, 123182",5
+RL55d339949eV01-S001,L55d339949eV01,L55d339949e,The Ilyenko ELARA Research and Production Complex，Joint-StockCompany,俄罗斯,设计、制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"制 造 活 动 场 所 ： Moskovsky prospect 40, Cheboksary, 428017, Chuvash Republic, Russia",6
+RL1af20711afV01-S001,L1af20711afV01,L1af20711af,"LUCH RESEARCH AND PRODUCTION ASSOCIATION, RESEARCH AND DEVELOPMENTINSTITUTE, JOINT-STOCK COMPANY",俄罗斯,设计、制造,传感器,温度计,1E级（安全壳内）,"制造活动场所：142281, Russia, Moscow region, Protvino, Zheleznodorozhnaya st., 5",7
+RLd54b7b508cV01-S001,Ld54b7b508cV01,Ld54b7b508c,AEG Power Solutions GmbH,德国,设计,电源设备,充电器,1E级（安全壳外）,"设计活动场所： Emil-Siepmann-Str32-D-5958 1 Warstein-Belecke,Germany",8
+RLd54b7b508cV01-S002,Ld54b7b508cV01,Ld54b7b508c,AEG Power Solutions GmbH,德国,设计,电源设备,逆变器,1E级（安全壳外）,"设计活动场所： Emil-Siepmann-Str32-D-5958 1 Warstein-Belecke,Germany",8
+RLd54b7b508cV01-S003,Ld54b7b508cV01,Ld54b7b508c,AEG Power Solutions GmbH,德国,设计,电源设备,不间断电源,1E级（安全壳外）,"设计活动场所： Emil-Siepmann-Str32-D-5958 1 Warstein-Belecke,Germany",8
+RLd54b7b508cV01-S004,Ld54b7b508cV01,Ld54b7b508c,AEG Power Solutions GmbH,德国,制造,电源设备,充电器,1E级（安全壳外）,"制造活动场所： Emil-Siepmann-Str32-D-5958 1 Warstein-Belecke,Germany",8
+RLd54b7b508cV01-S005,Ld54b7b508cV01,Ld54b7b508c,AEG Power Solutions GmbH,德国,制造,电源设备,逆变器,1E级（安全壳外）,"制造活动场所： Emil-Siepmann-Str32-D-5958 1 Warstein-Belecke,Germany",8
+RLd54b7b508cV01-S006,Ld54b7b508cV01,Ld54b7b508c,AEG Power Solutions GmbH,德国,制造,电源设备,不间断电源,1E级（安全壳外）,"制造活动场所： Emil-Siepmann-Str32-D-5958 1 Warstein-Belecke,Germany",8
+RLc7e2363797V01-S001,Lc7e2363797V01,Lc7e2363797,Benning Elektrotechnik und Elektronik GmbH&Co.KG,德国,设计,电源设备,充电器,1E级（安全壳外）,"设计活动场所： 1.Muensterstrasse 135-137,46397 Bocholt； 2.Robert Bosch Strasse 20,46397 Bocholt。",9
+RLc7e2363797V01-S002,Lc7e2363797V01,Lc7e2363797,Benning Elektrotechnik und Elektronik GmbH&Co.KG,德国,设计,电源设备,逆变器,1E级（安全壳外）,"设计活动场所： 1.Muensterstrasse 135-137,46397 Bocholt； 2.Robert Bosch Strasse 20,46397 Bocholt。",9
+RLc7e2363797V01-S003,Lc7e2363797V01,Lc7e2363797,Benning Elektrotechnik und Elektronik GmbH&Co.KG,德国,设计,电源设备,不间断电源,1E级（安全壳外）,"设计活动场所： 1.Muensterstrasse 135-137,46397 Bocholt； 2.Robert Bosch Strasse 20,46397 Bocholt。",9
+RLc7e2363797V01-S004,Lc7e2363797V01,Lc7e2363797,Benning Elektrotechnik und Elektronik GmbH&Co.KG,德国,制造,电源设备,充电器,1E级（安全壳外）,"制造活动场所： 1.Muensterstrasse 135-137,46397 Bocholt； 2.Robert Bosch Strasse 20,46397 Bocholt。",9
+RLc7e2363797V01-S005,Lc7e2363797V01,Lc7e2363797,Benning Elektrotechnik und Elektronik GmbH&Co.KG,德国,制造,电源设备,逆变器,1E级（安全壳外）,"制造活动场所： 1.Muensterstrasse 135-137,46397 Bocholt； 2.Robert Bosch Strasse 20,46397 Bocholt。",9
+RLc7e2363797V01-S006,Lc7e2363797V01,Lc7e2363797,Benning Elektrotechnik und Elektronik GmbH&Co.KG,德国,制造,电源设备,不间断电源,1E级（安全壳外）,"制造活动场所： 1.Muensterstrasse 135-137,46397 Bocholt； 2.Robert Bosch Strasse 20,46397 Bocholt。",9
+RL67da275cfcV01-S001,L67da275cfcV01,L67da275cfc,Curtiss-Wright Flow Control Corporation,美国,设计,阀门,单向阀,1、2、3级,"1.主要分包项目：阀门正向流动 鉴定试验、阀门闭合能力鉴定试 验； 2.设计活动场所：2950 E. Brich Street Brea, CA 92821, USA。",1
+RL67da275cfcV01-S002,L67da275cfcV01,L67da275cfc,Curtiss-Wright Flow Control Corporation,美国,制造,阀门,单向阀,1、2、3级,"1.主要分包项目：无损检验（除 VT、PT、LT）、理化检验、热处理； 2.制造活动场所：2950 E. Brich Street Brea, CA 92821, USA。",1
+RLe60b5dc684V01-S001,Le60b5dc684V01,Le60b5dc684,HEW-KABEL GmbH,德国,设计,电缆,低压电力电缆,1E级（安全壳内、外）,"设计活动场所： Klingsiepen 12, 51688 Wipperfürth。",1
+RLe60b5dc684V01-S002,Le60b5dc684V01,Le60b5dc684,HEW-KABEL GmbH,德国,设计,电缆,仪表电缆,1E级（安全壳内、外）,"设计活动场所： Klingsiepen 12, 51688 Wipperfürth。",1
+RLe60b5dc684V01-S003,Le60b5dc684V01,Le60b5dc684,HEW-KABEL GmbH,德国,制造,电缆,低压电力电缆,1E级（安全壳内、外）,"制造活动场所： Klingsiepen 12, 51688 Wipperfürth。",1
+RLe60b5dc684V01-S004,Le60b5dc684V01,Le60b5dc684,HEW-KABEL GmbH,德国,制造,电缆,仪表电缆,1E级（安全壳内、外）,"制造活动场所： Klingsiepen 12, 51688 Wipperfürth。",1
+RL837be8f64bV01-S001,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,设计,电缆,中压电力电缆,1E级（安全壳内、外）,1.设计活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S002,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,设计,电缆,低压电力电缆,1E级（安全壳内、外）,1.设计活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S003,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,设计,电缆,仪表电缆,1E级（安全壳内、外）,1.设计活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S004,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,设计,电缆,控制电缆,1E级（安全壳内、外）,1.设计活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S005,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,设计,电缆,同轴电缆,1E级（安全壳内、外）,1.设计活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S006,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,制造,电缆,中压电力电缆,1E级（安全壳内、外）,1.制造活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S007,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,制造,电缆,低压电力电缆,1E级（安全壳内、外）,1.制造活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S008,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,制造,电缆,仪表电缆,1E级（安全壳内、外）,1.制造活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S009,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,制造,电缆,控制电缆,1E级（安全壳内、外）,1.制造活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RL837be8f64bV01-S010,L837be8f64bV01,L837be8f64b,NEXANS INDUSTRIAL SOLUTIONS FRANCE,法国,制造,电缆,同轴电缆,1E级（安全壳内、外）,1.制造活动场所：41，rue Maurice Gorse 18500 MEHUN sur YEVRE； 2.同轴电缆鉴定寿命40年， 导体长期运行温度75℃。,3
+RLda5e6fcbd3V01-S001,Lda5e6fcbd3V01,Lda5e6fcbd3,Fluid Components International LLC,美国,设计,传感器,流量计,1E级（安全壳外）,"设计活动场所： 1755 La Costa Meadows Dr.,San Marcos, CA92078。",5
+RLda5e6fcbd3V01-S002,Lda5e6fcbd3V01,Lda5e6fcbd3,Fluid Components International LLC,美国,设计,传感器,液位计,1E级（监测组件，安全壳内、外；电子组件，安全壳外）,"设计活动场所： 1755 La Costa Meadows Dr.,San Marcos, CA92078。",5
+RLda5e6fcbd3V01-S003,Lda5e6fcbd3V01,Lda5e6fcbd3,Fluid Components International LLC,美国,制造,传感器,流量计,1E级（安全壳外）,"制造活动场所： 1755 La Costa Meadows Dr.,San Marcos, CA92078。",5
+RLda5e6fcbd3V01-S004,Lda5e6fcbd3V01,Lda5e6fcbd3,Fluid Components International LLC,美国,制造,传感器,液位计,1E级（监测组件，安全壳内、外；电子组件，安全壳外）,"制造活动场所： 1755 La Costa Meadows Dr.,San Marcos, CA92078。",5
+RL22ecba3458V01-S001,L22ecba3458V01,L22ecba3458,Westinghouse Electric Company LLC,美国,设计、制造,反应堆压力容器、管道、控制棒驱动机构、泵,,1级,无,2
+RLd31dea44a0V01-S001,Ld31dea44a0V01,Ld31dea44a0,Okano Valve MFG. Co. LTD.,日本,设计,阀门,隔离阀,1、2、3级,1.主要分包项目：鉴定试验（安全阀耐久试验除外）；2.设计活动场所：门司工厂（福冈县北九州市门司区中町1-14）。,3
+RLd31dea44a0V01-S002,Ld31dea44a0V01,Ld31dea44a0,Okano Valve MFG. Co. LTD.,日本,设计,阀门,单向阀,1、2、3级,1.主要分包项目：鉴定试验（安全阀耐久试验除外）；2.设计活动场所：门司工厂（福冈县北九州市门司区中町1-14）。,3
+RLd31dea44a0V01-S003,Ld31dea44a0V01,Ld31dea44a0,Okano Valve MFG. Co. LTD.,日本,设计,阀门,安全阀,2、3级,1.主要分包项目：鉴定试验（安全阀耐久试验除外）；2.设计活动场所：门司工厂（福冈县北九州市门司区中町1-14）。,3
+RLd31dea44a0V01-S004,Ld31dea44a0V01,Ld31dea44a0,Okano Valve MFG. Co. LTD.,日本,制造,阀门,隔离阀,1、2、3级,制造活动场所：行桥工厂（福冈县行桥市西泉4-4-1）。,3
+RLd31dea44a0V01-S005,Ld31dea44a0V01,Ld31dea44a0,Okano Valve MFG. Co. LTD.,日本,制造,阀门,单向阀,1、2、3级,制造活动场所：行桥工厂（福冈县行桥市西泉4-4-1）。,3
+RLd31dea44a0V01-S006,Ld31dea44a0V01,Ld31dea44a0,Okano Valve MFG. Co. LTD.,日本,制造,阀门,安全阀,2、3级,制造活动场所：行桥工厂（福冈县行桥市西泉4-4-1）。,3
+RLff29d77bc5V01-S001,Lff29d77bc5V01,Lff29d77bc5,"Doosan Heavy Industries & Construction Co., Ltd.",韩国,设计、制造,铸锻件,容器类锻件,1级,无,7
+RLff29d77bc5V02-S001,Lff29d77bc5V02,Lff29d77bc5,"Doosan Heavy Industries & Construction Co., Ltd.",韩国,设计、制造,堆内构件,堆内构件,核安全级,"1.主要分包项目：筒体卷制；堆芯围 筒的C型板、W型板的折弯；IGA IITA 弯管；堆芯围筒的最终机加工；导管 的最终机加工； 2.制造活动场所：22, Doosan Volvo-ro, Seongsan-gu, Changwon-si, Gyeongsangnam-do, 51711, Republic of Korea。",4
+RLa91dbca718V01-S001,La91dbca718V01,La91dbca718,HOLTEC INTERNATIONAL,美国,设计,热交换器,管壳式热交换器,1、2、3级,核1级热交换器仅限于反应堆冷却剂泵外置式热交换器,1
+RLa91dbca718V01-S002,La91dbca718V01,La91dbca718,HOLTEC INTERNATIONAL,美国,制造,热交换器,管壳式热交换器,1、2、3级,核1级热交换器仅限于反应堆冷却剂泵外置式热交换器,1
+RLe2fe1d039fV01-S001,Le2fe1d039fV01,Le2fe1d039f,Gutor Electronic LLC,瑞士,设计,电源设备,充电器,1E级（安全壳外）,无,2
+RLe2fe1d039fV01-S002,Le2fe1d039fV01,Le2fe1d039f,Gutor Electronic LLC,瑞士,设计,电源设备,逆变器,1E级（安全壳外）,无,2
+RLe2fe1d039fV01-S003,Le2fe1d039fV01,Le2fe1d039f,Gutor Electronic LLC,瑞士,设计,电源设备,不间断电源,1E级（安全壳外）,无,2
+RLe2fe1d039fV01-S004,Le2fe1d039fV01,Le2fe1d039f,Gutor Electronic LLC,瑞士,制造,电源设备,充电器,1E级（安全壳外）,无,2
+RLe2fe1d039fV01-S005,Le2fe1d039fV01,Le2fe1d039f,Gutor Electronic LLC,瑞士,制造,电源设备,逆变器,1E级（安全壳外）,无,2
+RLe2fe1d039fV01-S006,Le2fe1d039fV01,Le2fe1d039f,Gutor Electronic LLC,瑞士,制造,电源设备,不间断电源,1E级（安全壳外）,无,2
+RLf114413dd3V01-S001,Lf114413dd3V01,Lf114413dd3,POMPES RUTSCHI,法国,设计,泵,屏蔽泵（单级、多级、立式、卧式）,3级,主要分包项目：抗震分析、抗震试验和鉴定试验（耐久试验除外）等。,1
+RLf114413dd3V01-S002,Lf114413dd3V01,Lf114413dd3,POMPES RUTSCHI,法国,制造,泵,屏蔽泵（单级、多级、立式、卧式）,3级,主要分包项目：热处理、理化检验等。,1
+RL318cffc19dV01-S001,L318cffc19dV01,L318cffc19d,"ATM Piping & Fitings, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,弯头,2、3级,"活动场所： 1.125362, Moscow, Stroitelny proezd, 7A, corp.10, floor 2, room 1； 2.347360, Rostov region, Volgodonsk town, Zhukovskoe highway,10, build.1； 3.460050, Orenburg area, Orenburg, Nizhniy proezd str., build.17。",2
+RL318cffc19dV01-S002,L318cffc19dV01,L318cffc19d,"ATM Piping & Fitings, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,三通,2、3级,"活动场所： 1.125362, Moscow, Stroitelny proezd, 7A, corp.10, floor 2, room 1； 2.347360, Rostov region, Volgodonsk town, Zhukovskoe highway,10, build.1； 3.460050, Orenburg area, Orenburg, Nizhniy proezd str., build.17。",2
+RL318cffc19dV01-S003,L318cffc19dV01,L318cffc19d,"ATM Piping & Fitings, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,异径管,2、3级,"活动场所： 1.125362, Moscow, Stroitelny proezd, 7A, corp.10, floor 2, room 1； 2.347360, Rostov region, Volgodonsk town, Zhukovskoe highway,10, build.1； 3.460050, Orenburg area, Orenburg, Nizhniy proezd str., build.17。",2
+RL318cffc19dV01-S004,L318cffc19dV01,L318cffc19d,"ATM Piping & Fitings, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,管道预制,2、3级,"活动场所： 1.125362, Moscow, Stroitelny proezd, 7A, corp.10, floor 2, room 1； 2.347360, Rostov region, Volgodonsk town, Zhukovskoe highway,10, build.1； 3.460050, Orenburg area, Orenburg, Nizhniy proezd str., build.17。",2
+RL318cffc19dV01-S005,L318cffc19dV01,L318cffc19d,"ATM Piping & Fitings, Joint-Stock Company",俄罗斯,设计、制造,管道和管配件,直管（有缝、碳钢）,3级,"活动场所： 1.125362, Moscow, Stroitelny proezd, 7A, corp.10, floor 2, room 1； 2.347360, Rostov region, Volgodonsk town, Zhukovskoe highway,10, build.1； 3.460050, Orenburg area, Orenburg, Nizhniy proezd str., build.17。",2
+RL7ef780754cV01-S001,L7ef780754cV01,L7ef780754c,"Specialized Instrumentation Engineering Research Institute,Joint-Stock-Company",俄罗斯,设计、制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,无,3
+RL7ef780754cV01-S002,L7ef780754cV01,L7ef780754c,"Specialized Instrumentation Engineering Research Institute,Joint-Stock-Company",俄罗斯,设计、制造,仪控系统机柜,仪控盘、台、屏、箱,1E级（安全壳外）,无,3
+RL6da10d6dacV01-S001,L6da10d6dacV01,L6da10d6dac,SPECIAL BRIDES SERVICE,法国,设计、制造,铸锻件,阀类锻件,1级,无,4
+RL6fbd4b0a86V01-S001,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,设计,阀门,隔离阀,2、3级,主要分包项目：鉴定试验,5
+RL6fbd4b0a86V01-S002,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,设计,阀门,单向阀,2、3级,主要分包项目：鉴定试验,5
+RL6fbd4b0a86V01-S003,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,设计,阀门,调节阀,2、3级,主要分包项目：鉴定试验,5
+RL6fbd4b0a86V01-S004,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,设计,阀门,安全阀,3级,主要分包项目：鉴定试验,5
+RL6fbd4b0a86V01-S005,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,制造,阀门,隔离阀,2、3级,无,5
+RL6fbd4b0a86V01-S006,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,制造,阀门,单向阀,2、3级,无,5
+RL6fbd4b0a86V01-S007,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,制造,阀门,调节阀,2、3级,无,5
+RL6fbd4b0a86V01-S008,L6fbd4b0a86V01,L6fbd4b0a86,Penztyazhpromarmatura JSC（PTPA JSC）,俄罗斯,制造,阀门,安全阀,3级,无,5
+RL41ec540b90V01-S001,L41ec540b90V01,L41ec540b90,ATB GROUP UK LIMITED,英国,设计,电动机,交流中压电动机,1E级（安全壳外）,无,6
+RL41ec540b90V01-S002,L41ec540b90V01,L41ec540b90,ATB GROUP UK LIMITED,英国,制造,电动机,交流中压电动机,1E级（安全壳外）,无,6
+RLdb152d39a9V01-S001,Ldb152d39a9V01,Ldb152d39a9,Baumer Bourdon Haenni SAS,法国,设计,传感器,压力变送器,1E级（安全壳外）,无,7
+RLdb152d39a9V01-S002,Ldb152d39a9V01,Ldb152d39a9,Baumer Bourdon Haenni SAS,法国,设计,传感器,温度计,1E级（安全壳外）,无,7
+RLdb152d39a9V01-S003,Ldb152d39a9V01,Ldb152d39a9,Baumer Bourdon Haenni SAS,法国,制造,传感器,压力变送器,1E级（安全壳外）,无,7
+RLdb152d39a9V01-S004,Ldb152d39a9V01,Ldb152d39a9,Baumer Bourdon Haenni SAS,法国,制造,传感器,温度计,1E级（安全壳外）,无,7
+RLb61ed85035V01-S001,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,设计,电气贯穿件,中压电力贯穿件,1E级,无,8
+RLb61ed85035V01-S002,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,设计,电气贯穿件,低压电力贯穿件,1E级,无,8
+RLb61ed85035V01-S003,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,设计,电气贯穿件,控制贯穿件,1E级,无,8
+RLb61ed85035V01-S004,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,设计,电气贯穿件,仪表贯穿件,1E级,无,8
+RLb61ed85035V01-S005,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,设计,电气贯穿件,同轴贯穿件,1E级,无,8
+RLb61ed85035V01-S006,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,制造,电气贯穿件,中压电力贯穿件,1E级,无,8
+RLb61ed85035V01-S007,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,制造,电气贯穿件,低压电力贯穿件,1E级,无,8
+RLb61ed85035V01-S008,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,制造,电气贯穿件,控制贯穿件,1E级,无,8
+RLb61ed85035V01-S009,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,制造,电气贯穿件,仪表贯穿件,1E级,无,8
+RLb61ed85035V01-S010,Lb61ed85035V01,Lb61ed85035,Private Joint-Stock Company “ELOX PLANT”,乌克兰,制造,电气贯穿件,同轴贯穿件,1E级,无,8
+RL2af1b0551dV01-S001,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,管道和管配件,直管,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书，并完成设备装 配图纸和其他设计文件； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S002,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,管道和管配件,热交换器传热管,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书，并完成设备装 配图纸和其他设计文件； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S003,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,管道和管配件,管道预制,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书，并完成设备装 配图纸和其他设计文件； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S004,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,管道和管配件,弯头,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书，并完成设备装 配图纸和其他设计文件； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S005,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,管道和管配件,三通,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书，并完成设备装 配图纸和其他设计文件； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S006,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,管道和管配件,异径管,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书，并完成设备装 配图纸和其他设计文件； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S007,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,储罐,储罐,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S008,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,热交换器,管壳式热交换器,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S009,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,热交换器,板式热交换器,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S010,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,泵,离心泵,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S011,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,泵,往复泵,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S012,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计,泵,其他类型核安全级泵,2、3级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",1
+RL2af1b0551dV01-S013,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,电源设备,应急柴油发电机组,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S014,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,电源设备,蓄电池（组）,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S015,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,电源设备,充电器,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S016,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,电源设备,逆变器,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S017,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,电源设备,不间断电源,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S018,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,成套开关设备和控制设备,交流中压开关柜,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S019,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,成套开关设备和控制设备,交流低压开关柜,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S020,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,成套开关设备和控制设备,直流开关柜,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S021,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,成套开关设备和控制设备,电气盘、台、屏、箱,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S022,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,传感器,温度计,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S023,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,传感器,流量计,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S024,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,传感器,压力变送器,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S025,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,传感器,液位计,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S026,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,传感器,辐射监测探测器,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV01-S027,L2af1b0551dV01,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,传感器,核测仪表,1E级,"1.基于民用核设施系统设计 需要，完成设备选型，编制设 备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",2
+RL2af1b0551dV02-S001,L2af1b0551dV02,L2af1b0551d,Joint Stock Company “Atomenergoproekt”,俄罗斯,设计、制造,电缆,仪表电缆,1E级,"1.基于民用核设施系统设计需要，完 成设备选型，编制设备技术规格书； 2.活动场所：82A Savushkina St, SaintPeterburg 197183, Russia。",9
+RL100de67080V01-S001,L100de67080V01,L100de67080,JSC “AEM-technology”,俄罗斯,设计,支承件,设备支承件,2、3级,"1.主要分包项目：抗震分析； 2.活动场所：196650, Saint-Petersburg, Kolpino, Izhorskiy Zavod, bld. w/n。",10
+RL100de67080V01-S002,L100de67080V01,L100de67080,JSC “AEM-technology”,俄罗斯,制造,支承件,设备支承件,2、3级,"1.主要分包项目：理化检验； 2.活动场所：196650, Saint-Petersburg, Kolpino, Izhorskiy Zavod, bld. w/n。",10
+RL100de67080V01-S003,L100de67080V01,L100de67080,JSC “AEM-technology”,俄罗斯,制造,铸锻件,容器类锻件,1级,"1.主要分包项：理化检验； 2.活动场所：196650, Saint-Petersburg, Kolpino, Izhorskiy Zavod, bld. w/n。",10
+RL100de67080V01-S004,L100de67080V01,L100de67080,JSC “AEM-technology”,俄罗斯,制造,铸锻件,泵类锻件,1级,"1.主要分包项：理化检验； 2.活动场所：196650, Saint-Petersburg, Kolpino, Izhorskiy Zavod, bld. w/n。",10
+RL100de67080V01-S005,L100de67080V01,L100de67080,JSC “AEM-technology”,俄罗斯,制造,铸锻件,支承类锻件,1级,"1.主要分包项：理化检验； 2.活动场所：196650, Saint-Petersburg, Kolpino, Izhorskiy Zavod, bld. w/n。",10
+RL9d2f55614aV01-S001,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,设计,传感器,核测仪表,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S002,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,设计,传感器,温度计,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S003,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,设计,传感器,液位计,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S004,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,设计,电缆,仪表电缆（矿物绝缘电缆）,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S005,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,设计,电缆,同轴电缆,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S006,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,制造,传感器,核测仪表,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S007,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,制造,传感器,温度计,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S008,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,制造,传感器,液位计,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S009,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,制造,电缆,仪表电缆（矿物绝缘电缆）,1E级（安全壳内、外）,无,1
+RL9d2f55614aV01-S010,L9d2f55614aV01,L9d2f55614a,THERMOCOAX SAS,法国,制造,电缆,同轴电缆,1E级（安全壳内、外）,无,1
+RLc47fbbe051V01-S001,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,设计,电缆,低压电力电缆,1E级（安全壳外）,无,2
+RLc47fbbe051V01-S002,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,设计,电缆,控制电缆,1E级（安全壳内、外）,无,2
+RLc47fbbe051V01-S003,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,设计,电缆,仪表电缆,1E级（安全壳内、外）,无,2
+RLc47fbbe051V01-S004,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,设计,电缆,同轴电缆,1E级（安全壳内、外）,安全壳内仅限K2类,2
+RLc47fbbe051V01-S005,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,制造,电缆,低压电力电缆,1E级（安全壳外）,无,2
+RLc47fbbe051V01-S006,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,制造,电缆,控制电缆,1E级（安全壳内、外）,无,2
+RLc47fbbe051V01-S007,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,制造,电缆,仪表电缆,1E级（安全壳内、外）,无,2
+RLc47fbbe051V01-S008,Lc47fbbe051V01,Lc47fbbe051,Habia Cable AB,瑞典,制造,电缆,同轴电缆,1E级（安全壳内、外）,安全壳内仅限K2类,2
+RL9c0ed5827bV01-S001,L9c0ed5827bV01,L9c0ed5827b,Rosswag GmbH,德国,设计、制造,铸锻件,阀类锻件,1级,主要分包项目：特殊热处理、腐蚀试验、低温冲击试验、深孔镗削。,3
+RL4ccc013e96V01-S001,L4ccc013e96V01,L4ccc013e96,ETTORE CELLA S.p.A.,意大利,设计,传感器,压力变送器,1E级（安全壳外）,无,1
+RL4ccc013e96V01-S002,L4ccc013e96V01,L4ccc013e96,ETTORE CELLA S.p.A.,意大利,设计,传感器,温度计,1E级（安全壳外）,无,1
+RL4ccc013e96V01-S003,L4ccc013e96V01,L4ccc013e96,ETTORE CELLA S.p.A.,意大利,制造,传感器,压力变送器,1E级（安全壳外）,无,1
+RL4ccc013e96V01-S004,L4ccc013e96V01,L4ccc013e96,ETTORE CELLA S.p.A.,意大利,制造,传感器,温度计,1E级（安全壳外）,无,1
+RL26f634d476V01-S001,L26f634d476V01,L26f634d476,Framatome Inc.,美国,设计,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"活动场所：20 Cabot Blvd., Suite 250, Mansfield, MA 02048",2
+RL26f634d476V01-S002,L26f634d476V01,L26f634d476,Framatome Inc.,美国,制造,仪控系统机柜,仪控机架、机柜,1E级（安全壳外）,"活动场所：3315 Old Forest Road, Lynchburg, VA 24501",2
+RLa7f7c4a6e9V01-S001,La7f7c4a6e9V01,La7f7c4a6e9,“Sinarsky Pipe Plant”，Joint stock company,俄罗斯,设计、制造,管道和管配件,直管（无缝）,2、3级,1.仅限于VVER堆型；2.仅限碳钢和合金钢管；3.主要分包项目：理化检验。,3
+RLa0d7638450V01-S001,La0d7638450V01,La0d7638450,LLC “Cybersteel”,俄罗斯,设计、制造,管道和管配件,直管（无缝）,2、3级,"1.仅限于 VVER 堆型； 2.仅限不锈钢管； 3.主要分包项：理化检验； 4.活动场所：Torgovaya street 1，Pervouralsk， Sverdlovsk region, Russia, 623100 。",4
+RLa0d7638450V01-S002,La0d7638450V01,La0d7638450,LLC “Cybersteel”,俄罗斯,设计、制造,管道和管配件,热交换器传热管（直管）,2、3级,"1.仅限于 VVER 堆型； 2.仅限不锈钢管； 3.主要分包项：理化检验； 4.活动场所：Torgovaya street 1，Pervouralsk， Sverdlovsk region, Russia, 623100 。",4
+RL2e5cdc5da6V01-S001,L2e5cdc5da6V01,L2e5cdc5da6,EnerSys Delaware Inc.,美国,设计,电源设备,蓄电池（组）,1E级（安全壳外）,容量范围： 1140Ah～3600Ah,5
+RL2e5cdc5da6V01-S002,L2e5cdc5da6V01,L2e5cdc5da6,EnerSys Delaware Inc.,美国,制造,电源设备,蓄电池（组）,1E级（安全壳外）,容量范围： 1140Ah～3600Ah,5
+RLbd0a6eb4a0V01-S001,Lbd0a6eb4a0V01,Lbd0a6eb4a0,FOMAS S.p.A.,意大利,设计、制造,铸锻件,容器类锻件,1级,无,6
+RLbd0a6eb4a0V01-S002,Lbd0a6eb4a0V01,Lbd0a6eb4a0,FOMAS S.p.A.,意大利,设计、制造,铸锻件,泵阀类锻件,1级,无,6
+RLbd0a6eb4a0V01-S003,Lbd0a6eb4a0V01,Lbd0a6eb4a0,FOMAS S.p.A.,意大利,设计、制造,铸锻件,支承类锻件,3级,无,6
+RL2fd1993de6V01-S001,L2fd1993de6V01,L2fd1993de6,SISTO Armaturen S.A.,卢森堡,设计,阀门,隔离阀,2、3级,1、其他类型阀（疏水阀、排气阀）仅限于EPR堆型；2、主要分包项目：鉴定试验。,7
+RL2fd1993de6V01-S002,L2fd1993de6V01,L2fd1993de6,SISTO Armaturen S.A.,卢森堡,设计,阀门,其他类型阀门,2、3级,1、其他类型阀（疏水阀、排气阀）仅限于EPR堆型；2、主要分包项目：鉴定试验。,7
+RL2fd1993de6V01-S003,L2fd1993de6V01,L2fd1993de6,SISTO Armaturen S.A.,卢森堡,制造,阀门,隔离阀,2、3级,1、其他类型阀（疏水阀、排气阀）仅限于EPR堆型；2、主要分包项目：射线、磁粉、超声检验。,7
+RL2fd1993de6V01-S004,L2fd1993de6V01,L2fd1993de6,SISTO Armaturen S.A.,卢森堡,制造,阀门,其他类型阀门,2、3级,1、其他类型阀（疏水阀、排气阀）仅限于EPR堆型；2、主要分包项目：射线、磁粉、超声检验。,7
+RL4ebb2ed33dV01-S001,L4ebb2ed33dV01,L4ebb2ed33d,LLC “TMK-INOX”,俄罗斯,设计、制造,管道和管配件,直管（无缝）,2、3级,1.分包项目：理化检验、水压试验；2.仅适用于VVER堆型。,1
+RL4ebb2ed33dV01-S002,L4ebb2ed33dV01,L4ebb2ed33d,LLC “TMK-INOX”,俄罗斯,设计、制造,管道和管配件,热交换器传热管（直管）,2、3级,1.分包项目：理化检验、水压试验；2.仅适用于VVER堆型。,1
+RLda5e5d3876V01-S001,Lda5e5d3876V01,Lda5e5d3876,“Volzhsky Pipe Plant” Joint Stock Company,俄罗斯,设计、制造,管道和管配件,直管（无缝）,2、3级,仅适用于VVER堆型。,2
+RLcd05dd3408V01-S001,Lcd05dd3408V01,Lcd05dd3408,LLC RPE “BASET”,俄罗斯,设计,热交换器,管壳式热交换器（含热交换器传热管）,3级,仅适用于VVER堆型。,3
+RLcd05dd3408V01-S002,Lcd05dd3408V01,Lcd05dd3408,LLC RPE “BASET”,俄罗斯,制造,热交换器,管壳式热交换器（含热交换器传热管）,3级,仅适用于VVER堆型。,3
+RL5c0437219eV01-S001,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,设计,压力容器,反应堆压力容器、稳压器、安注箱,1、2、3级,1.主要分包项目：抗震分析；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S002,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,设计,储罐,/,2、3级,1.主要分包项目：抗震分析；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S003,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,设计,管道和管配件,管道预制,1、2、3级,1.主要分包项目：抗震分析；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S004,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,设计,堆内构件,/,2级,1.主要分包项目：抗震分析；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S005,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,设计,支承件,设备支承件,1、2、3级,1.主要分包项目：抗震分析；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S006,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,制造,压力容器,反应堆压力容器、稳压器、安注箱,1、2、3级,1.主要分包项目：理化检验；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S007,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,制造,储罐,/,2、3级,1.主要分包项目：理化检验；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S008,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,制造,管道和管配件,管道预制,1、2、3级,1.主要分包项目：理化检验；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S009,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,制造,堆内构件,/,2级,1.主要分包项目：理化检验；2.仅适用于VVER堆型。,6
+RL5c0437219eV01-S010,L5c0437219eV01,L5c0437219e,PJSC Izhorskiye Zavody,俄罗斯,制造,支承件,设备支承件,1、2、3级,1.主要分包项目：理化检验；2.仅适用于VVER堆型。,6
+RL7d4649c463V01-S001,L7d4649c463V01,L7d4649c463,KROHNE SAS,法国,设计,传感器,液位计,1E级（安全壳内）,无,8
+RL7d4649c463V01-S002,L7d4649c463V01,L7d4649c463,KROHNE SAS,法国,制造,传感器,液位计,1E级（安全壳内）,无,8
+RLd37cc7a777V01-S001,Ld37cc7a777V01,Ld37cc7a777,LLC “NTL-Pribor”,俄罗斯,设计,传感器,温度计,1E级（安全壳内、外）,1.包括热电偶、热电阻、矿物绝缘电缆、接线盒；2.仅适用于VVER堆型。,10
+RLd37cc7a777V01-S002,Ld37cc7a777V01,Ld37cc7a777,LLC “NTL-Pribor”,俄罗斯,设计,传感器,压力变送器,1E级（安全壳内、外）,1.包括压力脉冲传感器、矿物绝缘电缆、接线盒；2.仅适用于VVER堆型。,10
+RLd37cc7a777V01-S003,Ld37cc7a777V01,Ld37cc7a777,LLC “NTL-Pribor”,俄罗斯,制造,传感器,温度计,1E级（安全壳内、外）,1.包括热电偶、热电阻、矿物绝缘电缆、接线盒；2.仅适用于VVER堆型。,10
+RLd37cc7a777V01-S004,Ld37cc7a777V01,Ld37cc7a777,LLC “NTL-Pribor”,俄罗斯,制造,传感器,压力变送器,1E级（安全壳内、外）,1.包括压力脉冲传感器、矿物绝缘电缆、接线盒；2.仅适用于VVER堆型。,10
+RLcc7753d23cV01-S001,Lcc7753d23cV01,Lcc7753d23c,Dresser Produits Industriels,法国,设计,阀门,调节阀,2、3级,主要分包项目：环境试验、抗震试验。,11
+RLcc7753d23cV01-S002,Lcc7753d23cV01,Lcc7753d23c,Dresser Produits Industriels,法国,制造,阀门,调节阀,2、3级,主要分包项目：理化检验、射线检验、超声检验、磁粉检验、涡流检验。,11
+RL4f56ea6973V01-S001,L4f56ea6973V01,L4f56ea6973,PJSC CENTRAVIS PRODUCTION,乌克兰,设计、制造,管道和管配件,热交换器传热管（直管）,2、3级,1.分包项目：水压试验；2.仅适用于VVER堆型。,14
+RL04b26b4f15V01-S001,L04b26b4f15V01,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,泵,离心泵,2、3级,1.许可范围不包括上充泵及高压安注泵。2.主要分包项目：超声检验。,3
+RL04b26b4f15V02-S001,L04b26b4f15V02,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,堆内构件,,核安全级,主要分包项目：1．水切割下料；2．镀铬等表面处理；3．半方管压制；4．C/W型板折弯。,3
+RL04b26b4f15V02-S002,L04b26b4f15V02,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,金属堆内构件(堆芯支承结构),,核安全级,主要分包项目：1.水切割下料；2.表面处理（氮化处理、磷化处理）；3.底座、筒体纵缝焊后热处理；4.弯管。,3
+RL04b26b4f15V03-S001,L04b26b4f15V03,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,风机,离心风机,核安全级,主要分包项目：1.热处理；2.理化检验；3.射线检验。,3
+RL04b26b4f15V03-S002,L04b26b4f15V03,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,风机,轴流风机,核安全级,主要分包项目：1.热处理；2.理化检验；3.射线检验。,3
+RL04b26b4f15V03-S003,L04b26b4f15V03,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,阀门（风阀）,隔离阀,核安全级,主要分包项目：1.热处理；2.理化检验；3.射线检验。,4
+RL04b26b4f15V03-S004,L04b26b4f15V03,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,阀门（风阀）,单向阀,核安全级,主要分包项目：1.热处理；2.理化检验；3.射线检验。,4
+RL04b26b4f15V03-S005,L04b26b4f15V03,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,阀门（风阀）,调节阀,核安全级,主要分包项目：1.热处理；2.理化检验；3.射线检验。,4
+RL04b26b4f15V04-S001,L04b26b4f15V04,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,主泵,反应堆冷却剂泵（轴封型）,1级,主要分包项目：高压冷却器设计。,3
+RL04b26b4f15V04-S002,L04b26b4f15V04,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,主泵,反应堆冷却剂泵（湿绕组）,1级,主要分包项目：1.轴承设计；2.高压冷却器设计。,3
+RL04b26b4f15V04-S003,L04b26b4f15V04,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,泵,离心泵,2、3级,主要分包项目：抗震试验。,4
+RL04b26b4f15V05-S001,L04b26b4f15V05,L04b26b4f15,监督管理条例》及其配套规章,,设计、制造,支承件,阻尼器,1、2、3级,主要分包项目：1.抗震分析；2.环境试验；3.高温老化及耐辐照试验。,3
+RL489b953b68V01-S001,L489b953b68V01,L489b953b68,"Corporation of JSC“ESKM”, LLC",俄罗斯,设计、制造,热交换器,板式热交换器,3级,主要分包项：热工水力试验，气体动力试验。,2
+RL489b953b68V01-S002,L489b953b68V01,L489b953b68,"Corporation of JSC“ESKM”, LLC",俄罗斯,设计、制造,热交换器,管壳式热交换器（含热交换器传热管）,3级,主要分包项：热工水力试验，气体动力试验。,2
+RL9b4425bbd7V01-S001,L9b4425bbd7V01,L9b4425bbd7,LLC“ZESKMI”,俄罗斯,设计、制造,热交换器,管壳式热交换器,3级,"主要分包项目：理化试验、无损检验 活动场所： 75NovorossiyskayaSt.,Krasnodar; 11 M.N. Demus St., blocks“Ch”, “H”,“1-B”，Krasnodar.",3
+RL9b4425bbd7V01-S002,L9b4425bbd7V01,L9b4425bbd7,LLC“ZESKMI”,俄罗斯,设计、制造,热交换器,板式热交换器,3级,"主要分包项目：理化试验、无损检验 活动场所： 75NovorossiyskayaSt.,Krasnodar; 11 M.N. Demus St., blocks“Ch”, “H”,“1-B”，Krasnodar.",3
+RL9b4425bbd7V01-S003,L9b4425bbd7V01,L9b4425bbd7,LLC“ZESKMI”,俄罗斯,设计、制造,管道和管配件,热交换器传热管（弯制）,3级,"主要分包项目：理化试验、无损检验 活动场所： 75NovorossiyskayaSt.,Krasnodar; 11 M.N. Demus St., blocks“Ch”, “H”,“1-B”，Krasnodar.",3
+RL0fdcacb083V01-S001,L0fdcacb083V01,L0fdcacb083,Phönix Armaturen-Werke Bregel GmbH,德国,设计,阀门,隔离阀,2、3级,1.不包括主蒸汽隔离阀和主给水隔离阀；2.主要分包项目：鉴定试验。,8
+RL0fdcacb083V01-S002,L0fdcacb083V01,L0fdcacb083,Phönix Armaturen-Werke Bregel GmbH,德国,设计,阀门,调节阀,2、3级,1.不包括主蒸汽隔离阀和主给水隔离阀；2.主要分包项目：鉴定试验。,8
+RL0fdcacb083V01-S003,L0fdcacb083V01,L0fdcacb083,Phönix Armaturen-Werke Bregel GmbH,德国,设计,阀门,其他类型核安全级阀,2、3级,1.不包括主蒸汽隔离阀和主给水隔离阀；2.主要分包项目：鉴定试验。,8
+RL0fdcacb083V01-S004,L0fdcacb083V01,L0fdcacb083,Phönix Armaturen-Werke Bregel GmbH,德国,制造,阀门,隔离阀,2、3级,1.不包括主蒸汽隔离阀和主给水隔离阀；2.主要分包项目：磁粉检验、超声检验、射线检验（壁厚>30mm）、理化检验。,8
+RL0fdcacb083V01-S005,L0fdcacb083V01,L0fdcacb083,Phönix Armaturen-Werke Bregel GmbH,德国,制造,阀门,调节阀,2、3级,1.不包括主蒸汽隔离阀和主给水隔离阀；2.主要分包项目：磁粉检验、超声检验、射线检验（壁厚>30mm）、理化检验。,8
+RL0fdcacb083V01-S006,L0fdcacb083V01,L0fdcacb083,Phönix Armaturen-Werke Bregel GmbH,德国,制造,阀门,其他类型核安全级阀,2、3级,1.不包括主蒸汽隔离阀和主给水隔离阀；2.主要分包项目：磁粉检验、超声检验、射线检验（壁厚>30mm）、理化检验。,8
+RL27728cc27aV02-S001,L27728cc27aV02,L27728cc27a,江苏星河阀门有限公司,,设计、制造,仪表阀,截止阀,2、3级,1.若压力等级（磅级）在原许可活动范围内，则无需进行许可证变更，但应将压力等级（磅级）换算过程和结果报华北核与辐射安全监督站备案，并对换算的准确性和真实性负责；2.主要分包项目：（1）抗震分析；（2）部分型式试验，如：冷、热循环寿命试验。,3
+RL27728cc27aV02-S002,L27728cc27aV02,L27728cc27a,江苏星河阀门有限公司,,设计、制造,仪表阀,球阀,2、3级,1.若压力等级（磅级）在原许可活动范围内，则无需进行许可证变更，但应将压力等级（磅级）换算过程和结果报华北核与辐射安全监督站备案，并对换算的准确性和真实性负责；2.主要分包项目：（1）抗震分析；（2）部分型式试验，如：冷、热循环寿命试验。,3
+RL422773830eV01-S001,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,管道和管配件,直管,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书，并完成设备装配图纸和其他设计文件。,1
+RL422773830eV01-S002,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,管道和管配件,热交换器传热管,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书，并完成设备装配图纸和其他设计文件。,1
+RL422773830eV01-S003,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,管道和管配件,管道预制,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书，并完成设备装配图纸和其他设计文件。,1
+RL422773830eV01-S004,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,管道和管配件,弯头,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书，并完成设备装配图纸和其他设计文件。,1
+RL422773830eV01-S005,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,管道和管配件,三通,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书，并完成设备装配图纸和其他设计文件。,1
+RL422773830eV01-S006,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,管道和管配件,异径管,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书，并完成设备装配图纸和其他设计文件。,1
+RL422773830eV01-S007,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,储罐,储罐,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S008,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,热交换器,管壳式热交换器,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S009,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,热交换器,板式热交换器,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S010,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,泵,离心泵,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S011,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,泵,往复泵,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S012,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,泵,其他类型核安全级泵,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S013,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,风机,离心式风机,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S014,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,风机,轴流式风机,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S015,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,压缩机,离心式压缩机,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S016,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,压缩机,往复式压缩机,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S017,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,阀门,隔离阀,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S018,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计,阀门,单向阀,2、3级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,1
+RL422773830eV01-S019,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电源设备,应急柴油发电机组,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S020,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电源设备,蓄电池（组）,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S021,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电源设备,充电器,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S022,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电源设备,逆变器,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S023,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电源设备,不间断电源,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S024,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,成套开关设备和控制设备,交流中压开关柜,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S025,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,成套开关设备和控制设备,交流低压开关柜,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S026,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,成套开关设备和控制设备,直流开关柜,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S027,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,成套开关设备和控制设备,电气盘、台、屏、箱,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S028,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,传感器,温度计,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S029,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,传感器,流量计,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S030,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,传感器,压力变送器,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S031,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,传感器,液位计,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S032,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,传感器,辐射监测探测器,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S033,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,传感器,核测仪表,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S034,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电气贯穿件,电气贯穿件,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S035,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电缆,中压电力电缆,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S036,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电缆,低压电力电缆,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S037,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电缆,控制电缆,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S038,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电缆,同轴电缆,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S039,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电缆,电缆附件,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S040,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,仪控系统机柜,仪控机架、机柜,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S041,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,仪控系统机柜,仪控盘、台、屏、箱,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S042,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,变压器,配电变压器,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S043,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电动机,交流电动机,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S044,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,电动机,直流电动机,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL422773830eV01-S045,L422773830eV01,L422773830e,Joint Stock Company Scientific Research and Design Institute forEnergy Technoligies ATOMPROEKT,俄罗斯,设计、制造,阀门驱动装置,阀门电动装置,1E级,基于民用核设施系统设计需要，完成设备选型，编制设备技术规格书。,2
+RL96bad49042V01-S001,L96bad49042V01,L96bad49042,AO Alfa Laval Potok,俄罗斯,设计,热交换器,板式热交换器,2、3级,核安全2级仅限于VVER项目,4
+RL96bad49042V01-S002,L96bad49042V01,L96bad49042,AO Alfa Laval Potok,俄罗斯,制造,热交换器,板式热交换器,2、3级,1.核安全2级仅限于VVER项目；2.分包项目：板片成形、射线检验、超声检验、磁粉检验。,4
+RLb028a712d5V01-S001,Lb028a712d5V01,Lb028a712d5,JSC Sverdlovsk Chemical Engineering Research Institute,俄罗斯,设计,储罐,/,3级,仅适用于VVER堆型,6
+RLb028a712d5V01-S002,Lb028a712d5V01,Lb028a712d5,JSC Sverdlovsk Chemical Engineering Research Institute,俄罗斯,设计,热交换器,管壳式热交换器(含传热管),3级,仅适用于VVER堆型,6
+RLb028a712d5V01-S003,Lb028a712d5V01,Lb028a712d5,JSC Sverdlovsk Chemical Engineering Research Institute,俄罗斯,制造,储罐,/,3级,仅适用于VVER堆型,6
+RLb028a712d5V01-S004,Lb028a712d5V01,Lb028a712d5,JSC Sverdlovsk Chemical Engineering Research Institute,俄罗斯,制造,热交换器,管壳式热交换器(含传热管),3级,仅适用于VVER堆型,6
+RL2aa87982a8V01-S001,L2aa87982a8V01,L2aa87982a8,IMI Japan K.K.,日本,设计,阀门,调节阀,3级,主要分包项目：LOCA试验、抗震试验、蒸汽流阻试验、载荷试验等,9
+RL2aa87982a8V01-S002,L2aa87982a8V01,L2aa87982a8,IMI Japan K.K.,日本,制造,阀门,调节阀,3级,主要分包项目：热处理、射线检验、超声检验、磁粉检验,9

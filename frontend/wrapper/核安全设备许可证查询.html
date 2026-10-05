@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>核安全设备许可证查询</title>
+<style>
+  html,body{margin:0;padding:0;height:100%;background:#f4f8fd;overflow:hidden}
+  #app{position:fixed;inset:0;width:100%;height:100%;border:0}
+  #tip{position:fixed;left:0;right:0;bottom:0;z-index:9;display:none;
+       background:#0b2f6b;color:#fff;font:13px/1.6 "PingFang SC","Microsoft YaHei",sans-serif;
+       text-align:center;padding:8px 10px}
+  #tip a{color:#9cc4ff;text-decoration:underline;word-break:break-all}
+</style>
+</head>
+<body>
+<iframe id="app" src="https://haf-license.app.workbuddy.host/" allow="fullscreen"></iframe>
+<div id="tip">若长时间未加载，<a href="https://haf-license.app.workbuddy.host/" target="_blank" rel="noopener">点此直接打开完整版</a></div>
+<script>
+(function () {
+  var loaded = false
+  document.getElementById('app').addEventListener('load', function () { loaded = true })
+  setTimeout(function () {
+    if (!loaded) document.getElementById('tip').style.display = 'block'
+  }, 8000)
+})()
+</script>
+</body>
+</html>

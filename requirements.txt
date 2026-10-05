@@ -1,0 +1,14 @@
+# HAF-agent 依赖清单
+
+# --- 运行时（L1 采集 / L2 筛选 / L3 解析 / L4 建库）---
+# 说明：L1/L2 为纯标准库；L3/L4 需要 PDF 解析库
+pdfplumber==0.11.10        # L3 文本 + 表格抽取（M3 实测 10/10 样本可用）
+
+# 开发/测试期
+pypdf==6.19.0              # 仅用于生成 tests/fixtures（scripts/build_fixtures.py）
+
+# --- 仅分析评估用（不参与流水线）---
+# tiktoken                 # M3 token 实测（scripts/m3_token_estimate.py）
+
+# --- 未引入（L3 直接使用 urllib，避免额外依赖）---
+# requests / httpx / openai

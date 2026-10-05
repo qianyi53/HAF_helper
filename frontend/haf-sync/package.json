@@ -1,0 +1,16 @@
+{
+  "name": "haf-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Incremental SQLite -> WorkBuddy cloud database sync for HAF license data",
+  "scripts": {
+    "sync": "node sync.mjs"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "@tencent-ai/workbuddy-cloud-sdk": "dev"
+  }
+}

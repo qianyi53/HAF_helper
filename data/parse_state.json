@@ -1,0 +1,2615 @@
+{
+ "meta": {
+  "last_run": "2026-09-27T22:20:47",
+  "last_summary": {
+   "attachments_total": 289,
+   "parsed": 0,
+   "reused": 289,
+   "errors": 0,
+   "pruned_state": 0
+  }
+ },
+ "attachments": {
+  "t20210128_819089|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128351640083868.pdf": {
+   "doc_id": "t20210128_819089",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128351640083868.pdf",
+   "sha1": "04f2e4965045",
+   "parsed_at": "2026-09-27T22:09:33",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210128_819089|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128351640449841.pdf": {
+   "doc_id": "t20210128_819089",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128351640449841.pdf",
+   "sha1": "9c675ef01063",
+   "parsed_at": "2026-09-27T22:06:05",
+   "records": 7,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210128_819094|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128357370201537.pdf": {
+   "doc_id": "t20210128_819094",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128357370201537.pdf",
+   "sha1": "ef8d1b0eefea",
+   "parsed_at": "2026-09-27T22:06:06",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210128_819094|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128357370650791.pdf": {
+   "doc_id": "t20210128_819094",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128357370650791.pdf",
+   "sha1": "4dbb3f2d3d51",
+   "parsed_at": "2026-09-27T22:06:06",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210128_819102|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128360879101977.pdf": {
+   "doc_id": "t20210128_819102",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128360879101977.pdf",
+   "sha1": "700fc3111752",
+   "parsed_at": "2026-09-27T22:06:06",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210128_819102|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128360879605878.pdf": {
+   "doc_id": "t20210128_819102",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128360879605878.pdf",
+   "sha1": "80877b310d23",
+   "parsed_at": "2026-09-27T22:06:07",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210128_819103|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128363208264871.pdf": {
+   "doc_id": "t20210128_819103",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128363208264871.pdf",
+   "sha1": "c61948701f45",
+   "parsed_at": "2026-09-27T22:06:07",
+   "records": 2,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210128_819105|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128369232232535.pdf": {
+   "doc_id": "t20210128_819105",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128369232232535.pdf",
+   "sha1": "4663fe4faa27",
+   "parsed_at": "2026-09-27T22:06:08",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210128_819105|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128369232691083.pdf": {
+   "doc_id": "t20210128_819105",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210128369232691083.pdf",
+   "sha1": "927f18d413f9",
+   "parsed_at": "2026-09-27T22:06:08",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210129_819471|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210129569768691084.pdf": {
+   "doc_id": "t20210129_819471",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202101/W020210129569768691084.pdf",
+   "sha1": "b0abd73bc1f7",
+   "parsed_at": "2026-09-27T22:06:09",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210226_822636|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202102/W020210226568820774508.pdf": {
+   "doc_id": "t20210226_822636",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202102/W020210226568820774508.pdf",
+   "sha1": "e44ff8ba2444",
+   "parsed_at": "2026-09-27T22:06:09",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210226_822636|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202102/W020210226568821201610.pdf": {
+   "doc_id": "t20210226_822636",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202102/W020210226568821201610.pdf",
+   "sha1": "7d2bbfa3b750",
+   "parsed_at": "2026-09-27T22:06:10",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210323_825740|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202103/W020210323576484919680.pdf": {
+   "doc_id": "t20210323_825740",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202103/W020210323576484919680.pdf",
+   "sha1": "9edb334e0f96",
+   "parsed_at": "2026-09-27T22:06:10",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827405|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406333879164489.pdf": {
+   "doc_id": "t20210406_827405",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406333879164489.pdf",
+   "sha1": "6dd8921c72d6",
+   "parsed_at": "2026-09-27T22:06:11",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827405|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406333879576837.pdf": {
+   "doc_id": "t20210406_827405",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406333879576837.pdf",
+   "sha1": "276ec941a4b3",
+   "parsed_at": "2026-09-27T22:06:11",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827407|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406343661476290.pdf": {
+   "doc_id": "t20210406_827407",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406343661476290.pdf",
+   "sha1": "2b49062447c6",
+   "parsed_at": "2026-09-27T22:09:33",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827407|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406343661873127.pdf": {
+   "doc_id": "t20210406_827407",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406343661873127.pdf",
+   "sha1": "448a3b667d56",
+   "parsed_at": "2026-09-27T22:06:13",
+   "records": 8,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827410|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406359868167524.pdf": {
+   "doc_id": "t20210406_827410",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406359868167524.pdf",
+   "sha1": "da841d03bcb8",
+   "parsed_at": "2026-09-27T22:06:14",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827410|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406359868579200.pdf": {
+   "doc_id": "t20210406_827410",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406359868579200.pdf",
+   "sha1": "1cb35eb896cf",
+   "parsed_at": "2026-09-27T22:06:14",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827414|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406370457237675.pdf": {
+   "doc_id": "t20210406_827414",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406370457237675.pdf",
+   "sha1": "9a024a5eec14",
+   "parsed_at": "2026-09-27T22:06:15",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210406_827417|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406387263140164.pdf": {
+   "doc_id": "t20210406_827417",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406387263140164.pdf",
+   "sha1": "f2276cdf1211",
+   "parsed_at": "2026-09-27T22:06:15",
+   "records": 2,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210406_827417|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406387263558690.pdf": {
+   "doc_id": "t20210406_827417",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406387263558690.pdf",
+   "sha1": "49abe464cac6",
+   "parsed_at": "2026-09-27T22:06:16",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210406_827418|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406391953798378.pdf": {
+   "doc_id": "t20210406_827418",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406391953798378.pdf",
+   "sha1": "c7e457dd6724",
+   "parsed_at": "2026-09-27T22:06:16",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827420|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406398264894693.pdf": {
+   "doc_id": "t20210406_827420",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406398264894693.pdf",
+   "sha1": "51ba13c39604",
+   "parsed_at": "2026-09-27T22:06:16",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210406_827420|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406398265260999.pdf": {
+   "doc_id": "t20210406_827420",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210406398265260999.pdf",
+   "sha1": "57419e52c7bb",
+   "parsed_at": "2026-09-27T22:06:17",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210409_827925|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409360840184355.pdf": {
+   "doc_id": "t20210409_827925",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409360840184355.pdf",
+   "sha1": "085103cdb492",
+   "parsed_at": "2026-09-27T22:06:17",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210409_827925|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409360840638186.pdf": {
+   "doc_id": "t20210409_827925",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409360840638186.pdf",
+   "sha1": "2e0893a917bb",
+   "parsed_at": "2026-09-27T22:06:18",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210409_827929|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409363849362487.pdf": {
+   "doc_id": "t20210409_827929",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409363849362487.pdf",
+   "sha1": "55d8a20a6ea4",
+   "parsed_at": "2026-09-27T22:06:18",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210409_827929|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409363849957200.pdf": {
+   "doc_id": "t20210409_827929",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409363849957200.pdf",
+   "sha1": "1180c822b3ee",
+   "parsed_at": "2026-09-27T22:06:19",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210409_827944|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409384292028080.pdf": {
+   "doc_id": "t20210409_827944",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409384292028080.pdf",
+   "sha1": "07f2a6d4b18d",
+   "parsed_at": "2026-09-27T22:06:19",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210409_827953|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409397842082047.pdf": {
+   "doc_id": "t20210409_827953",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409397842082047.pdf",
+   "sha1": "383712b9a184",
+   "parsed_at": "2026-09-27T22:06:19",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210409_827954|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409400550979105.pdf": {
+   "doc_id": "t20210409_827954",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210409400550979105.pdf",
+   "sha1": "d44aa95140a1",
+   "parsed_at": "2026-09-27T22:06:20",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210419_829364|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419599326173519.pdf": {
+   "doc_id": "t20210419_829364",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419599326173519.pdf",
+   "sha1": "2ea711d0c52d",
+   "parsed_at": "2026-09-27T22:06:20",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210419_829364|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419599326590553.pdf": {
+   "doc_id": "t20210419_829364",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419599326590553.pdf",
+   "sha1": "d2a4d16da46b",
+   "parsed_at": "2026-09-27T22:06:21",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210419_829365|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419602532093296.pdf": {
+   "doc_id": "t20210419_829365",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419602532093296.pdf",
+   "sha1": "61f2addab4e9",
+   "parsed_at": "2026-09-27T22:06:21",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210419_829365|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419602532571458.pdf": {
+   "doc_id": "t20210419_829365",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419602532571458.pdf",
+   "sha1": "0b872cd9bbcb",
+   "parsed_at": "2026-09-27T22:06:21",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210419_829367|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419605609810594.pdf": {
+   "doc_id": "t20210419_829367",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419605609810594.pdf",
+   "sha1": "ea530b2b14d9",
+   "parsed_at": "2026-09-27T22:06:22",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210419_829367|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419605610317089.pdf": {
+   "doc_id": "t20210419_829367",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202104/W020210419605610317089.pdf",
+   "sha1": "bb315a0c7016",
+   "parsed_at": "2026-09-27T22:06:23",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210508_832111|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202105/W020210508591877047512.pdf": {
+   "doc_id": "t20210508_832111",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202105/W020210508591877047512.pdf",
+   "sha1": "99d6c121a7a6",
+   "parsed_at": "2026-09-27T22:09:34",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210508_832111|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202105/W020210508591877365576.pdf": {
+   "doc_id": "t20210508_832111",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202105/W020210508591877365576.pdf",
+   "sha1": "56f152fce16d",
+   "parsed_at": "2026-09-27T22:09:34",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486383520648.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486383520648.pdf",
+   "sha1": "ba9ca7d12a9a",
+   "parsed_at": "2026-09-27T22:06:24",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486383740272.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486383740272.pdf",
+   "sha1": "a37a8ec83999",
+   "parsed_at": "2026-09-27T22:06:24",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486383888512.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486383888512.pdf",
+   "sha1": "a51b925a0557",
+   "parsed_at": "2026-09-27T22:06:24",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384023478.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384023478.pdf",
+   "sha1": "2db91b21cf41",
+   "parsed_at": "2026-09-27T22:06:25",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384153000.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384153000.pdf",
+   "sha1": "1e2bf1e2cb2b",
+   "parsed_at": "2026-09-27T22:06:25",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384292807.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384292807.pdf",
+   "sha1": "0a5cec583472",
+   "parsed_at": "2026-09-27T22:06:25",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384413415.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384413415.pdf",
+   "sha1": "ae7727848be5",
+   "parsed_at": "2026-09-27T22:06:25",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384549446.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384549446.pdf",
+   "sha1": "6ef351b7a8a4",
+   "parsed_at": "2026-09-27T22:06:26",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210709_846044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384673590.pdf": {
+   "doc_id": "t20210709_846044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210709486384673590.pdf",
+   "sha1": "b8e134eb1666",
+   "parsed_at": "2026-09-27T22:06:26",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20210720_849193|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210720383463268815.pdf": {
+   "doc_id": "t20210720_849193",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210720383463268815.pdf",
+   "sha1": "f9a3fe9f61a5",
+   "parsed_at": "2026-09-27T22:09:34",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210720_849193|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210720383463420920.pdf": {
+   "doc_id": "t20210720_849193",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202107/W020210720383463420920.pdf",
+   "sha1": "cc161013b6cc",
+   "parsed_at": "2026-09-27T22:06:28",
+   "records": 14,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20210922_952215|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202109/W020210922341559020461.pdf": {
+   "doc_id": "t20210922_952215",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202109/W020210922341559020461.pdf",
+   "sha1": "b8b87d29a186",
+   "parsed_at": "2026-09-27T22:06:29",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20211011_956088|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202110/W020211011606508948117.pdf": {
+   "doc_id": "t20211011_956088",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202110/W020211011606508948117.pdf",
+   "sha1": "bae9aaced157",
+   "parsed_at": "2026-09-27T22:06:35",
+   "records": 21,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20211103_959019|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202111/W020211103667188554090.pdf": {
+   "doc_id": "t20211103_959019",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202111/W020211103667188554090.pdf",
+   "sha1": "e34ead549050",
+   "parsed_at": "2026-09-27T22:06:36",
+   "records": 4,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20211119_960960|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202111/W020211119563010443501.pdf": {
+   "doc_id": "t20211119_960960",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202111/W020211119563010443501.pdf",
+   "sha1": "f2ec2fc10432",
+   "parsed_at": "2026-09-27T22:09:34",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20211119_960960|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202111/W020211119563010650048.pdf": {
+   "doc_id": "t20211119_960960",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202111/W020211119563010650048.pdf",
+   "sha1": "91ccb0005495",
+   "parsed_at": "2026-09-27T22:06:37",
+   "records": 9,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20211223_965037|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020211223410674597893.pdf": {
+   "doc_id": "t20211223_965037",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020211223410674597893.pdf",
+   "sha1": "f125ed11f4fe",
+   "parsed_at": "2026-09-27T22:06:39",
+   "records": 4,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20211228_965469|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020211228531250061848.pdf": {
+   "doc_id": "t20211228_965469",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020211228531250061848.pdf",
+   "sha1": "a6c318b6d1f8",
+   "parsed_at": "2026-09-27T22:06:39",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20211228_965469|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020211228531250243853.pdf": {
+   "doc_id": "t20211228_965469",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020211228531250243853.pdf",
+   "sha1": "cbc1b7833714",
+   "parsed_at": "2026-09-27T22:06:40",
+   "records": 3,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20211231_965904|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020220104572209025941.pdf": {
+   "doc_id": "t20211231_965904",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020220104572209025941.pdf",
+   "sha1": "730016a971cf",
+   "parsed_at": "2026-09-27T22:06:40",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20211231_965904|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020220104572209223620.pdf": {
+   "doc_id": "t20211231_965904",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202112/W020220104572209223620.pdf",
+   "sha1": "558bbc60445b",
+   "parsed_at": "2026-09-27T22:06:40",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20220130_968667|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202201/W020220130577504881621.pdf": {
+   "doc_id": "t20220130_968667",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202201/W020220130577504881621.pdf",
+   "sha1": "a84faf371ddd",
+   "parsed_at": "2026-09-27T22:09:34",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220130_968667|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202201/W020220130577505579526.pdf": {
+   "doc_id": "t20220130_968667",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202201/W020220130577505579526.pdf",
+   "sha1": "3c1791004fb3",
+   "parsed_at": "2026-09-27T22:09:35",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220307_970792|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202203/W020220307517693473109.pdf": {
+   "doc_id": "t20220307_970792",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202203/W020220307517693473109.pdf",
+   "sha1": "1e3af31efe91",
+   "parsed_at": "2026-09-27T22:06:41",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220307_970792|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202203/W020220307517693676996.pdf": {
+   "doc_id": "t20220307_970792",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202203/W020220307517693676996.pdf",
+   "sha1": "362ae09a4ec4",
+   "parsed_at": "2026-09-27T22:06:41",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220322_972227|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202203/W020220322520395796437.pdf": {
+   "doc_id": "t20220322_972227",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202203/W020220322520395796437.pdf",
+   "sha1": "3635fc8e7646",
+   "parsed_at": "2026-09-27T22:06:44",
+   "records": 13,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220516_982282|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202205/W020220516653080383674.pdf": {
+   "doc_id": "t20220516_982282",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202205/W020220516653080383674.pdf",
+   "sha1": "d5a0a0892259",
+   "parsed_at": "2026-09-27T22:09:35",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220516_982282|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202205/W020220516653080870602.pdf": {
+   "doc_id": "t20220516_982282",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202205/W020220516653080870602.pdf",
+   "sha1": "d3e6f238fb98",
+   "parsed_at": "2026-09-27T22:06:47",
+   "records": 10,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220617_985890|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220617519194899438.pdf": {
+   "doc_id": "t20220617_985890",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220617519194899438.pdf",
+   "sha1": "0753b0eff374",
+   "parsed_at": "2026-09-27T22:06:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220617_985890|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220617519195423674.pdf": {
+   "doc_id": "t20220617_985890",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220617519195423674.pdf",
+   "sha1": "52d0076d1415",
+   "parsed_at": "2026-09-27T22:06:48",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220627_986812|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220627517712559471.pdf": {
+   "doc_id": "t20220627_986812",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220627517712559471.pdf",
+   "sha1": "5eb84efa567a",
+   "parsed_at": "2026-09-27T22:06:48",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220627_986812|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220627517712833763.pdf": {
+   "doc_id": "t20220627_986812",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220627517712833763.pdf",
+   "sha1": "b105f10fc9a8",
+   "parsed_at": "2026-09-27T22:06:48",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220627_986813|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220627519259918314.pdf": {
+   "doc_id": "t20220627_986813",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220627519259918314.pdf",
+   "sha1": "2b75ed815cfb",
+   "parsed_at": "2026-09-27T22:06:54",
+   "records": 13,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20220630_987249|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220701562676578300.pdf": {
+   "doc_id": "t20220630_987249",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202206/W020220701562676578300.pdf",
+   "sha1": "5b98df978a5d",
+   "parsed_at": "2026-09-27T22:06:55",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220823_992279|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823520235552740.pdf": {
+   "doc_id": "t20220823_992279",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823520235552740.pdf",
+   "sha1": "aa148f1063e7",
+   "parsed_at": "2026-09-27T22:09:35",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220823_992279|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823520236104387.pdf": {
+   "doc_id": "t20220823_992279",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823520236104387.pdf",
+   "sha1": "e37fd527fbb0",
+   "parsed_at": "2026-09-27T22:06:56",
+   "records": 4,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20220823_992280|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823516118606271.pdf": {
+   "doc_id": "t20220823_992280",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823516118606271.pdf",
+   "sha1": "eac31fc934ff",
+   "parsed_at": "2026-09-27T22:06:56",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20220823_992280|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823516118802434.pdf": {
+   "doc_id": "t20220823_992280",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202208/W020220823516118802434.pdf",
+   "sha1": "fbacca484e57",
+   "parsed_at": "2026-09-27T22:06:57",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220929_995307|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929576655156871.pdf": {
+   "doc_id": "t20220929_995307",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929576655156871.pdf",
+   "sha1": "10011ead692e",
+   "parsed_at": "2026-09-27T22:06:59",
+   "records": 6,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20220929_995324|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929584957382701.pdf": {
+   "doc_id": "t20220929_995324",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929584957382701.pdf",
+   "sha1": "4d92382b3fa3",
+   "parsed_at": "2026-09-27T22:07:00",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220929_995328|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929587690321499.pdf": {
+   "doc_id": "t20220929_995328",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929587690321499.pdf",
+   "sha1": "1dea58166a83",
+   "parsed_at": "2026-09-27T22:07:00",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220929_995328|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929587691269622.pdf": {
+   "doc_id": "t20220929_995328",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929587691269622.pdf",
+   "sha1": "5383e7f0781c",
+   "parsed_at": "2026-09-27T22:07:00",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220929_995331|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929586624504109.pdf": {
+   "doc_id": "t20220929_995331",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929586624504109.pdf",
+   "sha1": "0b70de350990",
+   "parsed_at": "2026-09-27T22:07:01",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220929_995331|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929586625104778.pdf": {
+   "doc_id": "t20220929_995331",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929586625104778.pdf",
+   "sha1": "e529e9432a98",
+   "parsed_at": "2026-09-27T22:07:01",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20220929_995333|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929575624900763.pdf": {
+   "doc_id": "t20220929_995333",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202209/W020220929575624900763.pdf",
+   "sha1": "8cf805c55b25",
+   "parsed_at": "2026-09-27T22:07:09",
+   "records": 22,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221206_1007001|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206607355485479.pdf": {
+   "doc_id": "t20221206_1007001",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206607355485479.pdf",
+   "sha1": "4d7ac902ae17",
+   "parsed_at": "2026-09-27T22:07:09",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221206_1007001|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206607355666272.pdf": {
+   "doc_id": "t20221206_1007001",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206607355666272.pdf",
+   "sha1": "2da5cedfefbc",
+   "parsed_at": "2026-09-27T22:07:09",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221206_1007008|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206620434228637.pdf": {
+   "doc_id": "t20221206_1007008",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206620434228637.pdf",
+   "sha1": "17b8f6ea5fd9",
+   "parsed_at": "2026-09-27T22:07:10",
+   "records": 4,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221206_1007013|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206624834674022.pdf": {
+   "doc_id": "t20221206_1007013",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206624834674022.pdf",
+   "sha1": "883de057b3f4",
+   "parsed_at": "2026-09-27T22:07:11",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20221206_1007013|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206624834856286.pdf": {
+   "doc_id": "t20221206_1007013",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206624834856286.pdf",
+   "sha1": "1975222b9eb6",
+   "parsed_at": "2026-09-27T22:07:12",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20221206_1007016|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206628020512647.pdf": {
+   "doc_id": "t20221206_1007016",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206628020512647.pdf",
+   "sha1": "e5ed080ff3ae",
+   "parsed_at": "2026-09-27T22:07:12",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20221206_1007016|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206628020709879.pdf": {
+   "doc_id": "t20221206_1007016",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221206628020709879.pdf",
+   "sha1": "0cb51c216317",
+   "parsed_at": "2026-09-27T22:07:13",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20221221_1008417|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221640624135711.pdf": {
+   "doc_id": "t20221221_1008417",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221640624135711.pdf",
+   "sha1": "fbb49ad7ccc9",
+   "parsed_at": "2026-09-27T22:07:13",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221221_1008417|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221640624336372.pdf": {
+   "doc_id": "t20221221_1008417",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221640624336372.pdf",
+   "sha1": "be8088035111",
+   "parsed_at": "2026-09-27T22:07:14",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221221_1008418|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221644466273386.pdf": {
+   "doc_id": "t20221221_1008418",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221644466273386.pdf",
+   "sha1": "499d3b6961a5",
+   "parsed_at": "2026-09-27T22:07:14",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221221_1008418|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221644466466340.pdf": {
+   "doc_id": "t20221221_1008418",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221644466466340.pdf",
+   "sha1": "8ecf3fac5414",
+   "parsed_at": "2026-09-27T22:07:15",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221221_1008420|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221746734660458.pdf": {
+   "doc_id": "t20221221_1008420",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221221746734660458.pdf",
+   "sha1": "f746a1a6d1af",
+   "parsed_at": "2026-09-27T22:07:15",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20221230_1009099|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221230405176718573.pdf": {
+   "doc_id": "t20221230_1009099",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202212/W020221230405176718573.pdf",
+   "sha1": "a43097f46aa1",
+   "parsed_at": "2026-09-27T22:07:20",
+   "records": 11,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20230202_1014515|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202302/W020230202503343827956.pdf": {
+   "doc_id": "t20230202_1014515",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202302/W020230202503343827956.pdf",
+   "sha1": "0ede44190bfb",
+   "parsed_at": "2026-09-27T22:07:20",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230331_1024897|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202303/W020230331603165482381.pdf": {
+   "doc_id": "t20230331_1024897",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202303/W020230331603165482381.pdf",
+   "sha1": "bd9427044463",
+   "parsed_at": "2026-09-27T22:07:25",
+   "records": 6,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20230331_1024898|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202303/W020230331605343193713.pdf": {
+   "doc_id": "t20230331_1024898",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202303/W020230331605343193713.pdf",
+   "sha1": "bfecfacc081f",
+   "parsed_at": "2026-09-27T22:07:30",
+   "records": 11,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20230410_1025652|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202304/W020230410356902173447.pdf": {
+   "doc_id": "t20230410_1025652",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202304/W020230410356902173447.pdf",
+   "sha1": "088e5c541e28",
+   "parsed_at": "2026-09-27T22:09:35",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230410_1025652|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202304/W020230410356902752097.pdf": {
+   "doc_id": "t20230410_1025652",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202304/W020230410356902752097.pdf",
+   "sha1": "200476f7a71f",
+   "parsed_at": "2026-09-27T22:07:33",
+   "records": 9,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230508_1029241|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230508340060239200.pdf": {
+   "doc_id": "t20230508_1029241",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230508340060239200.pdf",
+   "sha1": "81a342b6ff16",
+   "parsed_at": "2026-09-27T22:07:33",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230508_1029241|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230508340060424973.pdf": {
+   "doc_id": "t20230508_1029241",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230508340060424973.pdf",
+   "sha1": "4fbfa1e5ccef",
+   "parsed_at": "2026-09-27T22:07:33",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230517_1030254|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517563095884288.pdf": {
+   "doc_id": "t20230517_1030254",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517563095884288.pdf",
+   "sha1": "f6f977d8a308",
+   "parsed_at": "2026-09-27T22:07:33",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230517_1030254|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517563100574925.pdf": {
+   "doc_id": "t20230517_1030254",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517563100574925.pdf",
+   "sha1": "d2a4810f6215",
+   "parsed_at": "2026-09-27T22:07:34",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230517_1030262|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517567966020762.pdf": {
+   "doc_id": "t20230517_1030262",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517567966020762.pdf",
+   "sha1": "589306cd6b97",
+   "parsed_at": "2026-09-27T22:07:34",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230517_1030262|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517567966228748.pdf": {
+   "doc_id": "t20230517_1030262",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517567966228748.pdf",
+   "sha1": "7a51538e9f0d",
+   "parsed_at": "2026-09-27T22:07:34",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230517_1030265|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517570170208288.pdf": {
+   "doc_id": "t20230517_1030265",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517570170208288.pdf",
+   "sha1": "0ba8db0c335d",
+   "parsed_at": "2026-09-27T22:07:35",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230517_1030265|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517570170456391.pdf": {
+   "doc_id": "t20230517_1030265",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230517570170456391.pdf",
+   "sha1": "30754034d58f",
+   "parsed_at": "2026-09-27T22:07:35",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230526_1031436|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230526584415829605.pdf": {
+   "doc_id": "t20230526_1031436",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230526584415829605.pdf",
+   "sha1": "7a3922eb9f85",
+   "parsed_at": "2026-09-27T22:09:35",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230526_1031438|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230526586441688710.pdf": {
+   "doc_id": "t20230526_1031438",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202305/W020230526586441688710.pdf",
+   "sha1": "6054ad6bae6f",
+   "parsed_at": "2026-09-27T22:07:36",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230703_1035095|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230703316984772430.pdf": {
+   "doc_id": "t20230703_1035095",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230703316984772430.pdf",
+   "sha1": "6c35118d292b",
+   "parsed_at": "2026-09-27T22:07:43",
+   "records": 14,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230713_1036097|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230713402795897035.pdf": {
+   "doc_id": "t20230713_1036097",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230713402795897035.pdf",
+   "sha1": "bc3df5873ffb",
+   "parsed_at": "2026-09-27T22:07:43",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230713_1036100|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230713404383598760.pdf": {
+   "doc_id": "t20230713_1036100",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230713404383598760.pdf",
+   "sha1": "dbd255a48f43",
+   "parsed_at": "2026-09-27T22:07:43",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230728_1037432|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230728347723070455.pdf": {
+   "doc_id": "t20230728_1037432",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230728347723070455.pdf",
+   "sha1": "5ca28e07826d",
+   "parsed_at": "2026-09-27T22:07:43",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230728_1037434|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230728353361929029.pdf": {
+   "doc_id": "t20230728_1037434",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202307/W020230728353361929029.pdf",
+   "sha1": "d449bb95696c",
+   "parsed_at": "2026-09-27T22:07:44",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230801_1037844|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230801376715851663.pdf": {
+   "doc_id": "t20230801_1037844",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230801376715851663.pdf",
+   "sha1": "ba42d1bfa14d",
+   "parsed_at": "2026-09-27T22:07:45",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230801_1037844|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230801376716435526.pdf": {
+   "doc_id": "t20230801_1037844",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230801376716435526.pdf",
+   "sha1": "574bc6663aef",
+   "parsed_at": "2026-09-27T22:07:46",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230801_1037845|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230801378257865060.pdf": {
+   "doc_id": "t20230801_1037845",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230801378257865060.pdf",
+   "sha1": "bf892d7a64ed",
+   "parsed_at": "2026-09-27T22:07:47",
+   "records": 2,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20230818_1038917|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230818667854570760.pdf": {
+   "doc_id": "t20230818_1038917",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230818667854570760.pdf",
+   "sha1": "1a638f40191c",
+   "parsed_at": "2026-09-27T22:07:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230818_1038918|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230818671619494541.pdf": {
+   "doc_id": "t20230818_1038918",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230818671619494541.pdf",
+   "sha1": "fb05dd8843d3",
+   "parsed_at": "2026-09-27T22:07:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230818_1038918|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230818671619664297.pdf": {
+   "doc_id": "t20230818_1038918",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202308/W020230818671619664297.pdf",
+   "sha1": "6a843d2e80d7",
+   "parsed_at": "2026-09-27T22:07:48",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20230928_1042156|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202309/W020230928378588458620.pdf": {
+   "doc_id": "t20230928_1042156",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202309/W020230928378588458620.pdf",
+   "sha1": "f34a9572dcdf",
+   "parsed_at": "2026-09-27T22:07:53",
+   "records": 14,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20230928_1042285|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202309/W020230928586489807202.pdf": {
+   "doc_id": "t20230928_1042285",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202309/W020230928586489807202.pdf",
+   "sha1": "db78ae815185",
+   "parsed_at": "2026-09-27T22:07:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20231020_1043683|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202310/W020231020629449170492.pdf": {
+   "doc_id": "t20231020_1043683",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202310/W020231020629449170492.pdf",
+   "sha1": "bf66d8fc697b",
+   "parsed_at": "2026-09-27T22:07:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20231020_1043684|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202310/W020231020627369452672.pdf": {
+   "doc_id": "t20231020_1043684",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202310/W020231020627369452672.pdf",
+   "sha1": "f79fe31103b3",
+   "parsed_at": "2026-09-27T22:07:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20231102_1044737|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202311/W020231102330864507523.pdf": {
+   "doc_id": "t20231102_1044737",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202311/W020231102330864507523.pdf",
+   "sha1": "35710b2d77bd",
+   "parsed_at": "2026-09-27T22:07:55",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240108_1061836|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202401/W020240108555249024614.pdf": {
+   "doc_id": "t20240108_1061836",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202401/W020240108555249024614.pdf",
+   "sha1": "31db97f7ef91",
+   "parsed_at": "2026-09-27T22:08:00",
+   "records": 10,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240125_1064670|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202401/W020240125363005839320.pdf": {
+   "doc_id": "t20240125_1064670",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202401/W020240125363005839320.pdf",
+   "sha1": "fda9d36b9b8f",
+   "parsed_at": "2026-09-27T22:08:01",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240201_1065455|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201335392825369.pdf": {
+   "doc_id": "t20240201_1065455",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201335392825369.pdf",
+   "sha1": "f718dbefbf33",
+   "parsed_at": "2026-09-27T22:08:01",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240201_1065465|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201362869485042.pdf": {
+   "doc_id": "t20240201_1065465",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201362869485042.pdf",
+   "sha1": "c07cbb414ca6",
+   "parsed_at": "2026-09-27T22:08:01",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240201_1065466|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201365856901547.pdf": {
+   "doc_id": "t20240201_1065466",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201365856901547.pdf",
+   "sha1": "22ec3e4db474",
+   "parsed_at": "2026-09-27T22:08:01",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240201_1065466|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201365857088376.pdf": {
+   "doc_id": "t20240201_1065466",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201365857088376.pdf",
+   "sha1": "0eba94f44a61",
+   "parsed_at": "2026-09-27T22:08:01",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240201_1065468|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201367887087341.pdf": {
+   "doc_id": "t20240201_1065468",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240201367887087341.pdf",
+   "sha1": "dd1f236b45b6",
+   "parsed_at": "2026-09-27T22:08:01",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240218_1066188|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240218514590513123.pdf": {
+   "doc_id": "t20240218_1066188",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240218514590513123.pdf",
+   "sha1": "33f49a5ace0f",
+   "parsed_at": "2026-09-27T22:09:35",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240218_1066188|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240218514590690579.pdf": {
+   "doc_id": "t20240218_1066188",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240218514590690579.pdf",
+   "sha1": "c18ba7c041cb",
+   "parsed_at": "2026-09-27T22:08:03",
+   "records": 7,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240218_1066196|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240218521974483435.pdf": {
+   "doc_id": "t20240218_1066196",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202402/W020240218521974483435.pdf",
+   "sha1": "373325c13d38",
+   "parsed_at": "2026-09-27T22:08:03",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240312_1068219|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240312571256512028.pdf": {
+   "doc_id": "t20240312_1068219",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240312571256512028.pdf",
+   "sha1": "67fd06158ff0",
+   "parsed_at": "2026-09-27T22:08:03",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240315_1068477|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315369450614719.pdf": {
+   "doc_id": "t20240315_1068477",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315369450614719.pdf",
+   "sha1": "c2df5ad84b62",
+   "parsed_at": "2026-09-27T22:09:35",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240315_1068477|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315369451105788.pdf": {
+   "doc_id": "t20240315_1068477",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315369451105788.pdf",
+   "sha1": "0f5dca2588ed",
+   "parsed_at": "2026-09-27T22:08:07",
+   "records": 11,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240315_1068479|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315374700533899.pdf": {
+   "doc_id": "t20240315_1068479",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315374700533899.pdf",
+   "sha1": "be9dd0187e71",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240315_1068479|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315374701041481.pdf": {
+   "doc_id": "t20240315_1068479",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240315374701041481.pdf",
+   "sha1": "30e09a2294f7",
+   "parsed_at": "2026-09-27T22:08:11",
+   "records": 7,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240320_1068864|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240320593446196218.pdf": {
+   "doc_id": "t20240320_1068864",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240320593446196218.pdf",
+   "sha1": "043bfda01782",
+   "parsed_at": "2026-09-27T22:08:11",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240325_1069113|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240325353339170649.pdf": {
+   "doc_id": "t20240325_1069113",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202403/W020240325353339170649.pdf",
+   "sha1": "a215ac687d28",
+   "parsed_at": "2026-09-27T22:08:19",
+   "records": 21,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240403_1069991|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240403531357087284.pdf": {
+   "doc_id": "t20240403_1069991",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240403531357087284.pdf",
+   "sha1": "6cf623ce253d",
+   "parsed_at": "2026-09-27T22:08:19",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240412_1070484|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412323757033271.pdf": {
+   "doc_id": "t20240412_1070484",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412323757033271.pdf",
+   "sha1": "eee314243888",
+   "parsed_at": "2026-09-27T22:08:20",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240412_1070484|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412323757208389.pdf": {
+   "doc_id": "t20240412_1070484",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412323757208389.pdf",
+   "sha1": "08a9ba21aed4",
+   "parsed_at": "2026-09-27T22:08:20",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240412_1070486|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412326913122070.pdf": {
+   "doc_id": "t20240412_1070486",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412326913122070.pdf",
+   "sha1": "d5d5d8f15b69",
+   "parsed_at": "2026-09-27T22:08:20",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240412_1070486|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412326913287667.pdf": {
+   "doc_id": "t20240412_1070486",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240412326913287667.pdf",
+   "sha1": "ede6d7091558",
+   "parsed_at": "2026-09-27T22:08:20",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240419_1071146|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240419327164464892.pdf": {
+   "doc_id": "t20240419_1071146",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240419327164464892.pdf",
+   "sha1": "650bb240fe82",
+   "parsed_at": "2026-09-27T22:08:21",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240419_1071146|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240419327164679006.pdf": {
+   "doc_id": "t20240419_1071146",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240419327164679006.pdf",
+   "sha1": "b7e49dc04e76",
+   "parsed_at": "2026-09-27T22:08:21",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240422_1071258|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422329888939472.pdf": {
+   "doc_id": "t20240422_1071258",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422329888939472.pdf",
+   "sha1": "3ce27909dac5",
+   "parsed_at": "2026-09-27T22:08:21",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240422_1071258|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422329889115510.pdf": {
+   "doc_id": "t20240422_1071258",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422329889115510.pdf",
+   "sha1": "3baeea9cf8f3",
+   "parsed_at": "2026-09-27T22:08:21",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240422_1071262|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422325066324109.pdf": {
+   "doc_id": "t20240422_1071262",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422325066324109.pdf",
+   "sha1": "7c1a98ce1dd1",
+   "parsed_at": "2026-09-27T22:08:22",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240422_1071264|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422327919199451.pdf": {
+   "doc_id": "t20240422_1071264",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422327919199451.pdf",
+   "sha1": "749796b248ac",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240422_1071264|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422327920470549.pdf": {
+   "doc_id": "t20240422_1071264",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202404/W020240422327920470549.pdf",
+   "sha1": "cede7a98dcbf",
+   "parsed_at": "2026-09-27T22:08:24",
+   "records": 7,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240521_1073728|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240521380745300404.pdf": {
+   "doc_id": "t20240521_1073728",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240521380745300404.pdf",
+   "sha1": "3ade81c95dcc",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240521_1073728|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240521380745833220.pdf": {
+   "doc_id": "t20240521_1073728",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240521380745833220.pdf",
+   "sha1": "60e57de45aca",
+   "parsed_at": "2026-09-27T22:08:27",
+   "records": 5,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240521_1073730|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240521382466140570.pdf": {
+   "doc_id": "t20240521_1073730",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240521382466140570.pdf",
+   "sha1": "07fc0bfebefc",
+   "parsed_at": "2026-09-27T22:08:27",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240529_1074373|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240529320782504241.pdf": {
+   "doc_id": "t20240529_1074373",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240529320782504241.pdf",
+   "sha1": "dd7e2d7070f5",
+   "parsed_at": "2026-09-27T22:08:27",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240529_1074373|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240529320782692946.pdf": {
+   "doc_id": "t20240529_1074373",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202405/W020240529320782692946.pdf",
+   "sha1": "25a9377f312b",
+   "parsed_at": "2026-09-27T22:08:28",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240624_1078855|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202406/W020240624525424140511.pdf": {
+   "doc_id": "t20240624_1078855",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202406/W020240624525424140511.pdf",
+   "sha1": "e4b9405c499b",
+   "parsed_at": "2026-09-27T22:08:33",
+   "records": 17,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240710_1081288|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202407/W020240710589806189743.pdf": {
+   "doc_id": "t20240710_1081288",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202407/W020240710589806189743.pdf",
+   "sha1": "60c8413cdff2",
+   "parsed_at": "2026-09-27T22:08:34",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240710_1081288|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202407/W020240710589806580808.pdf": {
+   "doc_id": "t20240710_1081288",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202407/W020240710589806580808.pdf",
+   "sha1": "8ed90af99df4",
+   "parsed_at": "2026-09-27T22:08:36",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240805_1083316|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805363323302549.pdf": {
+   "doc_id": "t20240805_1083316",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805363323302549.pdf",
+   "sha1": "fd4f6b7ecae1",
+   "parsed_at": "2026-09-27T22:08:36",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240805_1083319|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805366510339170.pdf": {
+   "doc_id": "t20240805_1083319",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805366510339170.pdf",
+   "sha1": "46a7330a8ac2",
+   "parsed_at": "2026-09-27T22:08:36",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240805_1083319|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805366510554398.pdf": {
+   "doc_id": "t20240805_1083319",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805366510554398.pdf",
+   "sha1": "055503b0eb23",
+   "parsed_at": "2026-09-27T22:08:36",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240805_1083321|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805368128626164.pdf": {
+   "doc_id": "t20240805_1083321",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805368128626164.pdf",
+   "sha1": "fc9658badfc6",
+   "parsed_at": "2026-09-27T22:08:36",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240805_1083326|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805378522036022.pdf": {
+   "doc_id": "t20240805_1083326",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805378522036022.pdf",
+   "sha1": "be42dc4d4373",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240805_1083326|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805378522507811.pdf": {
+   "doc_id": "t20240805_1083326",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240805378522507811.pdf",
+   "sha1": "97c3805598a9",
+   "parsed_at": "2026-09-27T22:08:38",
+   "records": 8,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240809_1083670|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240809596139150361.pdf": {
+   "doc_id": "t20240809_1083670",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240809596139150361.pdf",
+   "sha1": "ba3c93a98204",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240809_1083670|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240809596139777566.pdf": {
+   "doc_id": "t20240809_1083670",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240809596139777566.pdf",
+   "sha1": "bb893dfce78f",
+   "parsed_at": "2026-09-27T22:08:40",
+   "records": 5,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240819_1084144|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240819523889881959.pdf": {
+   "doc_id": "t20240819_1084144",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240819523889881959.pdf",
+   "sha1": "8a3fac91aa00",
+   "parsed_at": "2026-09-27T22:08:40",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240819_1084144|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240819523890113047.pdf": {
+   "doc_id": "t20240819_1084144",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240819523890113047.pdf",
+   "sha1": "210c3c4eee60",
+   "parsed_at": "2026-09-27T22:08:40",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240819_1084145|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240819525617522418.pdf": {
+   "doc_id": "t20240819_1084145",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202408/W020240819525617522418.pdf",
+   "sha1": "35888dc7af1a",
+   "parsed_at": "2026-09-27T22:08:41",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20240905_1085264|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240905576997439723.pdf": {
+   "doc_id": "t20240905_1085264",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240905576997439723.pdf",
+   "sha1": "7e1cee5e6e24",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240905_1085264|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240905576997637268.pdf": {
+   "doc_id": "t20240905_1085264",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240905576997637268.pdf",
+   "sha1": "8b350126929e",
+   "parsed_at": "2026-09-27T22:08:42",
+   "records": 3,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240905_1085265|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240905578391240780.pdf": {
+   "doc_id": "t20240905_1085265",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240905578391240780.pdf",
+   "sha1": "32518fdc8ff9",
+   "parsed_at": "2026-09-27T22:08:42",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240913_1085859|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240913575786659612.pdf": {
+   "doc_id": "t20240913_1085859",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240913575786659612.pdf",
+   "sha1": "bc39fab508ef",
+   "parsed_at": "2026-09-27T22:08:42",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240913_1085859|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240913575786856690.pdf": {
+   "doc_id": "t20240913_1085859",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240913575786856690.pdf",
+   "sha1": "06247959216c",
+   "parsed_at": "2026-09-27T22:08:42",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20240919_1086291|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240920344349028733.pdf": {
+   "doc_id": "t20240919_1086291",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202409/W020240920344349028733.pdf",
+   "sha1": "d1226a651cbc",
+   "parsed_at": "2026-09-27T22:08:43",
+   "records": 13,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241017_1089488|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017540222749593.pdf": {
+   "doc_id": "t20241017_1089488",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017540222749593.pdf",
+   "sha1": "15d76e8622f8",
+   "parsed_at": "2026-09-27T22:08:43",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241017_1089488|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017540222944392.pdf": {
+   "doc_id": "t20241017_1089488",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017540222944392.pdf",
+   "sha1": "4230f053b61b",
+   "parsed_at": "2026-09-27T22:08:43",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241017_1089490|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017541661621056.pdf": {
+   "doc_id": "t20241017_1089490",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017541661621056.pdf",
+   "sha1": "4bf91456ec97",
+   "parsed_at": "2026-09-27T22:08:43",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20241017_1089491|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017544025002812.pdf": {
+   "doc_id": "t20241017_1089491",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241017544025002812.pdf",
+   "sha1": "49827d5a5353",
+   "parsed_at": "2026-09-27T22:08:43",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241031_1091666|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241031610236808062.pdf": {
+   "doc_id": "t20241031_1091666",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241031610236808062.pdf",
+   "sha1": "e3ffeaab13eb",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241031_1091666|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241031610237007136.pdf": {
+   "doc_id": "t20241031_1091666",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202410/W020241031610237007136.pdf",
+   "sha1": "fd7855acd102",
+   "parsed_at": "2026-09-27T22:08:43",
+   "records": 4,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241219_1098840|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202412/W020241219335293317526.pdf": {
+   "doc_id": "t20241219_1098840",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202412/W020241219335293317526.pdf",
+   "sha1": "628afb66f523",
+   "parsed_at": "2026-09-27T22:08:44",
+   "records": 6,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241231_1099663|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202412/W020241231537763953000.pdf": {
+   "doc_id": "t20241231_1099663",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202412/W020241231537763953000.pdf",
+   "sha1": "68e4d2988f4e",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20241231_1099663|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202412/W020241231537764437336.pdf": {
+   "doc_id": "t20241231_1099663",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202412/W020241231537764437336.pdf",
+   "sha1": "10c8e792a686",
+   "parsed_at": "2026-09-27T22:08:44",
+   "records": 8,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250114_1100561|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114554631976182.pdf": {
+   "doc_id": "t20250114_1100561",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114554631976182.pdf",
+   "sha1": "ecad3c3c5994",
+   "parsed_at": "2026-09-27T22:08:44",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250114_1100561|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114554632175952.pdf": {
+   "doc_id": "t20250114_1100561",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114554632175952.pdf",
+   "sha1": "f7b38f204ffe",
+   "parsed_at": "2026-09-27T22:08:44",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250114_1100562|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114556938153651.pdf": {
+   "doc_id": "t20250114_1100562",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114556938153651.pdf",
+   "sha1": "9b5117bd11f0",
+   "parsed_at": "2026-09-27T22:08:45",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250114_1100562|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114556938357652.pdf": {
+   "doc_id": "t20250114_1100562",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250114556938357652.pdf",
+   "sha1": "4c56759da2ff",
+   "parsed_at": "2026-09-27T22:08:45",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250124_1101310|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250124385712891769.pdf": {
+   "doc_id": "t20250124_1101310",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202501/W020250124385712891769.pdf",
+   "sha1": "86102bc88e10",
+   "parsed_at": "2026-09-27T22:09:36",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250211_1102028|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250211324492765824.pdf": {
+   "doc_id": "t20250211_1102028",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250211324492765824.pdf",
+   "sha1": "45d06ac5435a",
+   "parsed_at": "2026-09-27T22:08:45",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250212_1102111|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250212344154843559.pdf": {
+   "doc_id": "t20250212_1102111",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250212344154843559.pdf",
+   "sha1": "4dce3c077c38",
+   "parsed_at": "2026-09-27T22:08:45",
+   "records": 15,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250212_1102112|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250212346128746423.pdf": {
+   "doc_id": "t20250212_1102112",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250212346128746423.pdf",
+   "sha1": "a66606075f5e",
+   "parsed_at": "2026-09-27T22:08:45",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250212_1102112|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250212346128958237.pdf": {
+   "doc_id": "t20250212_1102112",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202502/W020250212346128958237.pdf",
+   "sha1": "8c51c840732e",
+   "parsed_at": "2026-09-27T22:08:46",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250312_1103822|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202503/W020250312358125626715.pdf": {
+   "doc_id": "t20250312_1103822",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202503/W020250312358125626715.pdf",
+   "sha1": "6ff839d7d59d",
+   "parsed_at": "2026-09-27T22:08:46",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250328_1104927|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202503/W020250328540744517312.pdf": {
+   "doc_id": "t20250328_1104927",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202503/W020250328540744517312.pdf",
+   "sha1": "c7092f516956",
+   "parsed_at": "2026-09-27T22:09:37",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250328_1104927|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202503/W020250328540744689491.pdf": {
+   "doc_id": "t20250328_1104927",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202503/W020250328540744689491.pdf",
+   "sha1": "32be08d66a5d",
+   "parsed_at": "2026-09-27T22:08:46",
+   "records": 5,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250401_1106265|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250401587194558929.pdf": {
+   "doc_id": "t20250401_1106265",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250401587194558929.pdf",
+   "sha1": "548e6f4df5ad",
+   "parsed_at": "2026-09-27T22:08:46",
+   "records": 18,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250417_1115428|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417592631676490.pdf": {
+   "doc_id": "t20250417_1115428",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417592631676490.pdf",
+   "sha1": "1c00284e63fd",
+   "parsed_at": "2026-09-27T22:08:46",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250417_1115428|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417592631862400.pdf": {
+   "doc_id": "t20250417_1115428",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417592631862400.pdf",
+   "sha1": "367519788d9c",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250417_1116479|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417599447173683.pdf": {
+   "doc_id": "t20250417_1116479",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417599447173683.pdf",
+   "sha1": "098c7593a33b",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250417_1116646|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417600750247769.pdf": {
+   "doc_id": "t20250417_1116646",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417600750247769.pdf",
+   "sha1": "7cdc0d0f4bc3",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250417_1116646|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417600750648551.pdf": {
+   "doc_id": "t20250417_1116646",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250417600750648551.pdf",
+   "sha1": "e3f7eee357b9",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250423_1117400|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250423392804838008.pdf": {
+   "doc_id": "t20250423_1117400",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250423392804838008.pdf",
+   "sha1": "b60b7e79a790",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250423_1117400|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250423392805070825.pdf": {
+   "doc_id": "t20250423_1117400",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250423392805070825.pdf",
+   "sha1": "708731102dd5",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250427_1118428|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250427518458670008.pdf": {
+   "doc_id": "t20250427_1118428",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202504/W020250427518458670008.pdf",
+   "sha1": "902671abde41",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250507_1118993|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250507590989588610.pdf": {
+   "doc_id": "t20250507_1118993",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250507590989588610.pdf",
+   "sha1": "b0e62342bff4",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250507_1118993|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250507590989795425.pdf": {
+   "doc_id": "t20250507_1118993",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250507590989795425.pdf",
+   "sha1": "ce86fc21e1f9",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250530_1120392|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250530366648590676.pdf": {
+   "doc_id": "t20250530_1120392",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250530366648590676.pdf",
+   "sha1": "746a747907f2",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250530_1120396|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250530369247120357.pdf": {
+   "doc_id": "t20250530_1120396",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250530369247120357.pdf",
+   "sha1": "d7ad5e72fcf7",
+   "parsed_at": "2026-09-27T22:09:37",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250530_1120396|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250530369247325388.pdf": {
+   "doc_id": "t20250530_1120396",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202505/W020250530369247325388.pdf",
+   "sha1": "21d72b6f35a4",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 5,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250707_1122931|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250707556010404538.pdf": {
+   "doc_id": "t20250707_1122931",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250707556010404538.pdf",
+   "sha1": "299eeba292c2",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250707_1122931|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250707556010629404.pdf": {
+   "doc_id": "t20250707_1122931",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250707556010629404.pdf",
+   "sha1": "fe4fe2acdeec",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250707_1122932|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250707556629838894.pdf": {
+   "doc_id": "t20250707_1122932",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250707556629838894.pdf",
+   "sha1": "7039d36c8fcf",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250708_1123023|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250708365407745938.pdf": {
+   "doc_id": "t20250708_1123023",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250708365407745938.pdf",
+   "sha1": "a747a2f27e2b",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250708_1123024|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250708365871428331.pdf": {
+   "doc_id": "t20250708_1123024",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250708365871428331.pdf",
+   "sha1": "7f41f7471254",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250721_1123857|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250721355490102089.pdf": {
+   "doc_id": "t20250721_1123857",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250721355490102089.pdf",
+   "sha1": "a51803b6dc01",
+   "parsed_at": "2026-09-27T22:08:47",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250721_1123857|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250721355490335015.pdf": {
+   "doc_id": "t20250721_1123857",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250721355490335015.pdf",
+   "sha1": "130db4f90ce9",
+   "parsed_at": "2026-09-27T22:08:48",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250722_1123948|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250722363241103056.pdf": {
+   "doc_id": "t20250722_1123948",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202507/W020250722363241103056.pdf",
+   "sha1": "d20fac1430a4",
+   "parsed_at": "2026-09-27T22:08:48",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250919_1127816|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202509/W020250919597725748610.pdf": {
+   "doc_id": "t20250919_1127816",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202509/W020250919597725748610.pdf",
+   "sha1": "01e1afb7feec",
+   "parsed_at": "2026-09-27T22:08:48",
+   "records": 9,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250930_1128837|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202509/W020250930681170591214.pdf": {
+   "doc_id": "t20250930_1128837",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202509/W020250930681170591214.pdf",
+   "sha1": "a20e012bfef8",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 12,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20250930_1128838|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202509/W020250930683954459339.pdf": {
+   "doc_id": "t20250930_1128838",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202509/W020250930683954459339.pdf",
+   "sha1": "d986e70da94e",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 6,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251017_1130279|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017367025866864.pdf": {
+   "doc_id": "t20251017_1130279",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017367025866864.pdf",
+   "sha1": "5423dd0ba62e",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251017_1130280|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017369655729803.pdf": {
+   "doc_id": "t20251017_1130280",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017369655729803.pdf",
+   "sha1": "0fccd1a5a626",
+   "parsed_at": "2026-09-27T22:09:37",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251017_1130281|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017371761326396.pdf": {
+   "doc_id": "t20251017_1130281",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017371761326396.pdf",
+   "sha1": "9c2758b54200",
+   "parsed_at": "2026-09-27T22:09:37",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251017_1130281|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017371761966824.pdf": {
+   "doc_id": "t20251017_1130281",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251017371761966824.pdf",
+   "sha1": "2fc6e43b5e33",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 10,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251021_1130537|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021622072353766.pdf": {
+   "doc_id": "t20251021_1130537",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021622072353766.pdf",
+   "sha1": "fa9013934272",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251021_1130537|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021600305578601.pdf": {
+   "doc_id": "t20251021_1130537",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021600305578601.pdf",
+   "sha1": "d631de9f3dfd",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251021_1130541|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021603406981974.pdf": {
+   "doc_id": "t20251021_1130541",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021603406981974.pdf",
+   "sha1": "210ac923c980",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251021_1130541|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021603407181047.pdf": {
+   "doc_id": "t20251021_1130541",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021603407181047.pdf",
+   "sha1": "be3dc182fb34",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251021_1130543|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021592028549948.pdf": {
+   "doc_id": "t20251021_1130543",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021592028549948.pdf",
+   "sha1": "1429e1533826",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251021_1130543|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021592029484345.pdf": {
+   "doc_id": "t20251021_1130543",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251021592029484345.pdf",
+   "sha1": "88e4330df67d",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251024_1130732|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024578316615847.pdf": {
+   "doc_id": "t20251024_1130732",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024578316615847.pdf",
+   "sha1": "34334171033a",
+   "parsed_at": "2026-09-27T22:08:49",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251024_1130732|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024578316828533.pdf": {
+   "doc_id": "t20251024_1130732",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024578316828533.pdf",
+   "sha1": "c15e21f959f9",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251024_1130737|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024579147222638.pdf": {
+   "doc_id": "t20251024_1130737",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024579147222638.pdf",
+   "sha1": "01d081730f96",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251024_1130737|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024579148048543.pdf": {
+   "doc_id": "t20251024_1130737",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024579148048543.pdf",
+   "sha1": "a26a4f483986",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251024_1130739|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024585184051999.pdf": {
+   "doc_id": "t20251024_1130739",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024585184051999.pdf",
+   "sha1": "24bbe6173546",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251024_1130739|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024585184302466.pdf": {
+   "doc_id": "t20251024_1130739",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202510/W020251024585184302466.pdf",
+   "sha1": "07fb27a93c91",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251103_1131288|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251103516260983158.pdf": {
+   "doc_id": "t20251103_1131288",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251103516260983158.pdf",
+   "sha1": "06b61d14e02e",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251105_1132041|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105578684233721.pdf": {
+   "doc_id": "t20251105_1132041",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105578684233721.pdf",
+   "sha1": "3731e4d1af45",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251105_1132042|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105579333588964.pdf": {
+   "doc_id": "t20251105_1132042",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105579333588964.pdf",
+   "sha1": "72ee8f026788",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251105_1132043|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105580185016290.pdf": {
+   "doc_id": "t20251105_1132043",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105580185016290.pdf",
+   "sha1": "b0dce4186f4d",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20251105_1132044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105581115745002.pdf": {
+   "doc_id": "t20251105_1132044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105581115745002.pdf",
+   "sha1": "78fc1a0c5f4c",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251105_1132044|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105581115965180.pdf": {
+   "doc_id": "t20251105_1132044",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251105581115965180.pdf",
+   "sha1": "d55917970b5f",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251121_1134555|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251121363148056560.pdf": {
+   "doc_id": "t20251121_1134555",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202511/W020251121363148056560.pdf",
+   "sha1": "6b370b04071e",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251219_1138206|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202512/W020251219551903939318.pdf": {
+   "doc_id": "t20251219_1138206",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202512/W020251219551903939318.pdf",
+   "sha1": "ecc632e18fb5",
+   "parsed_at": "2026-09-27T22:08:50",
+   "records": 12,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251219_1138207|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202512/W020251219553488028514.pdf": {
+   "doc_id": "t20251219_1138207",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202512/W020251219553488028514.pdf",
+   "sha1": "9732f21ae775",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 20,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20251219_1138209|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202512/W020251219556157896780.pdf": {
+   "doc_id": "t20251219_1138209",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202512/W020251219556157896780.pdf",
+   "sha1": "71441492408c",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260109_1140296|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109606126939696.pdf": {
+   "doc_id": "t20260109_1140296",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109606126939696.pdf",
+   "sha1": "9a9e2a06db3c",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260109_1140296|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109606127173008.pdf": {
+   "doc_id": "t20260109_1140296",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109606127173008.pdf",
+   "sha1": "0bc5956531bb",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260109_1140297|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109607849270427.pdf": {
+   "doc_id": "t20260109_1140297",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109607849270427.pdf",
+   "sha1": "85791c28a0e0",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260109_1140298|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109606744992858.pdf": {
+   "doc_id": "t20260109_1140298",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260109606744992858.pdf",
+   "sha1": "436f37d67fa6",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260122_1142392|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260122586240075253.pdf": {
+   "doc_id": "t20260122_1142392",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260122586240075253.pdf",
+   "sha1": "2cf37ca6b84b",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260122_1142392|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260122586240307302.pdf": {
+   "doc_id": "t20260122_1142392",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260122586240307302.pdf",
+   "sha1": "2f8d2e67cb40",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260129_1142898|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260129384414627769.pdf": {
+   "doc_id": "t20260129_1142898",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260129384414627769.pdf",
+   "sha1": "57a6e7979716",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260129_1142898|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260129384414823471.pdf": {
+   "doc_id": "t20260129_1142898",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260129384414823471.pdf",
+   "sha1": "dfb37bd329e3",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260129_1142900|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260129385941071384.pdf": {
+   "doc_id": "t20260129_1142900",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202601/W020260129385941071384.pdf",
+   "sha1": "a2690851d312",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260209_1143853|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260209510734798565.pdf": {
+   "doc_id": "t20260209_1143853",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260209510734798565.pdf",
+   "sha1": "2c8205977da8",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20260209_1143853|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260209510735036891.pdf": {
+   "doc_id": "t20260209_1143853",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260209510735036891.pdf",
+   "sha1": "e85f244ff4fb",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 3,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260213_1144230|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260213602064698874.pdf": {
+   "doc_id": "t20260213_1144230",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260213602064698874.pdf",
+   "sha1": "122d812d5c7f",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260213_1144230|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260213602065306691.pdf": {
+   "doc_id": "t20260213_1144230",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260213602065306691.pdf",
+   "sha1": "4df3bef73175",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20260213_1144231|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260213602857716891.pdf": {
+   "doc_id": "t20260213_1144231",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202602/W020260213602857716891.pdf",
+   "sha1": "19947fca5a22",
+   "parsed_at": "2026-09-27T22:08:51",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260319_1147294|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260319380712856249.pdf": {
+   "doc_id": "t20260319_1147294",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260319380712856249.pdf",
+   "sha1": "c0fe2f533559",
+   "parsed_at": "2026-09-27T22:08:52",
+   "records": 12,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260320_1147382|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260320634327908452.pdf": {
+   "doc_id": "t20260320_1147382",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260320634327908452.pdf",
+   "sha1": "ca4989a66336",
+   "parsed_at": "2026-09-27T22:09:37",
+   "records": 0,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260320_1147382|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260320634328181488.pdf": {
+   "doc_id": "t20260320_1147382",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260320634328181488.pdf",
+   "sha1": "699bc51ec132",
+   "parsed_at": "2026-09-27T22:08:52",
+   "records": 5,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260323_1147501|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260323593548102335.pdf": {
+   "doc_id": "t20260323_1147501",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202603/W020260323593548102335.pdf",
+   "sha1": "5b6e26896174",
+   "parsed_at": "2026-09-27T22:08:53",
+   "records": 15,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20260424_1150069|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424569151848322.pdf": {
+   "doc_id": "t20260424_1150069",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424569151848322.pdf",
+   "sha1": "48e487b039df",
+   "parsed_at": "2026-09-27T22:08:53",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260424_1150070|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424571190456553.pdf": {
+   "doc_id": "t20260424_1150070",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424571190456553.pdf",
+   "sha1": "43323c439fc7",
+   "parsed_at": "2026-09-27T22:08:53",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260424_1150070|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424571190653134.pdf": {
+   "doc_id": "t20260424_1150070",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424571190653134.pdf",
+   "sha1": "fa5dee840e8b",
+   "parsed_at": "2026-09-27T22:08:53",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260424_1150072|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424572822208484.pdf": {
+   "doc_id": "t20260424_1150072",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424572822208484.pdf",
+   "sha1": "e157908384b6",
+   "parsed_at": "2026-09-27T22:08:53",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260424_1150072|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424572822432630.pdf": {
+   "doc_id": "t20260424_1150072",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202604/W020260424572822432630.pdf",
+   "sha1": "3a4f8e9133ac",
+   "parsed_at": "2026-09-27T22:08:53",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260518_1153753|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202605/W020260518597361807067.pdf": {
+   "doc_id": "t20260518_1153753",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202605/W020260518597361807067.pdf",
+   "sha1": "9616d9b15d1d",
+   "parsed_at": "2026-09-27T22:08:53",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260617_1159587|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202606/W020260617550639820071.pdf": {
+   "doc_id": "t20260617_1159587",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202606/W020260617550639820071.pdf",
+   "sha1": "b36b02487e7d",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 12,
+   "mode": "rule+llm",
+   "llm": true
+  },
+  "t20260703_1160902|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260703509231226734.pdf": {
+   "doc_id": "t20260703_1160902",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260703509231226734.pdf",
+   "sha1": "5b92a52d0771",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 3,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260724_1162686|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724327137543176.pdf": {
+   "doc_id": "t20260724_1162686",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724327137543176.pdf",
+   "sha1": "4965d3339228",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260724_1162687|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724327562302227.pdf": {
+   "doc_id": "t20260724_1162687",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724327562302227.pdf",
+   "sha1": "ebefd4248758",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260724_1162689|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724328064642680.pdf": {
+   "doc_id": "t20260724_1162689",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724328064642680.pdf",
+   "sha1": "14c42d47a9d1",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260724_1162690|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724328482299603.pdf": {
+   "doc_id": "t20260724_1162690",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202607/W020260724328482299603.pdf",
+   "sha1": "8a525c7e2319",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260804_1163413|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202608/W020260804498813081343.pdf": {
+   "doc_id": "t20260804_1163413",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202608/W020260804498813081343.pdf",
+   "sha1": "fb9a903a06fa",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260903_1164989|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202609/W020260903337826172586.pdf": {
+   "doc_id": "t20260903_1164989",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202609/W020260903337826172586.pdf",
+   "sha1": "1436e6e6bc36",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 2,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260915_1166326|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202609/W020260915506550208023.pdf": {
+   "doc_id": "t20260915_1166326",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202609/W020260915506550208023.pdf",
+   "sha1": "892745c55883",
+   "parsed_at": "2026-09-27T22:08:54",
+   "records": 1,
+   "mode": "rule",
+   "llm": true
+  },
+  "t20260922_1170491|https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202609/W020260922515476036999.pdf": {
+   "doc_id": "t20260922_1170491",
+   "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk09/202609/W020260922515476036999.pdf",
+   "sha1": "846850f1c501",
+   "parsed_at": "2026-09-27T22:08:55",
+   "records": 26,
+   "mode": "rule+llm",
+   "llm": true
+  }
+ }
+}
